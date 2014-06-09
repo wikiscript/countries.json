@@ -1,0 +1,59 @@
+{{Infobox football biography
+| name           = Thiago Silva
+| image          = Thiago Silva (cropped).jpg
+| caption        = Silva with [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in 2013
+| fullname       = Thiago Emiliano da Silva
+| birth_date     = {{Birth date and age|1984|9|22|df=y}}
+| birth_place    = [[Rio de Janeiro]], Brazil
+| height         = {{convert|abbr=on|1.83|m|ftin}}<ref>{{cite web|title=Thiago Silva|url=http://www.fifa.com/confederationscup/players/player=289964/index.html|work=fifa.com|publisher=[[FIFA]]|accessdate=21 January 2014}}</ref>
+| position       = [[Defender (association football)#Centre-back|Centre back]]
+| currentclub    = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| clubnumber     = 2
+| youthyears1    = 1998
+| youthclubs1    = [[Fluminense Football Club|Fluminense]]
+| youthyears2    = 2000–2001
+| youthclubs2    = Barcelona-RJ
+| youthyears3    = 2001–2002
+| youthclubs3    = [[Fluminense Football Club|Fluminense]]
+| years1         = 2002-2003
+| clubs1         = [[Pedrabranca Futebol Clube|RS Futebol]]
+| caps1          = 25
+| goals1         = 2
+| years2         = 2003-2004
+| clubs2         = [[Esporte Clube Juventude|Juventude]]
+| caps2          = 27
+| goals2         = 3
+| years3         = 2004–2005
+| clubs3         = [[F.C. Porto|Porto]]
+| caps3          = 0
+| goals3         = 0
+| years4         = 2005–2006
+| clubs4         = [[FC Dynamo Moscow|Dynamo Moscow]]
+| caps4          = 0
+| goals4         = 0
+| years5         = 2006–2008
+| clubs5         = [[Fluminense Football Club|Fluminense]]
+| caps5          = 81
+| goals5         = 6
+| years6         = 2009–2012
+| clubs6         = [[A.C. Milan|Milan]]
+| caps6          = 93
+| goals6         = 5
+| years7         = 2012–
+| clubs7         = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| caps7          = 50
+| goals7         = 3
+| nationalyears1 = 2008–2012
+| nationalteam1  = [[Brazil Olympic football team|Brazil U23]]
+| nationalcaps1  = 8
+| nationalgoals1 = 0
+| nationalyears2 = 2008–
+| nationalteam2  = [[Brazil national football team|Brazil]]
+| nationalcaps2  = 46
+| nationalgoals2 = 2
+| medaltemplates = {{MedalCountry| {{BRA}}}} {{MedalSport|Men's [[Football at the Summer Olympics|Football]]}}
+{{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Football at the 2012 Summer Olympics - Men's tournament|Team Competition]]}}
+{{MedalBronze|[[2008 Summer Olympics|2008 Beijing]]|[[Football at the 2008 Summer Olympics - Men's tournament|Team Competition]]}}
+| pcupdate       = 25 April 2014
+| ntupdate       = 6 June 2014
+}}

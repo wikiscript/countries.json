@@ -1,0 +1,30 @@
+{{Infobox football biography
+| name = Hulk
+| image = Hulk 2012 bigger.jpg
+| image_size = 250
+| caption = Hulk playing for [[FC Zenit Saint Petersburg|Zenit]] in 2012
+| fullname = Givanildo Vieira de Souza
+| birth_date = {{birth date and age|df=yes|1986|7|25}}
+| birth_place = [[Campina Grande]], Brazil
+| height = {{convert|1.80|m|ftin|0|abbr=on}}<ref>{{cite web|title=Hulk|url=http://www.fifa.com/confederationscup/players/player=318172/index.html|work=fifa.com|publisher=[[FIFA]]|accessdate=21 January 2014}}</ref>
+| currentclub = <!-- DO NOT ADD NEW CLUB UNTIL HE IS OFFICIALLY ANNOUNCED BY NEW CLUB. ALL SUCH EDITS WILL BE REMOVED AND YOU MAY BE BLOCKED FROM EDITING-->[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]<!-- DO NOT ADD NEW CLUB UNTIL HE IS OFFICIALLY ANNOUNCED BY NEW CLUB. ALL SUCH EDITS WILL BE REMOVED AND YOU MAY BE BLOCKED FROM EDITING-->
+| clubnumber = 7
+| position = [[Forward (association football)|Forward]] / [[Winger (association football)|Winger]]
+| youthyears1 = 2001–2002 | youthclubs1 = [[Vilanovense F.C.|Vilanovense]]
+| youthyears2 = 2002      | youthclubs2 = [[São Paulo FC|São Paulo]]
+| youthyears3 = 2003–2004 | youthclubs3 = [[Esporte Clube Vitória|Vitória]]
+| years1 = 2004–2005 | clubs1 = [[Esporte Clube Vitória|Vitória]] | caps1 = 1 | goals1 = 0
+| years3 = 2005–2008 | clubs3 = [[Kawasaki Frontale]] | caps3 = 11 | goals3 = 1
+| years4 = 2006 | clubs4 = → [[Consadole Sapporo]] (loan) | caps4 = 38 | goals4 = 25
+| years5 = 2007 | clubs5 = → [[Tokyo Verdy]] (loan) | caps5 = 42 | goals5 = 37
+| years6 = 2008 | clubs6 = [[Tokyo Verdy]] | caps6 = 13 | goals6 = 7
+| years7 = 2008–2012 | clubs7 = [[F.C. Porto|Porto]] | caps7 = 99 | goals7 = 54
+| years8 = 2012– | clubs8 = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] | caps8 = 42 | goals8 =  23 <!--National league only-->
+<!-- DO NOT ADD NEW CLUB UNTIL HE IS OFFICIALLY ANNOUNCED BY NEW CLUB. ALL SUCH EDITS WILL BE REMOVED AND YOU MAY BE BLOCKED FROM EDITING-->
+| nationalyears1 = 2012 | nationalteam1 = [[Brazil national under-23 football team|Brazil Olympic]]              | nationalcaps1 = 6 | nationalgoals1 = 1
+| nationalyears2 = 2009– | nationalteam2 = [[Brazil national football team|Brazil]] | nationalcaps2 =  35 | nationalgoals2 = 9
+| pcupdate = 15 May 2014
+| ntupdate = 6 June 2014
+| medaltemplates = {{MedalCountry| {{BRA}}}} {{MedalSport|Men's [[Football at the Summer Olympics|Football]]}}
+{{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Football at the 2012 Summer Olympics - Men's tournament|Team Competition]]}}
+}}

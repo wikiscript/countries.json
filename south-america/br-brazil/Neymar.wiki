@@ -1,0 +1,31 @@
+{{Infobox football biography
+| name                = Neymar
+| image               = Neymargoldenball.jpg
+| image_size          = 
+| caption             = Neymar with Brazil, holding the [[2013 FIFA Confederations Cup#Awards|Golden Ball]] for [[Most Valuable Player|best player]] at the [[2013 FIFA Confederations Cup]].
+| fullname            = Neymar da Silva Santos Júnior<ref name="Neymar">{{cite web|url=http://espnfc.com/player/_/id/132948/neymar-da-silva-santos-j%C3%BAnior?cc=3888|title=Neymar|publisher=ESPN}}</ref>
+| birth_date          = {{Birth date and age|1992|02|05|df=y}}<ref name="Neymar" />
+| birth_place         = [[Mogi das Cruzes]], Brazil<ref name="Neymar" />
+| height              = {{convert|1.75|m|ftin|0|abbr=on}}<ref>[http://www.fcbarcelona.com/football/first-team/staff/players/neymar-jr "Neymar Jr. Profile"]. FC Barcelona.com. Retrieved 9 May 2014</ref>
+| position            = [[Forward (association football)|Forward]], [[Midfielder#Winger|winger]]
+| currentclub         = [[FC Barcelona|Barcelona]]
+| clubnumber          = 11
+| youthyears1         = 1999–2003 | youthclubs1 = [[Associação Atlética Portuguesa (Santos)|Portuguesa Santista]]
+| youthyears2         = 2003–2009 | youthclubs2 = [[Santos FC|Santos]]
+| years1              = 2009–2013
+| clubs1              = [[Santos FC|Santos]]
+| caps1               = 103 <!--ONLY LEAGUE APPS & GOALS-->
+| goals1              = 54 <!--ONLY LEAGUE APPS & GOALS-->
+| years2              = 2013–
+| clubs2              = [[FC Barcelona|Barcelona]]
+| caps2               = 26 <!--ONLY LEAGUE APPS & GOALS-->
+| goals2              = 9<!--ONLY LEAGUE APPS & GOALS-->
+| nationalyears1      = 2009     | nationalteam1 = [[Brazil national under-17 football team|Brazil U17]] | nationalcaps1 = 3  | nationalgoals1 = 1
+| nationalyears2      = 2011     | nationalteam2 = [[Brazil national under-20 football team|Brazil U20]] | nationalcaps2 = 7  | nationalgoals2 = 9
+| nationalyears3      = 2012     | nationalteam3 = [[Brazil national under-23 football team|Brazil U23]] | nationalcaps3 = 7  | nationalgoals3 = 4
+| nationalyears4      = 2010–    | nationalteam4 = [[Brazil national football team|Brazil]]              | nationalcaps4 = 49 | nationalgoals4 = 31
+| medaltemplates = {{MedalCountry| {{BRA}}}} {{MedalSport|Men's [[Football at the Summer Olympics|Football]]}}
+{{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Football at the 2012 Summer Olympics - Men's tournament|Team Competition]]}}
+| club-update         = 22:36, 17 May 2014 (UTC)
+| nationalteam-update = 19:22, 6 June 2014 (UTC)
+}}

@@ -1,0 +1,48 @@
+{{Infobox football biography
+| name        = Sergio Agüero
+| image       = Suisse vs Argentine - Sergio Agüero (cropped).jpg
+| image_size  = 250
+| caption     = Agüero representing Argentina against Switzerland in 2012
+| fullname    = Sergio Leonel Agüero Del Castillo<ref name="Official">{{cite web|url=http://www.sergioaguero.com/EN/ficha|title=Fact Sheet|publisher=Official Site|accessdate=20 February 2014}}</ref>
+| birth_date  = {{Birth date and age|1988|6|2|df=y}}<ref name="Official"/>
+| birth_place = [[Buenos Aires]], [[Argentina]]<ref>{{cite web|url=http://www.sergioaguero.com/EN/historia|title=Bio|publisher=Official Site|accessdate=20 February 2014}}</ref>
+| height      = {{convert|1.73|m|ftin|0|abbr=on}}<ref name="Official"/>
+| position    = [[Striker (association football)|Striker]]
+| currentclub = [[Manchester City F.C.|Manchester City]]
+| clubnumber  = 16
+| youthyears1 = 1997–2003 
+| youthclubs1 = [[Club Atlético Independiente|Independiente]]
+| years1 = 2003–2006 
+| clubs1 = [[Club Atlético Independiente|Independiente]] 
+| caps1  = 54 
+| goals1 = 23
+| years2 = 2006–2011 
+| clubs2 = [[Atlético Madrid]]                           
+| caps2  = 175 
+| goals2 = 74
+| years3 = 2011–     
+| clubs3 = [[Manchester City F.C.|Manchester City]]      
+| caps3  = 87 
+| goals3 = 52
+| nationalyears1 = 2004      
+| nationalteam1  = [[Argentina national under-17 football team|Argentina U17]]
+| nationalcaps1  = 5   
+| nationalgoals1 = 3
+| nationalyears2 = 2005–2007 
+| nationalteam2  = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps2  = 7   
+| nationalgoals2 = 6
+| nationalyears3 = 2008      
+| nationalteam3  = [[Argentina national under-23 football team|Argentina Olympic Team]]
+| nationalcaps3  = 5   
+| nationalgoals3 = 2
+| nationalyears4 = 2006–     
+| nationalteam4  = [[Argentina national football team|Argentina]]
+| nationalcaps4  = 50  
+| nationalgoals4 = 21
+| medaltemplates = {{MedalCountry|{{ARG}}}}
+{{MedalSport | Men's [[Football at the Summer Olympics|Football]]}}
+{{MedalGold  | [[2008 Summer Olympics|2008 Beijing]] | [[Football at the 2008 Summer Olympics - Men's tournament|Team Competition]]}}
+| club-update    = 22:42, 3 June 2014 (UTC)
+| nationalteam-update = 22:42, 3 June 2014 (UTC)
+}}

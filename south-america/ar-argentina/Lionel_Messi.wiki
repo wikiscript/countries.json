@@ -1,0 +1,33 @@
+{{Infobox football biography
+| name           = Lionel Messi
+| image          = Lionel Messi Player of the Year 2011.jpg
+| caption        = Messi playing for [[FC Barcelona|Barcelona]] at the [[2011 FIFA Club World Cup]]
+| fullname       = Lionel Andrés Messi<ref name="barca">{{cite web|title=10 Messi |url=http://www.fcbarcelona.com/football/first-team/staff/players/messi |work=fcbarcelona.com |publisher=FC Barcelona |accessdate=6 January 2012 }}</ref>
+| birth_date     = {{birth date and age|1987|6|24|df=y}}<ref name="barca"/>
+| birth_place    = [[Rosario, Santa Fe|Rosario]], Argentina<ref name="barca"/>
+| height         = {{convert|1.69|m|ftin|0|abbr=on}}<ref name="barca"/>
+| position       = [[Forward (association football)|Forward]]
+| currentclub    = [[FC Barcelona|Barcelona]]
+| clubnumber     = 10
+| youthyears1    = 1995–2000 |youthclubs1 = [[Newell's Old Boys]]
+| youthyears2    = 2000–2003 |youthclubs2 = [[FC Barcelona|Barcelona]]
+| years1         = 2003–2004 |clubs1 = [[FC Barcelona C|Barcelona C]] |caps1 = 10  |goals1 = 5
+| years2         = 2004–2005 |clubs2 = [[FC Barcelona B|Barcelona B]] |caps2 = 22  |goals2 = 6
+| years3         = 2004–     |clubs3 = [[FC Barcelona|Barcelona]]     |caps3 = 276 |goals3 = 243
+| nationalyears1 = 2004–2005 |nationalteam1 = [[Argentina national under-20 football team|Argentina U20]] |nationalcaps1 = 18 |nationalgoals1 = 14
+| nationalyears2 = 2007–2008 |nationalteam2 = [[Argentina national under-23 football team|Argentina U23]] |nationalcaps2 = 5  |nationalgoals2 = 2
+| nationalyears3 = 2005–     |nationalteam3 = [[Argentina national football team|Argentina]]              |nationalcaps3 = 86 |nationalgoals3 = 38 <!-- update if game for Argentina -->
+| medaltemplates = 
+{{MedalCountry|{{ARG}}}}
+{{MedalSport|Men's [[Football]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}} 
+{{MedalGold|[[Football at the 2008 Summer Olympics – Men's tournament|2008 Beijing]]|[[Argentina national under-23 football team|Olympic Team]]}} 
+{{MedalCompetition|[[Copa América]]}} 
+{{Medal|RU|[[2007 Copa América|2007 Venezuela]]|[[Argentina national football team|Team]]}}
+{{MedalCompetition|[[FIFA U-20 World Cup]]}} 
+{{Medal|Winner|[[2005 FIFA World Youth Championship|2005 Netherlands]]|[[Argentina national under-20 football team|U-20 Team]]}}
+{{MedalCompetition|[[U-20 South American Championship]]}}
+{{Medal|3rd|[[U-20 South American Championship|2005 Colombia]]|[[Argentina national under-20 football team|U-20 Team]]}}
+| pcupdate       = 01:38, 17 May 2014 (UTC)
+| ntupdate       = 20:46, 7 June 2014 (UTC)
+}}

@@ -1,0 +1,22 @@
+{{Infobox football biography
+| name           = Júlio César
+| image          = Júlio César at Internazionale.jpg
+| image_size     = 200
+| caption        = Júlio César with [[Inter Milan|Internazionale]] in 2011
+| fullname       = Júlio César Soares de Espíndola
+| height         = {{convert|186|cm|ftin|abbr=on}}<ref>{{cite web|title=Julio Cesar - Profile|url=http://www.fifa.com/confederationscup/players/player=179038/index.html|work=Confederation Cup Brazil 2013|publisher=[[FIFA]].com|accessdate=21 January 2014}}</ref>
+| birth_date     = {{birth date and age|1979|9|3|df=y}}
+| birth_place    = [[Duque de Caxias, Rio de Janeiro|Duque de Caxias]], Brazil
+| currentclub    = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| clubnumber     = 30
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1    = | youthclubs1 = Grajau CC
+| years1        = 1998–2005 | clubs1 = [[Clube de Regatas do Flamengo|Flamengo]] | caps1 = 130 | goals1 = 0
+| years2        = 2005–2012 | clubs2 = [[Inter Milan|Internazionale]]    | caps2 = 228 | goals2 = 0
+| years3         = 2005     |clubs3      = → [[A.C. ChievoVerona|Chievo]] (loan) |caps3 = 0   |goals3 = 0
+| years4        = 2012–     | clubs4 = [[Queens Park Rangers F.C.|Queens Park Rangers]] | caps4 =  24 | goals4 = 0
+| years5         = 2014  |clubs5      = → [[Toronto FC]] (loan) |caps5 = 7  |goals5 = 0
+| nationalyears1 = 2004– | nationalteam1  = [[Brazil national football team|Brazil]] | nationalcaps1 = 80 | nationalgoals1 = 0
+| club-update       = 00:23, 21 April 2014 (UTC)
+| nationalteam-update = 6 June 2014 (UTC)
+}}
