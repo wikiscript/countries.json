@@ -1,0 +1,126 @@
+{{Infobox country
+| conventional_long_name      = French Republic
+| common_name                 = France
+| native_name                 = {{native name|fr|la République française|nbsp=omit}}<ref name="formal country name">{{cite web |title=France |url=https://unstats.un.org/unsd/geoinfo/geonames/ |website=UNGEGN World Geographical Names |publisher=United Nations Group of Experts on Geographical Names |access-date=27 November 2020 |location=New York, NY}}</ref>
+
+| image_flag                  = Flag of France.svg
+| image_coat                  = Coat of arms of the French Republic.svg
+| symbol_width                = 75px
+| symbol_type                 = National emblem
+| other_symbol                = <div style="padding:0.3em;">[[File:Great Seal of France.svg|100px|Obverse]] [[File:Great Seal of France (reverse).svg|100px|Reverse]]</div>
+| other_symbol_type           = [[Great Seal of France|Great Seal]]:
+| national_motto              = "{{lang|fr|[[Liberté, égalité, fraternité]]}}"
+| englishmotto                = "Liberty, Equality, Fraternity"
+| national_anthem             = "[[La Marseillaise]]"<br/>
+<div style="display:inline-block;margin-top:0.4em;">[[File:La Marseillaise.ogg|alt=sound clip of the Marseillaise French national anthem]]</div>
+
+| image_map                   = {{Switcher|[[File:EU-France (orthographic projection).svg|frameless]]|Show globe|[[File:EU-France.svg|upright=1.15|frameless]]|Show map of Europe|[[File:France in the World (+Antarctica claims).svg|frameless]]|Show map of French overseas territories|default=2}}
+| map_caption = {{map caption |location_color=dark green |country=[[metropolitan France]] |region=Europe |region_color=dark grey |subregion=the European Union |subregion_color=green (Note the overseas department of [[French Guiana]] highlighted on the extreme lefthand side of the globe image.)|unbulleted list |Location of the territory of the French Republic (red) |[[Adélie Land]] (Antarctic claim; hatched)}}
+| capital                     = [[Paris]]
+| coordinates                 = {{Coord|48|51|N|2|21|E|type:city}}
+| largest_city                = capital
+| languages_type              = Official language<br/>{{nobold|and national language}}
+| languages                   = [[French language|French]]{{efn-ur|name=one|For information about regional languages see [[Languages of France]].}}{{infobox|child=yes
+ | regional_languages = See [[Languages of France]]
+ | label1 = Nationality {{nobold|(2018)}}
+ | data1 = {{unbulleted list |93.0% [[French people|French citizens]] |7.0% foreign nationals<ref>https://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do {{dead link|date=March 2020}}</ref>}}
+}}
+| religion_year               = 2019 <ref>[https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Survey/getSurveyDetail/instruments/SPECIAL/surveyKy/2251 Special Eurobarometer 493, European Union: European Commission, September 2019, pages 229-230] Retrieved 17 January 2020. The question asked was "Do you consider yourself to be...?" With a card showing: Catholic, Orthodox Christian, Protestant, Other Christian, Jewish, Muslim - Shia, Muslim - Sunni, Other Muslim, Sikh, Buddhist, Hindu, Atheist, Non believer/Agnostic and Other. Also space was given for Refusal (SPONTANEOUS) and Don't Know. On the other hand, Sikh and Hindu did not reach the 1% threshold.</ref>
+| religion              = {{ublist|item_style=white-space:nowrap;
+  |51% [[Christianity]]
+  |— 45% [[Catholic Church in France|Catholicism]]
+  |— 6% Other [[List of Christian denominations|Christian]]
+  |40% [[Irreligion in France|No religion]]
+  |5% [[Islam in France|Islam]]
+  |3% Other
+  |1% Undeclared
+  }}
+| demonym                     = French
+| government_type             = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[Republic|constitutional republic]]
+| leader_title1               = [[President of France|President]]
+| leader_name1                = [[Emmanuel Macron]]
+| leader_title2               = [[Prime Minister of France|Prime Minister]]
+| leader_name2                = [[Jean Castex]]
+| leader_title3               = [[List of presidents of the Senate of France|President of the Senate]]
+| leader_name3                = [[Gérard Larcher]]
+| leader_title4               = [[List of presidents of the National Assembly of France|President of the National Assembly]]
+| leader_name4                = [[Richard Ferrand]]
+| legislature                 = [[French Parliament|Parliament]]
+| upper_house                 = [[Senate (France)|Senate]]
+| lower_house                 = [[National Assembly (France)|National Assembly]]
+
+| sovereignty_type            = [[History of France|Establishment]]
+| established_event1          = Reign of [[Clovis I]] as [[List of Frankish kings|King of the Franks]]
+| established_date1           = 500
+| established_event2          = [[Treaty of Verdun]]{{efn-ur|Established the [[West Francia|Kingdom of the West Franks]] (the [[Kingdom of France]]) from the [[Carolingian Empire]] of Francia.}}
+| established_date2           = August 843
+| established_event3          = [[Proclamation of the abolition of the monarchy|Republic established]]
+| established_date3           = 22 September 1792
+| established_event4          = [[Enlargement of the European Union#Founding members|Founded]] the [[European Economic Community|EEC]]{{efn-ur|[[European Union]] since 1993.}}
+| established_date4           = 1 January 1958
+| established_event5          = [[Constitution of France|Current&nbsp;constitution]]{{efn-ur|Established the [[French Fifth Republic|Fifth Republic]]}}
+| established_date5           = 4 October 1958
+
+| area_km2                    = 640,679
+| area_footnote               = {{wbr}}<ref>{{cite book|chapter-url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2012/Table03.pdf|title=Demographic Yearbook|chapter=Table 3: Population by sex, rate of population increase, surface area and density|publisher=United Nations Statistics Division|year=2012|access-date=4 September 2017|url=http://unstats.un.org/unsd/demographic/products/dyb/dyb2012.htm}}</ref>
+| area_rank                   = 42nd <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi                  = 248,600 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers|WP:MOSNUM]] -->
+| area_label2                 = [[Metropolitan France]] ([[Institut géographique national|IGN]])
+| area_data2                  = {{cvt|551695|km2}}{{wbr}}{{efn-ur|name=three|French [[Institut géographique national|National Geographic Institute]] data, which includes bodies of water.}} ([[List of countries and dependencies by area|50th]])
+| area_label3                 = Metropolitan France ([[Cadastre]])
+| area_data3                  = {{cvt|543940.9|km2}}{{wbr}}{{efn-ur|name=four|French [[Land registration|Land Register]] data, which exclude lakes, ponds and [[glacier]]s larger than 1 km<sup>2</sup> (0.386 sq mi or 247 acres) as well as the estuaries of rivers.}}{{wbr}}<ref>{{cite journal|url=http://www.insee.fr/fr/themes/comparateur.asp?codgeo=METRODOM-1|title=France Métropolitaine|publisher=INSEE|year=2011|url-status=dead|archiveurl=https://web.archive.org/web/20150828051307/http://www.insee.fr/fr/themes/comparateur.asp?codgeo=METRODOM-1|archive-date=28 August 2015}}</ref> ([[List of countries and dependencies by area|50th]])
+
+| population_estimate         = {{increase}} 67,081,000 <ref>{{cite web|url=https://www.insee.fr/en/statistiques/serie/001641607|title=Demography – Population at the beginning of the month – France|year=2019 |website=Insee|access-date=31 July 2019}}</ref>
+| percent_water               = 0.86 (as of 2015) <ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=Organisation for Economic Co-operation and Development (OECD) |url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate_year    = June 2020
+| population_estimate_rank    = 20th
+| population_label2           = Density
+| population_data2            = {{pop density|67076000|643801|km2}} ([[List of countries and territories by population density|106th]])
+| population_label3           = Metropolitan France, estimate {{as of|lc=y|June 2020}}
+| population_data3            = {{increase}} 64,910,000 <ref>{{cite web|url=https://www.insee.fr/en/statistiques/serie/000436387|title=Demography – Population at the beginning of the month – Metropolitan France |year=2019|website=insee.fr|access-date=31 July 2019}}</ref> ([[List of countries and dependencies by population|22nd]])
+| population_density_km2      = 116
+| population_density_sq_mi    = 301 <!-- Do not remove per [[Wikipedia:Manual of Style/Dates and numbers|WP:MOSNUM]] -->
+| pop_den_footnote            =
+| population_density_rank     = 89th
+
+| GDP_PPP                     = {{increase}} US$2.954 trillion <ref name="IMFWEOFR">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=132,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, October 2020|publisher=International Monetary Fund |website=imf.org|access-date=20 October 2020}}</ref>
+| GDP_PPP_year                = 2020
+| GDP_PPP_rank                = 10th
+| GDP_PPP_per_capita          = {{increase}} US$45,454 <ref name="IMFWEOFR"/>
+| GDP_PPP_per_capita_rank     = 26th
+| GDP_nominal                 = {{decrease}} US$2.551 trillion <ref name="IMFWEOFR"/>
+| GDP_nominal_year            = 2020
+| GDP_nominal_rank            = 7th
+| GDP_nominal_per_capita      = {{decrease}} US$39,257 <ref name="IMFWEOFR"/>
+| GDP_nominal_per_capita_rank = 20th
+
+| Gini                        = 28.5 <!-- number only -->
+| Gini_year                   = 2018
+| Gini_change                 = decrease <!-- increase/decrease/steady -->
+| Gini_ref                    = <ref>{{cite web|url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1|title=Gini coefficient of equivalised disposable income – EU-SILC survey|publisher=Eurostat|website=ec.europa.eu/eurostat|access-date=15 October 2019}}</ref>
+| Gini_rank                   =
+
+| HDI                         = 0.891 <!-- number only -->
+| HDI_year                    = 2018 <!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change                  = increase <!-- increase/decrease/steady -->
+| HDI_ref                     = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|publisher=United Nations Development Programme|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank                    = 26th
+
+| currency                    = {{unbulleted list
+| [[Euro]] ([[Euro sign|€]]) ([[ISO 4217|EUR]]){{wbr}}{{efn-ur|name=six|Whole of the French Republic except the overseas territories in the Pacific Ocean.}}
+| [[CFP franc]] (XPF){{wbr}}{{efn-ur|name=seven|French overseas territories in the Pacific Ocean only.}}
+}}
+
+| time_zone                   = [[Central European Time]]
+| utc_offset                  = +1
+| utc_offset_DST              = +2
+| time_zone_DST               = [[Central European Summer Time]]{{efn-ur|name=eight|Daylight saving time is observed in metropolitan France and [[Saint Pierre and Miquelon]] only.}}
+| DST_note                    = {{smaller|Note: various other time zones are observed in overseas France.{{efn-ur|name=nine|Time zones across the French Republic span from UTC-10 ([[French Polynesia]]) to UTC+12 ([[Wallis and Futuna]]).}}<br/> Although France is in [[Western European Time]]/[[Coordinated Universal Time|UTC]] (Z) zone, since 25 February 1940, upon [[German military administration in occupied France during World War II|WW2 German occupation]], [[Central European Time]]/[[UTC+01:00]] was enforced as standard time,[https://www.timeanddate.com/time/zone/france/paris] with a +0:50:39 offset (and +1:50:39 during [[Daylight saving time|DST]]) from Paris [[Local mean time|LMT]] (UTC+0:09:21).}}
+| date_format                 = dd/mm/yyyy ([[Anno Domini|AD]])
+| electricity                 = [[Mains electricity by country|230 V–50 Hz]]
+| drives_on                   = right
+| calling_code                = [[Telephone numbers in France|+33]]{{efn-ur|name=eleven|The overseas regions and collectivities form part of the [[Telephone numbers in France|French telephone numbering plan]], but have their own country calling codes: [[Guadeloupe]] +590; [[Martinique]] +596; [[French Guiana]] +594, [[Réunion]] and [[Mayotte]] +262; [[Saint Pierre and Miquelon]] +508. The overseas territories are not part of the French telephone numbering plan; their country calling codes are: [[New Caledonia]] +687, [[French Polynesia]] +689; [[Wallis and Futuna]] +681}}
+| cctld                       = [[.fr]]{{efn-ur|name=ten|In addition to [[.fr]], several other Internet TLDs are used in French overseas ''départements'' and territories: [[.re]], [[.mq]], [[.gp]], [[.tf]], [[.nc]], [[.pf]], [[.wf]], [[.pm]], [[.gf]] and [[.yt]]. France also uses [[.eu]], shared with other members of the European Union. The [[.cat]] domain is used in [[Catalan Countries|Catalan-speaking territories]].}}
+| footnotes                   = Source gives area of metropolitan France as 551,500 km<sup>2</sup> (212,900 sq mi) and lists overseas regions separately, whose areas sum to 89,179 km<sup>2</sup> (34,432 sq mi). Adding these give the total shown here for the entire French Republic. The CIA reports the total as 643,801 km<sup>2</sup> (248,573 sq mi).
+| today                       =
+}}

@@ -1,0 +1,115 @@
+{{Infobox country
+| conventional_long_name = Republic of Austria
+| common_name            = Austria
+| native_name            = {{native name|de|Republik Österreich}}
+| image_flag             = Flag of Austria.svg
+| image_coat             = Austria Bundesadler.svg
+| national_motto         =
+| national_anthem        = {{unbulleted list
+ | {{native name|de|[[National anthem of Austria|Bundeshymne der Republik Österreich]]}}
+ | ({{Lang-en|"National Anthem of the Republic of Austria"}})
+ | [[File:Land der Berge Land am Strome instrumental.ogg|center]]
+ }}
+| image_map              = EU-Austria.svg
+| map_caption            = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green |legend=EU-Austria.svg}}
+| capital                = [[Vienna]]
+| coordinates            = {{Coord|48|12|N|16|21|E|type:city_region:AT}}
+| largest_city           = capital
+| languages              = [[German language|German]]{{ref label|aaa|a}}{{ref label|bbb|b}}
+| languages_type         = [[Official language]]<br /> {{nobold|and [[national language]]}}
+| languages2             = {{plainlist|
+* [[Hungarian language|Hungarian]]
+* [[Slovene language|Slovene]]
+* [[Burgenland Croatian]]<ref>{{cite web|url=https://www.demokratiewebstatt.at/thema/sprachen/amtssprachen-in-oesterreich/die-verschiedenen-amtssprachen-in-oesterreich/|title=Die verschiedenen Amtssprachen in Österreich|website=DemokratieWEBstatt.at|access-date=23 May 2018|archive-url=https://web.archive.org/web/20180524084441/https://www.demokratiewebstatt.at/thema/sprachen/amtssprachen-in-oesterreich/die-verschiedenen-amtssprachen-in-oesterreich/|archive-date=24 May 2018|url-status=live|df=dmy-all}}</ref><ref>{{cite web |url=http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR40066723 |publisher=Rechtsinformationssystem des Bundes |title=Regional Languages of Austria |year=2013 |access-date=27 July 2013 |archive-url=https://web.archive.org/web/20131018115726/http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR40066723 |archive-date=18 October 2013 |url-status=live |df=dmy-all }}</ref>
+ }}
+| languages2_type        = Recognised languages
+| ethnic_groups          = {{unbulleted list
+  | 81.1% [[Austrians]]<ref>{{cite web |url=http://medienservicestelle.at/migration_bewegt/wp-content/uploads/2012/07/IBIB_2012_Integrationsbericht.pdf |publisher=Statistik Austria |title=Kommission für Migrations und Integrationsforschung der Österreichischen Akademie der Wissenschaften |year=2012 |page=23 |trans-title=Commission for Migration and Integration Research of the Austrian Academy of Sciences |access-date=17 July 2012 |archive-url=https://web.archive.org/web/20171014093350/http://medienservicestelle.at/migration_bewegt/wp-content/uploads/2012/07/IBIB_2012_Integrationsbericht.pdf |archive-date=14 October 2017 |url-status=live |df=dmy-all }}</ref>
+  | 6.3% Ex-[[Yugoslavs]]
+  | 2.7% [[Germans]]
+  | 2.2% [[Turks in Austria|Turks]]
+  | 8.7% Other
+ }}
+| ethnic_groups_year = 2012
+| religion_year = 2018<ref>{{cite web |url= https://www.cia.gov/library/publications/the-world-factbook/geos/au.html |title=Central Intelligence Agency|author=<!--Staff writer(s); no by-line.--> |date= 7 February 2020|work=The World Factbook|publisher=Central Intelligence Agency|access-date=23 February 2020}}</ref>
+| religion               = {{ublist |item_style=white-space:nowrap; |69.0% [[Christianity]] |—57.0% [[Catholic Church in Austria|Catholicism]] |—8.7% [[Eastern Orthodox Church|Eastern Orthodoxy]] |—3.3% Other [[List of Christian denominations|Christian]] |22.0% [[Irreligion|No religion]] |7.9% [[Islam in Austria|Islam]] |1.1% [[Religion in Austria|Other]]}}
+| demonym                = [[Austrians|Austrian]]
+| government_type        = [[Federal republic|Federal]] [[parliamentary republic]]
+| leader_title1          = [[President of Austria|President]]
+| leader_name1           = [[Alexander Van der Bellen]]
+| leader_title2          = [[Chancellor of Austria|Chancellor]]
+| leader_name2           = [[Sebastian Kurz]]
+| leader_title3          = [[Vice Chancellor of Austria|Vice Chancellor]]
+| leader_name3           = [[Werner Kogler]]
+| legislature            = [[Austrian Parliament|Parliament]]
+| upper_house            = [[Federal Council (Austria)|Federal Council]]
+| lower_house            = [[National Council (Austria)|National Council]]
+| sovereignty_type       = Establishment history
+| established_event1     = [[Margraviate of Austria]]
+| established_date1      = 976
+| established_event2     = [[Duchy of Austria]]
+| established_date2      = 1156
+| established_event3     = [[Archduchy of Austria]]
+| established_date3      = 1453
+| established_event4     = [[Austrian Empire]]
+| established_date4      = 1804
+| established_event5     = [[Austria-Hungary|Austro-Hungarian Empire]]
+| established_date5      = 1867
+| established_event6     = [[First Republic of Austria|First Republic]]
+| established_date6      = 1918
+| established_event7     = [[Federal State of Austria|Federal State]]
+| established_date7      = 1934
+| established_event8     = [[Anschluss]]
+| established_date8      = 1938
+| established_event9     = [[Second Austrian Republic|Second Republic]]
+| established_date9      = since 1945
+| established_event10    = [[Austrian State Treaty|State Treaty]] in effect
+| established_date10     = 27 July 1955
+| established_event11    = [[United Nations Security Council Resolution 109|Admitted to the]] [[United Nations]]
+| established_date11     = 14 December 1955
+| established_event12    = [[1995 enlargement of the European Union|Joined]] the [[European Union]]
+| established_date12     = 1 January 1995
+| area_km2               = 83,879
+| area_rank = 113th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 32,385.86 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = 0.84 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate    = {{increase}}8,902,600<ref name="statistik-population">{{cite web|title=Population by Year-/Quarter-beginning|url=http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstand_und_veraenderung/bevoelkerung_zu_jahres-_quartalsanfang/023582.html|date=7 November 2018|access-date=12 June 2015|archive-url=https://web.archive.org/web/20150612161754/http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstand_und_veraenderung/bevoelkerung_zu_jahres-_quartalsanfang/023582.html|archive-date=12 June 2015|url-status=live|df=dmy-all}}</ref>
+| population_estimate_year = January 2020
+| population_estimate_rank = 98th
+| population_density_km2   = 106
+| population_density_sq_mi = 262.6 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank  = 106th
+| GDP_PPP                  = $461.432 billion<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=70&pr1.y=9&c=122&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Austria |publisher=[[International Monetary Fund]]|date=1 April 2018|access-date=23 July 2018}}</ref>
+| GDP_PPP_year             = 2018
+| GDP_PPP_rank             =
+| GDP_PPP_per_capita       = $51,936<ref name=imf2/>
+| GDP_PPP_per_capita_rank  = 17th
+| GDP_nominal              = $446,315 billion<ref name=imf2/>
+| GDP_nominal_year         = 2019
+| GDP_nominal_rank         = 27th
+| GDP_nominal_per_capita   = $50,277<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 15th
+| Gini                     = 27.5 <!-- number only -->
+| Gini_year                = 2019
+| Gini_change              = increase <!-- increase/decrease/steady -->
+| Gini_ref                 = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income - EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=19 June 2020 |archive-url=https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |archive-date=20 March 2019 |url-status=live |df=dmy-all }}</ref>
+| Gini_rank = 14th
+| HDI                      = 0.914 <!-- number only -->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change               = increase<!--increase/decrease/steady-->
+| HDI_ref                  = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank                 = 20th
+| currency                 = [[Euro]] ([[Euro sign|€]]){{ref label|ccc|c}}
+| currency_code            = EUR
+| time_zone                = [[Central European Time|CET]]
+| utc_offset               = +1
+| utc_offset_DST           = +2
+| time_zone_DST            = [[Central European Summer Time|CEST]]
+| drives_on                = right
+| calling_code             = [[Telephone numbers in Austria|+43]]
+| cctld                    = [[.at]]{{ref label|ddd|d}}
+| footnote_a               = {{note|aaa}} There is an official dictionary, the ''[[Österreichisches Wörterbuch]]'', published on commission by the [[Austrian Ministry of Education]].
+| footnote_b               = {{note|bbb}} [[Burgenland Croatian|Croatian]], [[Czech language|Czech]], [[Hungarian language|Hungarian]], [[Romani language|Romani]], [[Slovak language|Slovak]], and [[Slovene language|Slovene]] are officially recognised by the [[European Charter for Regional or Minority Languages|European Charter for Regional or Minority Languages (ECRML)]].
+| footnote_c               = {{note|ccc}} [[Austrian schilling]] before 1999; Virtual Euro since 1 January 1999; Euro since 1 January 2002.
+| footnote_d               = {{note|ddd}} The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+}}
