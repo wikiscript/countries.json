@@ -1,4 +1,4 @@
-#  `countries.json` - World Country Profiles from Wikipedia's Country Page Infoboxes in JSON
+#  `countries.json` - World Country Profiles Sourced from Wikipedia's Country Page Infoboxes Converted into JSON
 
 
 What are Wikipedia's Country Page Infoboxes?
