@@ -1,0 +1,96 @@
+{{Infobox country
+|conventional_long_name = Swiss Confederation
+|common_name = Switzerland
+|native_name =
+{{collapsible list
+|titlestyle   = background:transparent;text-align:center;line-height:normal;font-size:84%;
+|title  = {{resize|1.0 em|5 other official names}}
+|{{center|
+{{ubl|{{native name|de|{{nowrap|Schweizerische Eidgenossenschaft}}}}|{{native name|fr|Confédération suisse}}|{{native name|it|Confederazione Svizzera}}|{{native name|rm|Confederaziun svizra}}|{{native name|la|Confoederatio Helvetica}}
+ }}
+ }}
+}}
+|image_flag = Flag of Switzerland.svg{{!}}x95px
+|image_coat = Coat of Arms of Switzerland.svg
+|national_motto = {{small|(traditional)}}<br />{{native phrase|la|"[[Unus pro omnibus, omnes pro uno]]"|italics=off}}<br />{{small|"One for all, all for one"}}
+|national_anthem = "[[Swiss Psalm]]"<div style="padding-top:0.5em;">[[File:Swiss Psalm.ogg|center]]</div>
+|image_map = Europe-Switzerland.svg
+|map_caption = {{map caption |location_color=green |region=[[Europe]] |region_color=green and dark grey}}
+|capital = None {{small|(''[[de jure]]'')}}<br />[[Bern]] {{small|(''[[de facto]]'')}}<ref name=fedcit group=note/><ref name=Bundesstadt/><ref name=deFacto>{{cite journal |title=Die Hauptstadt existiert nicht |type=scientific article |last=Holenstein |first=André |volume=152 (Sonderfall Hauptstatdtregion) |journal=UniPress – Forschung und Wissenschaft an der Universität Bern |publisher=Department Communication, University of Berne |location=Berne |year=2012 |pages=16–19 |language=German |doi=10.7892/boris.41280 |quote=Als 1848 ein politisch-administratives Zentrum für den neuen Bundesstaat zu bestimmen war, verzichteten die Verfassungsväter darauf, eine Hauptstadt der Schweiz zu bezeichnen und formulierten stattdessen in Artikel 108: «Alles, was sich auf den Sitz der Bundesbehörden bezieht, ist Gegenstand der Bundesgesetzgebung.» Die Bundesstadt ist also nicht mehr und nicht weniger als der Sitz der Bundesbehörden. }}</ref>
+|coordinates = {{Coord|46|57|N|7|27|E|type:city}}
+|largest_city = [[Zürich]]
+|official_languages = [[German language|German]]<br />[[French language|French]]<br />[[Italian language|Italian]]<br />[[Romansh language|Romansh]]
+| religion_year               = 2018<ref name=SFOReligions>{{cite web |url= https://www.bfs.admin.ch/bfs/en/home/statistics/population/languages-religions/religions.html |title=Religions |type=official statistics |publisher=Federal Statistical Office FSO |date=2020 |location=Neuchâtel, Switzerland |accessdate=30 May 2020}}</ref>
+| religion              = {{ublist |item_style=white-space:nowrap; |65.5% [[Christianity]] |—35.8% [[Catholic Church in Switzerland|Roman Catholic]] |—23.8% [[Swiss Reformed Church|Swiss Reformed]] |—5.9% Other [[List of Christian denominations|Christian]] |26.3% [[Irreligion in Switzerland|Irreligious]] |5.3% [[Islam in Switzerland|Islam]] |1.6% Others |1.3% Unknown}}
+|demonym = {{lang-en|[[Swiss people|Swiss]]}},<br />{{lang-de|Schweizer(in)}},<br />{{lang-fr|Suisse(sse)}},<br />{{lang-it|svizzero/svizzera, or elvetico/elvetica}},<br />{{lang-rm|Svizzer/Svizra}}
+|government_type = [[Federalism|Federal]] [[semi-direct democracy]] under a [[multi-party]] assembly-independent<ref>{{cite journal |last1=Shugart |first1=Matthew Søberg |title=Semi-Presidential Systems: Dual Executive And Mixed Authority Patterns |journal=French Politics |date=December 2005 |volume=3 |issue=3 |pages=323–351 |doi=10.1057/palgrave.fp.8200087|s2cid=73642272 }}</ref><ref>{{cite journal |last=Elgie |first=Robert |title=Government Systems, Party Politics, and Institutional Engineering in the Round |journal=Insight Turkey |date=2016 |volume=18 |issue=4 |pages=79–92 |jstor=26300453 |issn=1302-177X}}</ref> [[Directorial system|directorial]] [[republic]]
+|leader_title1 = [[Swiss Federal Council|Federal Council]]
+|leader_name1 =
+ {{unbulleted list
+ | [[Simonetta Sommaruga]] {{small|([[President of the Swiss Confederation|President]])}}
+ | [[Guy Parmelin]] {{small|([[Vice President of the Swiss Confederation|Vice President]])}}
+ | [[Alain Berset]]
+ | [[Ueli Maurer]]
+ | [[Ignazio Cassis]]
+ | {{nowrap|[[Viola Amherd]]}}
+| [[Karin Keller-Sutter]]
+ }}
+|leader_title2 = {{nowrap|[[Federal Chancellor of Switzerland|Federal Chancellor]]}}
+|leader_name2 = [[Walter Thurnherr]]
+|legislature = [[Federal Assembly (Switzerland)|Federal Assembly]]
+|upper_house = [[Council of States (Switzerland)|Council of States]]
+|lower_house = [[National Council (Switzerland)|National Council]]
+|sovereignty_type = [[History of Switzerland|History]]
+|established_event1 = [[Foundation of the Old Swiss Confederacy|Foundation date]]
+|established_date1 = {{circa|1300}}<ref group=note>The original date of the [[Rütlischwur]] was 1307 (reported by [[Aegidius Tschudi]] in the 16th century) and is just one among several comparable treaties between more or less the same parties during that period. The date of the [[Federal Charter of 1291]] was selected in 1891 for the official celebration of the "Confederacy's 600th anniversary".</ref> (traditionally 1 August 1291)
+|established_event2 = [[Peace of Westphalia]]
+|established_date2 = 24 October 1648
+|established_event3 = [[Restoration (Switzerland)|Restoration]]
+|established_date3 = 7 August 1815
+|established_event4 = [[Switzerland as a federal state|Federal state]]
+|established_date4 = 12 September 1848<ref group=note>A solemn declaration of the [[Tagsatzung]] declared the Federal Constitution adopted on 12 September 1848. A resolution of the ''Tagsatzung'' of 14 September 1848 specified that the powers of the institutions provided for by the 1815 Federal Treaty would expire at the time of the [[constitution]] of the [[Swiss Federal Council|Federal Council]], which took place on 16 November 1848.</ref><ref>{{HDS|9811|Federal constitution|date=3 May 2011 |author=Kley, Andreas}}</ref>
+|area_km2 = 41,285
+|area_rank = 132nd
+|area_sq_mi = 15,940 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 4.34 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+|population_estimate = {{increase}} {{formatnum:8570146}}<ref name=population>{{cite web |trans-title=Recent monthly and quarterly figures: provisional data |url=https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung.gnpdetail.2019-0447.html |title=Bevölkerungsbestand am Ende des 2. Quartal 2019 |date=19 September 2019 |id=1155-1500 |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |location=Neuchâtel, Switzerland |language=de, fr, it |format=XLS |type=official statistics |accessdate=20 September 2019 }}</ref>
+|population_census = 8,327,126<ref name=PopCensus>{{cite report |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |title=Switzerland's population 2015 |date=22 November 2016 |editor=Jacqueline Kucera |editor2=Athena Krummenacher |series=Swiss Statistics |issue=1 Population |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |location=Neuchâtel, Switzerland |format=PDF |type=official report |accessdate=7 December 2016 |url-status=live |archiveurl=https://web.archive.org/web/20161220075134/https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |archivedate=20 December 2016}}</ref>
+|population_estimate_year = 2019
+|population_estimate_rank = 99th
+|population_census_year = 2015
+|population_density_km2 = {{#expr: 8555541/41285 round 0}}
+|population_density_rank = 48th
+|GDP_PPP = {{increase}} $584 billion<ref name=IMFWEOCH>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=56&pr.y=6&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=146&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=World Economic Outlook Database, October 2019|publisher=[[International Monetary Fund]]|access-date=29 July 2020}}</ref>
+|GDP_PPP_year = 2020
+|GDP_PPP_rank = 38th
+|GDP_PPP_per_capita = {{increase}} $67,557<ref name=IMFWEOCH/>
+|GDP_PPP_per_capita_rank = 9th
+|GDP_nominal = {{increase}} $749 billion<ref name=IMFWEOCH/>
+|GDP_nominal_year = 2020
+|GDP_nominal_rank = 20th
+|GDP_nominal_per_capita = {{increase}} $86,673<ref name=IMFWEOCH/>
+|GDP_nominal_per_capita_rank = 2nd
+|Gini = 29.7 <!--number only-->
+|Gini_year = 2018
+|Gini_change = decrease <!--increase/decrease/steady-->
+|Gini_ref =<ref>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=20 October 2019}}</ref>
+|Gini_rank = 19th
+|HDI = 0.946 <!--number only-->
+|HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = increase<!--increase/decrease/steady-->
+|HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+|HDI_rank = 2nd
+|currency = [[Swiss franc]]
+|currency_code = CHF
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
+|utc_offset_DST = +2
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|date_format = dd.mm.yyyy ([[AD]])
+|drives_on = right
+|calling_code = [[+41]]
+|patron_saint = [[Nicholas of Flüe|St Nicholas of Flüe]]
+|iso3166code = CH
+|cctld = [[.ch]], [[.swiss]]
+
+}}<

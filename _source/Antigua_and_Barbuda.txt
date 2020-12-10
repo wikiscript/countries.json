@@ -1,0 +1,68 @@
+{{Infobox country
+| conventional_long_name = Antigua and Barbuda
+| languages_type = [[Vernacular language]]
+| languages = [[Leeward Caribbean Creole English|Antiguan and Barbudan Creole]]
+| common_name = Antigua and Barbuda
+| image_flag = Flag of Antigua and Barbuda.svg
+| image_coat = Coat of arms of Antigua and Barbuda.svg
+| symbol_type = Coat of arms
+| national_motto = "Each Endeavouring, All Achieving"
+| national_anthem = "[[Fair Antigua, We Salute Thee]]"<br/>{{center|[[File:Antigua and Barbuda National Anthem.ogg]]}}
+| royal_anthem = "[[God Save the Queen]]"<sup>a</sup>{{center|[[File:United States Navy Band - God Save the Queen.ogg]]}}
+| image_map = ATG orthographic.svg
+| image_map2 = 
+| capital = [[St. John's, Antigua and Barbuda|St. John's]]
+| coordinates = {{Coord|17|7|N|61|51|W|type:city}}
+| largest_city = capital
+| official_languages = English
+| ethnic_groups = 91% [[Afro-Antiguan and Barbudan|African (Black)]]<br/>4.4% [[Multiracial]]<br/>1.7% [[White Caribbeans|European (White)]]<br/>2.9% Other
+| ethnic_groups_year = 2013
+|religion= 76.5% [[Christianity|Christian]]<br />12.2% [[Religion in Antigua and Barbuda|Other]]<br />5.9% [[Irreligion|None]]<br />5.5% Unspecified<br />
+|religion_year=2011<ref name=Factbook>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html|title=The World Factbook – Central America:: Antigua and Barbuda |website=cia.gov|publisher= Central Intelligence Agency}}</ref>
+| demonym = Antiguan<br/>Barbudan
+| government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of Antigua and Barbuda|Monarch]]
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = {{nowrap|[[Governor-General of Antigua and Barbuda|Governor-General]]}}
+| leader_name2 = [[Rodney Williams (politician)|Rodney Williams]]
+| leader_title3 = [[Prime Minister of Antigua and Barbuda|Prime Minister]]
+| leader_name3 = [[Gaston Browne]]
+| legislature = [[Parliament of Antigua and Barbuda|Parliament]]
+| upper_house = [[Senate (Antigua and Barbuda)|Senate]]
+| lower_house = {{nowrap|[[House of Representatives (Antigua and Barbuda)|House of Representatives]]}}
+| sovereignty_type = Independence
+| established_event1 = [[West Indies Associated States|Associated State]]
+| established_date1 = 27 February 1967
+| established_event2 = from the [[United Kingdom]]
+| established_date2 = 1 November 1981
+| area_km2 = 440
+| area_rank = 182nd <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 170
+| percent_water = negligible
+| population_estimate = {{UN_Population|Antigua and Barbuda}}{{UN_Population|ref}}
+| population_census = 81,799
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 201st
+| population_census_year = 2011
+| population_density_km2 = 186
+| population_density_sq_mi = 481
+| GDP_PPP = $2.731&nbsp;billion
+| GDP_PPP_year = 2019
+| GDP_PPP_per_capita = $29,298<ref name=IMF>[https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=84&pr.y=5&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=311&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= "5. Report for Selected Countries and Subjects"], International Monetary Fund.</ref>
+| GDP_nominal = $1.717&nbsp;billion
+| GDP_nominal_year = 2019
+| GDP_nominal_per_capita = $18,416<ref name=IMF />
+| HDI = 0.776<!-- number only -->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase<!-- increase/decrease/steady -->
+| HDI_ref =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019}}</ref>
+| HDI_rank = 74th
+| currency = [[East Caribbean dollar]]
+| currency_code = XCD
+| time_zone = [[Atlantic Time Zone|AST]]
+| utc_offset = -4
+| drives_on = left
+| calling_code = [[Area code 268|+1-268]]
+| cctld = [[.ag]]
+| footnote_a = "God Save the Queen" is the official national anthem, but is generally used only on regal and vice-regal occasions.
+}}

@@ -1,0 +1,101 @@
+{{Infobox country
+| conventional_long_name        = Czech Republic
+| common_name                   = the Czech Republic
+| linking_name                  = the Czech Republic<!--to link to "[Topic] of the Czech Republic" articles-->
+| native_name                   = {{native name|cs|Česká republika}}
+| image_flag                    = Flag of the Czech Republic.svg
+| image_coat                    = Coat of arms of the Czech Republic.svg
+| symbol_type                   = {{nowrap|[[Coat of arms of the Czech Republic|Coat of arms]]}}
+| national_motto                = {{native phrase|cs|"[[Truth prevails|Pravda vítězí]]"|italics=off}}<br />{{small|"Truth prevails"}}
+| national_anthem               = {{vunblist |{{native phrase|cs|[[Kde domov můj]]|nolink=yes}} |{{raise|0.35em|{{small|''Where is my home''}}&nbsp;{{lower|0.2em|<sup>a</sup>}}}}|{{center|[[File:Czech anthem.ogg]]}} }}
+| image_map                     = EU-Czechia.svg
+| map_caption                   = {{map caption |countryprefix=the |location_color=dark green |region=Europe |region_color=dark grey |subregion=the European Union |subregion_color=green |legend=EU-Czechia.svg}}
+| image_map2                    = 
+| capital                       = [[Prague]]
+| coordinates                   = {{Coord|50|05|N|14|28|E|type:city}}
+| largest_city                  = capital
+| languages_type                = Official language
+| languages                     = [[Czech language|Czech]]<ref>{{cite web |url=http://www.czech.cz/en/67019-czech-language |title=Czech language |work=Czech Republic – Official website |publisher=[[Ministry of Foreign Affairs (Czech Republic)|Ministry of Foreign Affairs of the Czech Republic]] |accessdate=14 November 2011 |archive-url=https://web.archive.org/web/20111106000422/http://www.czech.cz/en/67019-czech-language |archive-date=6 November 2011 |url-status=live |df=dmy-all }}</ref>
+| languages2_type               = {{raise|0.3em |{{nobold|Officially recognized languages<ref name="languages">Citizens belonging to minorities, which traditionally and on a long-term basis live within the territory of the Czech Republic, enjoy the right to use their language in communication with authorities and in courts of law (for the list of recognized minorities see [http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ National Minorities Policy of the Government of the Czech Republic] {{Webarchive|url=https://web.archive.org/web/20120607051111/http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ |date=7 June 2012 }}, Belarusian and Vietnamese since 4 July 2013, see [http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj Česko má nové oficiální národnostní menšiny. Vietnamce a Bělorusy] {{Webarchive|url=https://web.archive.org/web/20130708074104/http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj |date=8 July 2013 }}). Article 25 of the Czech [[Charter of Fundamental Rights and Basic Freedoms]] ensures the right of the national and ethnic minorities to education and communication with the authorities in their own language. Act No. 500/2004 Coll. (''The Administrative Rule'') in its paragraph 16 (4) (''Procedural Language'') ensures that a citizen of the Czech Republic who belongs to a national or an ethnic minority, which traditionally and on a long-term basis lives within the territory of the Czech Republic, has the right to address an administrative agency and proceed before it in the language of the minority. If the administrative agency has no employee with knowledge of the language, the agency is bound to obtain a translator at the agency's own expense. According to Act No. 273/2001 (''Concerning the Rights of Members of Minorities'') paragraph 9 (''The right to use language of a national minority in dealing with authorities and in front of the courts of law'') the same also applies to members of national minorities in the courts of law.</ref><ref>The Slovak language may be considered an official language in the Czech Republic under certain circumstances, as defined by several laws – e.g. law 500/2004, 337/1992. Source: http://portal.gov.cz {{Webarchive|url=https://web.archive.org/web/20050410043930/http://www.portal.gov.cz/ |date=10 April 2005 }}. Cited: "Například Správní řád (zákon č. 500/2004 Sb.) stanovuje: "V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském&nbsp;..." (§&nbsp;16, odstavec 1). Zákon o správě daní a poplatků (337/1992 Sb.) "Úřední jazyk: Před správcem daně se jedná v jazyce českém nebo slovenském. Veškerá písemná podání se předkládají v češtině nebo slovenštině&nbsp;..." (§&nbsp;3, odstavec 1). http://portal.gov.cz</ref>}} }}
+| languages2                   = {{collapsible list |titlestyle=background:none;text-align:left;font-weight:normal; |title=
+  |[[Slovak language|Slovak]] |[[German language|German]] |[[Polish language|Polish]] |[[Belarusian language|Belarusian]] | [[Greek language|Greek]] |[[Hungarian language|Hungarian]] |[[Romani language|Romani]] |[[Russian language|Russian]] |[[Rusyn language|Rusyn]] |[[Serbian language|Serbian]] |[[Ukrainian language|Ukrainian]] |[[Vietnamese language|Vietnamese]]
+ }}
+| ethnic_groups                = {{vunblist
+  |  64.3% [[Czechs]]
+  |  25.3% Unspecified
+  |  5.0% [[Moravians]]
+  |  1.4% [[Slovaks in the Czech Republic|Slovaks]]
+  |  1.0% [[Ukrainians in the Czech Republic|Ukrainians]]
+  |  3.0% other
+ }}
+| ethnic_groups_year           = 2016<ref>{{Cite web |url=https://www.czso.cz/documents/10180/20551765/170223-14.pdf |title=Archived copy |access-date=2 September 2018 |archive-url=https://web.archive.org/web/20180809060237/https://www.czso.cz/documents/10180/20551765/170223-14.pdf |archive-date=9 August 2018 |url-status=live |df=dmy-all }}</ref><ref>{{cite web|url=https://www.czso.cz/documents/11292/27914491/1612_c01t14.pdf/4bbedd77-c239-48cd-bf5a-7a43f6dbf71b?version=1.0|archive-url=https://web.archive.org/web/20180112214925/https://www.czso.cz/documents/11292/27914491/1612_c01t14.pdf/4bbedd77-c239-48cd-bf5a-7a43f6dbf71b?version=1.0|url-status=dead|archive-date=12 January 2018|date=12 January 2018}}</ref>
+| religion                     = {{ublist |item_style=white-space:nowrap; |44.7% Undeclared |34.5% [[Irreligion|No religion]] |12.6–38.6%<ref>{{Cite web|url=https://zacat.gesis.org/webview/index.jsp?headers=http://193.175.238.79:80/obj/fVariable/ZA6595_V11&previousmode=table&stubs=http://193.175.238.79:80/obj/fVariable/ZA6595_V294&study=http://193.175.238.79:80/obj/fStudy/ZA6595&V294slice=1&mode=table&v=2&weights=http://193.175.238.79:80/obj/fVariable/ZA6595_V499&V294subset=1+-+12&analysismode=table&gs=7&V11slice=AT&top=yes|title=GESIS: ZACAT|website=zacat.gesis.org}}</ref> [[Christianity]] |—10.5% [[Catholic Church in the Czech Republic|Catholicism]] |—2.1% Other [[List of Christian denominations|Christian]] |0.7% Others}}
+| religion_ref                 = <ref name="Czech Statistical Office"/>
+| demonym                      = [[Czechs|Czech]]
+| government_type              = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br />[[Republic|constitutional republic]]}}
+| leader_title1                = [[President of the Czech Republic|President]]
+| leader_name1                 = [[Miloš Zeman]]
+| leader_title2                = [[Prime Minister of the Czech Republic|Prime Minister]]
+| leader_name2                 = [[Andrej Babiš]]
+| legislature                  = [[Parliament of the Czech Republic|Parliament]]
+| upper_house                  = [[Senate of the Czech Republic|Senate]]
+| lower_house                  = [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]]
+| sovereignty_type             = [[History of the Czech lands|Establishment history]]
+| established_event1           = [[Duchy of Bohemia]]
+| established_date1            = [[Circa|c.]] 870
+| established_event2           = [[Kingdom of Bohemia]]
+| established_date2            = 1198
+| established_event3           = [[First Czechoslovak Republic|Czechoslovakia]]
+| established_date3            = 28 October 1918
+| established_event4           =  [[Dissolution of Czechoslovakia|Czech Republic]]
+| established_date4            =  1 January 1993
+| area_km2                     = 78,866
+| area_rank                    = 115th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi                   = 30,450 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water                = 0.87 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate          = {{increase}} 10,693,939<ref>{{Cite web|title=Population - CZSO|url=https://www.czso.cz/csu/czso/population|website=Czech Statistical Office|access-date=2020-05-29}}</ref>
+| population_census            = 10,436,560<ref>[http://www.scitani.cz/sldb2011/eng/redakce.nsf/i/census_2011_basic_final_results/$File/SLDB-ZAKL-CR_en.xls Census of Population and Housing 2011: Basic final results] {{Webarchive|url=https://web.archive.org/web/20130116234400/http://www.scitani.cz/sldb2011/eng/redakce.nsf/i/census_2011_basic_final_results/$File/SLDB-ZAKL-CR_en.xls |date=16 January 2013 }}. [http://www.czso.cz/eng/redakce.nsf/i/home Czech Statistical Office] {{webarchive|url=https://web.archive.org/web/20110129060510/http://www.czso.cz/eng/redakce.nsf/i/home |date=29 January 2011 }}. Retrieved on 19 December 2012.</ref>
+| population_estimate_year     = 2020
+| population_estimate_rank     = 86th
+| population_census_year       = 2011
+| population_density_km2       = 134
+| population_density_sq_mi     = 341 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank      = 87th
+| GDP_PPP                      = {{increase}} $432.346&nbsp;billion<ref name="IMFWEOCZ">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=36&pr.y=17&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=935&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=2 November 2019}}</ref>
+| GDP_PPP_year                 = 2020
+| GDP_PPP_rank                 = 36th
+| GDP_PPP_per_capita           = {{increase}} $40,585<ref name="IMFWEOCZ"/>
+| GDP_PPP_per_capita_rank      = 34th
+| GDP_nominal                  = {{increase}} $261.732&nbsp;billion<ref name="IMFWEOCZ"/>
+| GDP_nominal_year             = 2020
+| GDP_nominal_rank             = 36th
+| GDP_nominal_per_capita       = {{increase}} $24,569<ref name="IMFWEOCZ"/>
+| GDP_nominal_per_capita_rank  = 37th
+| Gini                         = 24.0 <!--number only-->
+| Gini_year                    = 2019
+| Gini_change                  = steady <!--increase/decrease/steady-->
+| Gini_ref                     = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income - EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=3 July 2020 |archive-url=https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |archive-date=20 March 2019 |url-status=live |df=dmy-all }}</ref>
+| Gini_rank                    = 5th
+| HDI                          = 0.891 <!--number only-->
+| HDI_year                     = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                   = increase <!--increase/decrease/steady-->
+| HDI_ref                      = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                     = 26th
+| currency                     = [[Czech koruna]]
+| currency_code                = CZK
+| time_zone                    = [[Central European Time|CET]]
+| utc_offset                   = +1
+| utc_offset_DST               = +2
+| time_zone_DST                = [[Central European Summer Time|CEST]]
+| drives_on                    = right
+| calling_code                 = [[Telephone numbers in the Czech Republic|+420]]<sup>b</sup>
+| patron_saint                 = [[Wenceslaus I, Duke of Bohemia|St. Wenceslaus]]
+| iso3166code                  = CZ
+| cctld                        = [[.cz]]<sup>c</sup>
+| footnote_a                   = The [[Rhetorical question|question is rhetorical]], implying "those places where my homeland lies".
+<!--ORPHANED: 30 June 2010 (see {{webarchive |url=https://web.archive.org/web/20101114043947/http://www.czso.cz/eng/csu.nsf/informace/aoby091310.doc |date=14 November 2010 |title=Population changes }}).-->
+<!--ORPHANED: Rank based on 2009 IMF data.-->| footnote_b                = Code 42 was shared with [[Slovakia]] until 1997.
+| footnote_c                   = Also [[.eu]], shared with other European Union member states.
+| religion_year                = 2011
+| today                        = 
+}}

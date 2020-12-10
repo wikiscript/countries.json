@@ -1,0 +1,98 @@
+{{Infobox country
+| conventional_long_name                = Grand Duchy of Luxembourg
+| common_name                = Luxembourg
+| native_name                = {{ubl|{{native name|lb|Groussherzogtum&nbsp;Lëtzebuerg{{wbr}}}}|{{native name|fr|Grand-Duché de Luxembourg{{wbr}}}}|{{native name|de|{{nowrap|Großherzogtum&nbsp;Luxemburg{{wbr}}}}}}}}
+| image_flag                = Flag of Luxembourg.svg
+| image_coat                = Coat of arms of Luxembourg.svg
+| national_motto                = <br />{{native phrase|lb|{{nowrap|"[[Mir wëlle bleiwe wat mir sinn]]"}}|italics=off}}<br />{{native phrase|fr|{{nowrap|"[[Mir wëlle bleiwe wat mir sinn|Nous voulons rester ce que nous sommes]]"}}|italics=off}}<br />{{native phrase|de|{{nowrap|"[[Mir wëlle bleiwe wat mir sinn|Wir wollen bleiben, was wir sind]]"}}|italics=off}}<br /> {{small|"We want to remain what we are"}}
+| national_anthem                = "[[Ons Heemecht]]"<br/>{{smaller|("Our Homeland")}}<br/><div style="display:inline-block;margin-top:0.4em;">[[File:Ons_Heemecht.ogg|center]]</div>
+| royal_anthem                = "[[De Wilhelmus]]"<sup>a</sup>
+| image_map                = EU-Luxembourg.svg
+| map_caption                = {{map caption |location_color=dark green |region=Europe | region_color=dark grey |subregion=the [[European Union]] | subregion_color=green}}
+| capital                = [[Luxembourg City]]
+| largest_city                = capital
+| coordinates                = {{Coord|49|48|52|N|06|07|54|E|display=inline,title}}
+| official_languages                = {{plainlist|
+*[[Luxembourgish]]
+*[[French language|French]]
+*[[German language|German]]{{efn|1=Strictly speaking, there is no official language in Luxembourg. No language is mentioned in the Constitution; other laws only speak about Luxembourgish as the "national language" and French and German as "administrative languages".}}}}{{Infobox
+| child = yes
+| label1 = Nationality {{nobold|(2017)}}
+| data1 = {{Unbulleted list |50.9% [[Luxembourgers]] | 18.2% [[Portuguese Luxembourger|Portuguese]] | 13.5% French | 10.3% [[Germans]] | 7.1% Other
+|item3_style=padding-top:0.2em;line-height:1.2em}}
+}}
+| demonym                = [[Luxembourgers|Luxembourger]]
+| religion_year               = 2018<ref name=EB2018>{{cite book|title=Eurobarometer 90.4: Attitudes of Europeans towards Biodiversity, Awareness and Perceptions of EU customs, and Perceptions of Antisemitism|publisher=European Commission|url=http://zacat.gesis.org/webview/index.jsp?headers=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V204&v=2&stubs=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V11&weights=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V440&V204slice=1&study=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfStudy%2FZA7556&charttype=null&tabcontenttype=row&V11slice=1&V204subset=1+-+10%2C11%2C12+-+13%2C14&mode=table&top=yes|accessdate=15 July 2019|via=[[GESIS – Leibniz Institute for the Social Sciences|GESIS]]}}</ref>
+| religion              = {{ublist |item_style=white-space:nowrap; |73.2% Christianity |—63.8% [[Catholic Church in Luxembourg|Roman Catholic]] |—9.4% Other [[List of Christian denominations|Christian]] |23.4% [[Irreligion|No religion]] |2.6% [[Islam in Luxembourg|Islam]] |0.6% Other}}
+| government_type                = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1                = [[Monarchy of Luxembourg|Monarch]] {{small|([[List of Grand Dukes of Luxembourg|list]])}}
+| leader_name1                = [[Henri, Grand Duke of Luxembourg|Henri]]
+| leader_title2                = [[Prime Minister of Luxembourg|Prime Minister]] {{small|([[List of Prime Ministers of Luxembourg|list]])}}
+| leader_name2                = [[Xavier Bettel]]
+| leader_title3                = Co-[[List of Deputy Prime Ministers of Luxembourg|Deputy Prime Minister]]s
+| leader_name3                = {{plainlist|
+*[[François Bausch]]
+*[[Dan Kersch]]}}
+| legislature                = [[Chamber of Deputies (Luxembourg)|Chamber of Deputies]]
+| sovereignty_type                = Independence
+| established_event1                = from the [[Forêts|French Empire]] and elevation to [[History of Luxembourg#Developing independence (1815–1890)|Grand Duchy of Luxembourg]]
+| established_date1                = 15 March 1815
+| established_event2                = Independence in personal Union with the Netherlands ([[Treaty of London (1839)|Treaty of London]])
+| established_date2                = 19 April 1839
+| established_event3                = Reaffirmation of Independence [[Treaty of London (1867)|Treaty of London]]
+| established_date3                = 11 May 1867
+| established_event4                = End of [[personal union]] with the [[Kingdom of the Netherlands]]
+| established_date4                = 23 November 1890
+| established_event5                = from the [[Nazi Germany|Greater German Reich]]
+| established_date5                = 1944 / 1945
+| established_event6                = [[United Nations Charter|Admitted to the]] United Nations
+| established_date6                = 24 October 1945
+| established_event7                = [[Enlargement of the European Union#Founding members|Founded]] the [[European Economic Community|EEC]]{{efn|1=[[European Union]] since 1993.}}
+| established_date7                = 1 January 1958
+| area_km2                = 2,586.4
+| area_rank                = 167th
+| area_sq_mi                = 998
+| percent_water                = 0.23 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=11 October 2020|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate                = {{increase}} 626,108<ref>{{Cite web|url=https://statistiques.public.lu/fr/index.html|title=Statistiques // Luxembourg|website=statistiques.public.lu|accessdate=19 December 2019}}</ref>
+| population_census                = 512,353
+| population_estimate_year                = January 2020
+| population_estimate_rank                = 168th
+| population_census_year                = 2011
+| population_density_km2                = 233.7
+| population_density_sq_mi                = 602.8 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank                = 58th
+| GDP_PPP                = {{increase}} $66.848 billion<ref name="IMFWEOLU">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=53&pr.y=5&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=137&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=International Monetary Fund |website=IMF.org |accessdate=8 January 2020}}</ref>
+| GDP_PPP_year                = 2020
+| GDP_PPP_rank                = 99th
+| GDP_PPP_per_capita                = {{increase}} $112,045<ref name="IMFWEOLU"/>
+| GDP_PPP_per_capita_rank                = 2nd
+| GDP_nominal                = {{decrease}} $69.453 billion<ref name="IMFWEOLU"/>
+| GDP_nominal_year                = 2019
+| GDP_nominal_rank                = 69th
+| GDP_nominal_per_capita                = {{decrease}} $113,196<ref name="IMFWEOLU"/>
+| GDP_nominal_per_capita_rank                = 1st
+| Gini                = 33.2 <!--number only-->
+| Gini_year                = 2018
+| Gini_change                = increase <!--increase/decrease/steady-->
+| Gini_ref                = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income - EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=20 October 2019}}</ref>
+| Gini_rank                = 19th
+| HDI                = 0.909 <!--number only-->
+| HDI_year                = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                = increase<!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                = 21st
+| currency                = [[Euro]] ([[Euro sign|€]])
+| currency_code                = EUR
+| time_zone                = [[Central European Time|CET]]
+| utc_offset                = +1
+| utc_offset_DST                = +2
+| time_zone_DST                = [[Central European Summer Time|CEST]]
+| DST_note                = {{small|Note: Although Luxembourg is located in [[Western European Time]]/[[UTC]] (Z) zone, since 1 June 1904, [[Local Mean Time|LMT]] (UTC+0:24:36) was abandoned and [[Central European Time]]/[[UTC+1]] was adopted as standard time,[https://www.timeanddate.com/time/zone/luxembourg/luxembourg] with a +0:35:24 offset (+1:35:24 during [[daylight saving time|DST]]) from Luxembourg City’s LMT.}}
+| drives_on                = right
+| calling_code                = [[Telephone numbers in Luxembourg|+352]]
+| cctld                = [[.lu]]<sup>b</sup>
+| footnote_a                = Not the same as the ''[[Het Wilhelmus]]'' of the Netherlands.
+| footnote_b                = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+| footnote_d                = {{note|ddd}} {{cite web |work=[[The World Factbook]] |title=Field Listing&nbsp;– Distribution of family income&nbsp;– Gini index |publisher=[[Central Intelligence Agency]] |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html#Govt |accessdate=3 May 2013}}
+| today                = 
+}}

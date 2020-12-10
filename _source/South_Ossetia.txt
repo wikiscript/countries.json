@@ -1,0 +1,57 @@
+{{Infobox country
+|conventional_long_name = Republic of South Ossetia – The State of Alania
+|native_name = 
+ {{unbulleted list|item_style=font-size:88%;
+  | <hr/>{{native name|os|Республикӕ Хуссар Ирыстон / Паддзахад Аллонстон|italic=no}}<br/>{{resize|95%|{{nobold|''{{transl|os|Rêšpublika Xuššâr Irešton / Pâddzâxâd Âllonšton}}''}}}}
+  | <hr/>{{native name|ka|{{big|ცხინვალის რეგიონი}}|italic=no}}<br/>{{resize|95%|{{nobold|''{{transl|ka|Tskhinvalis regioni}}''}}}}
+  | <hr/>{{native name|ru|Республика Южная Осетия / Государство Алания|italic=no}}<br/>{{resize|95%|{{nobold|''{{transl|ru|Respublika Yuzhnaya Osetiya / Gosudarstvo Alaniya}}''}}}}
+ }}
+|common_name = South Ossetia
+|image_map = Asia location South Ossetia (with Georgia and Abkhazia).png
+|map_caption = South Ossetia (green), Georgia, and Abkhazia (light grey).
+|image_map2 = South Ossetia overview map.png
+|map_caption2 = Map of South Ossetia.
+|image_flag = Flag of South Ossetia.svg
+|image_coat = Coat of arms of South Ossetia.svg
+|symbol_type = Emblem
+|national_motto = 
+|national_anthem = [[National Anthem of South Ossetia]]<br/>{{small|''National Anthem of South Ossetia – Республикӕ Хуссар Ирыстоны Паддзахадон Гимн''}}<br/>{{center|}} 
+|official_languages = {{hlist |[[Ossetian language|Ossetian]]<sup>a</sup> |[[Russian language|Russian]]<sup>a</sup>}}
+|regional_languages = [[Georgian language|Georgian]]
+| status                   = [[List of states with limited recognition|Partially recognised state]]<br/>[[International recognition of Abkhazia and South Ossetia|Recognised]] by the [[United Nations]] as ''[[Occupied territories of Georgia|de jure]]'' part of [[Georgia (country)|Georgia]]
+|capital = [[Tskhinvali]]
+|largest_city = capital
+|coordinates = {{Coord|42|14|N|43|58|E|type:city}}
+|government_type = {{nowrap|[[Semi-presidential republic]]}} 
+|leader_title1 = [[President of South Ossetia|President]]
+|leader_name1 = [[Anatoliy Bibilov]]
+|leader_title2 = [[Prime Minister of South Ossetia|Prime Minister]]
+|leader_name2 = [[Gennady Bekoyev]] <small>''(acting)''</small>
+|legislature = [[Parliament of South Ossetia|Parliament]]
+|sovereignty_type = Independence {{nobold|from [[Georgia (country)|Georgia]]}}
+|established_event1 = Formed as part of USSR
+|established_date1 = 20 September 1990<ref>{{cite web|url=http://www.geopolitics.ru/2014/01/nepriznannye-gosudarstva-yuzhnaya-osetiya/|title=Unrecognized states: South Ossetia|language=Russian|date=28 January 2014|access-date=5 May 2014|archive-url=https://web.archive.org/web/20140505202518/http://www.geopolitics.ru/2014/01/nepriznannye-gosudarstva-yuzhnaya-osetiya/|archive-date=5 May 2014|url-status=live}}</ref>
+|established_event2 = Full independence
+|established_date2 = 21 December 1991
+|established_event3 = Recognized
+|established_date3 = {{nowrap|26 August 2008 ([[International recognition of Abkhazia and South Ossetia|limited]])}}
+|area_km2 = 3,900
+|area_sq_mi = 1,506
+|percent_water = negligible
+|population_estimate_rank = 
+|population_census =53,532<ref name="census2015">{{Cite web |url=http://sputnik-ossetia.ru/South_Ossetia/20160811/2874839.html |title=population census 2015 |access-date=14 August 2016 |archive-url=https://web.archive.org/web/20160813012619/http://sputnik-ossetia.ru/South_Ossetia/20160811/2874839.html |archive-date=13 August 2016 |url-status=live  }}</ref>
+|population_census_year = 2015
+|population_census_rank = 212th
+|population_density_km2 = 13.7
+| GDP_nominal = [[US$]]0.1 billion
+| GDP_nominal_rank = 
+| GDP_nominal_year = 2017<ref name="investrso.su">{{Cite web |url=http://investrso.su/ekonomika/valovoj-vnutrennij-produkt |title=Валовой внутренний продукт |access-date=12 April 2018 |archive-url=https://web.archive.org/web/20180413124653/http://investrso.su/ekonomika/valovoj-vnutrennij-produkt |archive-date=13 April 2018 |url-status=live  }}</ref>
+| GDP_nominal_per_capita = [[US$]]2,000
+|calling_code = +995 34
+|currency = [[Russian ruble]]
+|currency_code = RUB
+|time_zone=[[Moscow Time|MSK]]
+|utc_offset = +03:00
+|drives_on = right
+|footnote_a = [[Ossetian language|Ossetian]] and [[Russian language|Russian]] languages are official languages<ref>[https://web.archive.org/web/20130509075727/http://www.neweasterneurope.eu/node/117 Presidential Elections in South Ossetia – Plan B]<blockquote>The first round of voting was accompanied by a referendum in which the Ossetians were to decide whether Russian should become the second official language of South Ossetia. Nearly 85 per cent of the voters supported the referendum.</blockquote></ref>
+}}

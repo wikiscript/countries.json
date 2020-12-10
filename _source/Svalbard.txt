@@ -1,0 +1,52 @@
+{{Infobox dependency
+| name = Svalbard
+| settlement_type = [[Unincorporated area|Unincorporated internal area of Norway]]
+| image_flag= 
+| image_skyline=File:Polar bear sign Svalbard.jpg
+| image_caption=A sign warning of [[polar bear]]s on a road in Svalbard
+| image_map = Norway-Svalbard.svg
+| map_alt = Location of Svalbard in relation to Norway
+| map_caption = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=Norway |subregion_color=green}}
+| mapsize = 290px
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = {{flag|Norway}}
+| established_title = [[Svalbard Treaty]]
+| established_date = 9 February 1920
+| established_title2 = [[Svalbard Act]]
+| established_date2 = 17 July 1925
+| capital_type = Administrative centre
+| capital = [[Longyearbyen]]
+| largest_settlement_type = largest town
+| largest_settlement = capital
+| coordinates = {{Coord|78.22|15.65|type:city_region:NO-21|format=dms|display=inline,title}}
+| ethnic_groups = 56.9% [[Norwegians|Norwegian]]<br />43.1% other{{efn|Mainly international tourist, science and industry workers.}}<ref>{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/print_sv.html|title=World Factbook: Svalbard|website=www.cia.gov|access-date=17 April 2019}}</ref><!-- Only include these two former Soviet countries, as they are the most prominent populations historically and today, within settlements and workforce on Svalbard. -->
+| ethnic_groups_year = 2019
+| government_type = [[Devolution|Devolved]] [[Local government|locally administered]] [[unincorporated area]] within a [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of Norway|Monarch]]
+| leader_name1 = [[Harald V of Norway|Harald V]]
+| leader_title2 = [[Governor of Svalbard|Governor]]
+| leader_name2 = [[Kjerstin Askholt]]
+| area_km2 = 61,022
+| area_sq_mi = 23,560
+| area_rank = not ranked <!-- Area rank should match [[List of countries and dependencies by area]];(should not be any here as it is listed with a dash) -->
+| percent_water =
+| elevation_max_m = 1,717
+| population_estimate = 2,939<ref>{{cite web |url= https://www.ssb.no/en/befolkning/statistikker/befsvalbard/halvaar |title=Population of Svalbard |access-date=2020-07-04  |website=Statistics Norway |url-status=live|df=dmy-all }} Table 2: Population in the settlements. Svalbard </ref>
+| population_estimate_year = 2020
+| population_density_km2 = 0.044
+| population_density_sq_mi = 0.11
+| population_density_rank = 248th
+| currency = [[Norwegian krone]]
+| currency_code = NOK
+| timezone = [[Central European Time|CET]]
+| utc_offset = +01:00
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +02:00
+| date_format = dd.mm.yyyy
+| postal_code_type = [[Postal codes in Norway|Postal code]]
+| postal_code = 917x
+| drives_on = right
+| calling_code = [[Telephone numbers in Norway|+47]]
+| iso_code = {{hlist|[[ISO 3166-2:SJ|SJ]]|[[ISO 3166-2:NO|NO-21]]}}
+| cctld = {{hlist|[[.no]]|[[.sj]]{{efn|.sj allocated, but not used.}}}}
+}}

@@ -1,0 +1,63 @@
+{{Infobox country
+| coordinates              = {{Coord|41|54|09|N|12|27|09|E|type:city|display=title,inline}}
+| conventional_long_name   = Vatican City State
+| native_name              = {{ubl|{{native name|la|Status Civitatis Vaticanae}}|{{native name|it|Stato della Città del Vaticano}}}}
+| image_flag               = Flag of the Vatican City.svg
+| image_coat               = Coat of arms of the Vatican City.svg
+| symbol_type              = [[Coats of arms of the Holy See and Vatican City|Coat of arms]]
+| common_name              = Vatican City
+| national_anthem          = {{native name|it|[[Pontifical Anthem|Inno e Marcia Pontificale]]}}<br />{{small|"Pontifical Anthem and March"}}<div style="padding-top:0.5em;">[[File:United States Navy Band - Inno e Marcia Pontificale.ogg|center]]</div>
+| image_map                = Location_of_the_Vatican_City_in_Europe.svg
+| map_caption              = {{map caption |location_color=green |region=Europe |region_color=dark grey |legend=Location Vatican City Europe.png}}
+| capital                  = {{nowrap|'''Vatican City''' {{small|([[city-state]])}}}}
+| largest_city             = capital
+| official_languages       = [[Italian language|Italian]]<!-- While the Holy See uses Latin in official documents, the Vatican City State uses Italian only -->{{efn|group="note"|1=Many other [[language]]s are used by institutions situated within the state, such as the [[Holy See]], the [[Pontifical Guard|Pontifical Swiss Guard]], and the [[Pontifical Academy of Sciences]].<br />The Holy See uses [[Latin]] as its main official language, Italian as its main working language and French as its main diplomatic language; in addition, its [[Secretariat of State (Holy See)|Secretariat of State]] uses English, French, German, Italian, Polish, Portuguese and Spanish. The Swiss Guard, in which commands on parade are given in German, also uses French and Italian, two of the three other official Swiss languages, in its official ceremonies, such as the annual swearing in of the new recruits on 6th May.<ref>{{cite av media |url=https://www.youtube.com/watch?v=QTeh9_3VGLQ |title=Solemn oath of the Vatican Swiss guards |date=6 May 2014 |via=YouTube}}</ref>}}
+| government_type          = [[Unitary state|Unitary]] [[Christian state|Christian]] [[absolute monarchy]]<ref>{{cite web |url=https://www.vaticanstate.va/EN/State_and_Government/StateDepartments/index.htm |title=Internet portal of Vatican City State |publisher=Vatican City State |accessdate=9 July 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110524030947/https://www.vaticanstate.va/EN/State_and_Government/StateDepartments/index.htm |archive-date=24 May 2011}}</ref> {{small|(under an [[ecclesiastical]]<ref name="factbook"/> and [[elective monarchy|elective]]<ref>Robbers, Gerhard (2006) [https://books.google.com/books?id=M3A-xgf1yM4C&pg=PA1009 ''Encyclopedia of World Constitutions'']. Infobase Publishing. {{ISBN|978-0-81606078-8}}. p. 1009</ref> [[theocracy]]<ref>Nick Megoran (2009) [https://www.staff.ncl.ac.uk/nick.megoran/pdf/theocracy.pdf "Theocracy"], p. 226 in ''International Encyclopedia of Human Geography'', vol. 11, Elsevier {{ISBN|978-0-08-044911-1}}</ref>)}}
+| leader_title1            = [[Sovereignty|Sovereign entity]]
+| leader_name1             = [[Holy See]]
+| leader_title2            = [[List of Sovereigns of the Vatican City State|Sovereign]]
+| leader_name2             = {{Incumbent pope|[[Pope Francis]]}}
+| leader_title3            = [[Cardinal Secretary of State|Secretary of State]]
+| leader_name3             = [[Pietro Parolin]]
+| leader_title4            = [[President of the Pontifical Commission for Vatican City State|President of the Governorate]]
+| leader_name4             = <br />[[Giuseppe Bertello]]<ref>{{cite web |title=Governorate |url=https://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/struttura-del-governatorato/organigramma/governatorato.html |publisher=Vaticanstate.va |accessdate=12 August 2013}}</ref>
+| legislature              = [[Pontifical Commission for Vatican City State|Pontifical Commission]]
+| established_event1       = [[Lateran Treaty]]
+| sovereignty_type         = Independence {{nobold|from [[Kingdom of Italy|Italy]]}}
+| established_date1        = 11 February 1929; {{years ago|1929}} years ago
+| area_km2                 = 0.49{{efn|name=area|The [[:it:Calendario Atlante De Agostini|De Agostini Atlas Calendar]] listed the area of Vatican City as 0.44&nbsp;km<sup>2</sup> in its 1930 edition<ref>[https://books.google.com/books?id=JqlIZ70Jn9gC&q=vaticano De Agostini Atlas Calendar], 1930, p. 99. {{in lang|it}}</ref> but corrected it to 0.49&nbsp;km<sup>2</sup> in its 1945–46 edition.<ref name=agostini1945>[https://books.google.com/books?id=ZpJXsBX_6uUC&q=vaticano De Agostini Atlas Calendar], 1945–46, p. 128. {{in lang|it}}</ref> The figure of 0.44&nbsp;km<sup>2</sup> is still widely cited by many sources despite its inaccuracy.<!-- See talk page for further evidence -->}}
+| area_rank                = 194th <!-- Should match [[List of countries and dependencies by area]] -->
+| population_estimate      = 825{{efn|name=population|453 residents and 372 nonresident citizens.<ref name=population>{{Cite web |url=https://www.vaticanstate.va/it/stato-governo/note-generali/popolazione.html |title=Population |publisher=Vatican City State |date=1 February 2019|access-date=11 April 2020 |language=it}}</ref>}}
+| population_estimate_year = 2019
+| population_estimate_rank = 240th
+| population_density_km2   = 924{{efn|Based on 453 residents<ref name=population/> and 0.49&nbsp;km<sup>2</sup>.<ref name=agostini1945/>}}
+| population_density_rank  = 12th
+| Gini                     = <!--number only-->
+| Gini_year                =
+| Gini_change              = <!--increase/decrease/steady-->
+| Gini_ref                 =
+| Gini_rank                =
+| HDI                      = <!--number only-->
+| HDI_year                 =
+| HDI_change               = <!--increase/decrease/steady-->
+| HDI_ref                  =
+| HDI_rank                 =
+| currency                 = [[Euro]] (€)
+| currency_code            = EUR
+| time_zone                = [[Central European Time|CET]]
+| utc_offset               = +1
+| utc_offset_DST           = +2
+| time_zone_DST            = [[Central European Summer Time|CEST]]
+| drives_on                = right{{efn|1=Visitors and tourists are not permitted to drive inside the Vatican City without specific permission, which is normally granted only to those on official business in the Vatican City.}}
+| calling_code             = [[Telephone numbers in Vatican City|+379]]{{efn|1=[[ITU-T]] assigned code 379 to Vatican City. However, Vatican City is included in the Italian telephone numbering plan and uses the Italian country code 39, followed by 06 (for Rome) and 698.}}
+| iso3166code              = VA
+| cctld                    = [[.va]]
+| religion                 = [[Catholicism]]
+| sport_code               =
+| footnotes                = {{Infobox UNESCO World Heritage Site | child = yes | ID = 286 | Criteria = Cultural: i, ii, iv, vi | Year = 1984}}
+| demonym                  =
+| GDP_PPP                  =
+| GDP_PPP_year             =
+| today                    =
+| official_website         = {{oweb|https://www.vaticanstate.va/}}
+}}

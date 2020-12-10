@@ -126,5 +126,5 @@
 | drives_on              = [[Left- and right-hand traffic|left]]<ref group=note>Except two overseas territories: [[Gibraltar]] and the [[British Indian Ocean Territory]].</ref>
 | calling_code           = [[Telephone numbers in the United Kingdom|+44]]<ref group=note>[[Telephone numbers in the United Kingdom#Telephone numbers in Overseas Territories|Excludes most overseas territories]].</ref>
 | cctld                  = [[.uk]]<ref group=note>The [[.gb]] domain is also reserved for the UK, but has been little used.</ref>
-| today                  =
+| today                  = 
 }}

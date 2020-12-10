@@ -1,0 +1,62 @@
+{{Infobox country
+|coordinates            = {{Coord|35|11|N|33|22|E|type:city}}
+|conventional_long_name = Turkish Republic<br>of Northern Cyprus
+|native_name            = {{native name|tr|Kuzey Kıbrıs Türk Cumhuriyeti}}
+|image_flag             = Flag of the Turkish Republic of Northern Cyprus.svg
+|image_coat             = Coat of arms of the Turkish Republic of Northern Cyprus.svg
+|common_name            = Northern Cyprus
+|symbol_type            = Coat of arms
+|national_anthem        = {{lang|tr|[[İstiklal Marşı]]}}<br/>("{{lang-eng|The Independence March"}})<br /><small>as composed by Osman Zeki Üngör</small><!-- do not remove the composer, as a different composition was used before 1930 -->{{center|[[File:IstiklalMarsi-2013.ogg]]}}
+|image_map              = Northern Cyprus (orthographic projection).svg
+|map_width              = 220px
+|status                 = [[List of states with limited recognition|Recognised only by Turkey]]
+|capital                = {{unbulleted list|item_style=line-height:initial;
+  |[[North Nicosia]] (''[[de facto]]'')
+  |[[Nicosia]] (''[[de jure]]'')<ref>[http://www.cypnet.co.uk/ncyprus/main/polsyst/constitution/] "The capital of the Republic is Nicosia (Lefkosha)."</ref>}}
+|largest_city           = capital
+|official_languages     = [[Turkish language|Turkish]]
+|languages_type         = [[Spoken language]]
+|languages              = [[Cypriot Turkish]]
+|demonym                = {{hlist|[[Turkish Cypriot]]|[[Cypriot Turks|Cypriot Turk]]}}
+|government_type        = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[republic]]
+|leader_title1          = [[President of Northern Cyprus|President]]
+|leader_name1           = [[Ersin Tatar]]
+|leader_title2          = [[Prime Minister of Northern Cyprus|Prime Minister]]
+|leader_name2           = TBD
+|legislature            = [[Assembly of the Republic (Northern Cyprus)|Assembly of the Republic]]
+|established_event1     = [[Turkish invasion of Cyprus]]
+|established_date1      = 20 July 1974
+|established_event2     = [[Autonomous Turkish Cypriot Administration]]
+|established_date2      = 1 October 1974
+|established_event3     = [[Turkish Federated State of Cyprus]]
+|established_date3      = 13 October 1975
+|established_event4     = [[Independence]] {{nobold|from the [[Cyprus|Republic of Cyprus]]}}
+|established_date4      = [[wikisource:Declaration of Independence of the Turkish Republic of Northern Cyprus|15 November 1983]]<ref name="Declaration"/>
+|area_km2               = 3,355
+|area_rank              = {{small|unranked}}<!-- Area rank should match [[List of countries and dependencies by area]];(should not be any here as it is listed with a dash) -->
+|area_sq_mi             = 1,295
+|percent_water          = 2.7
+|population_estimate        = 326,000<ref name="treconomy">{{cite web |title=KKTC |url=http://www.ekonomi.gov.tr/portal/faces/home/disIliskiler/ulkeler/ulke-detay/KKTC |publisher=Turkish Ministry of Economy |accessdate=28 July 2015 |archive-url=https://web.archive.org/web/20150819121712/http://www.ekonomi.gov.tr/portal/faces/home/disIliskiler/ulkeler/ulke-detay/KKTC |archive-date=19 August 2015 |url-status=dead |df=dmy-all }}</ref>
+|population_estimate_year   = 2017
+|population_census          = 286,257
+|population_census_year     = 2011
+|population_density_km2     = 93
+|population_density_rank    = 117th
+|population_density_sq_mi   = 242
+|GDP_PPP                    = 
+|GDP_PPP_year               = 
+|GDP_PPP_rank               = 
+|GDP_PPP_per_capita         = 
+|GDP_PPP_per_capita_rank    =
+|GDP_nominal                = $4.234 billion<ref>[http://www.kei.gov.tr/media/1782/07-2018-kktc-ekonomik-goestergeler-raporu.pdf]</ref>
+|GDP_nominal_year           = 2018
+|GDP_nominal_rank           =
+|GDP_nominal_per_capita     = $14,942<ref>[http://www.kei.gov.tr/media/1782/07-2018-kktc-ekonomik-goestergeler-raporu.pdf]</ref>
+|GDP_nominal_per_capita_rank =
+|currency                    = [[Turkish lira]] {{Turkish lira}} (<code>TRY</code>)
+|time_zone                   = [[Eastern European Time|EET]] ([[UTC+2]])<ref>{{cite web |title=Saatler geri alınıyor! |url=http://www.yeniduzen.com/saatler-geri-aliniyor-95079h.htm |publisher=[[Yeni Düzen]] |accessdate=18 October 2017 |archive-url=https://web.archive.org/web/20171018071137/http://www.yeniduzen.com/saatler-geri-aliniyor-95079h.htm |archive-date=18 October 2017 |url-status=live |df=dmy-all }}</ref>
+|time_zone_DST               = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST              = +3
+|drives_on                   = left
+|calling_code                = [[+90 392]]
+}}

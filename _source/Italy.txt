@@ -1,0 +1,96 @@
+{{Infobox country
+| conventional_long_name = Italian Republic
+| common_name            = Italy
+| native_name            = {{native name|it|Repubblica Italiana<!--upper case see Italian wiki-->}}
+| image_flag             = Flag of Italy.svg
+| image_coat             = Italy-Emblem.svg
+| symbol_type            = Emblem
+| other_symbol           =
+| motto                  =
+| national_anthem        = {{native name|it|[[Il Canto degli Italiani]]}}<br />"The Song of the Italians"<div style="padding-top:0.5em;">[[File:National anthem of Italy - U.S. Navy Band (long version).ogg|center]]</div>
+| image_map              = {{Switcher|[[File:EU-Italy (orthographic projection).svg|frameless]]|Show globe|[[File:EU-Italy.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption            = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color = light green |legend=EU-Italy.svg}}
+| image_map2             =
+| capital                = [[Rome]]
+| coordinates            = {{Coord|41|54|N|12|29|E|type:city}}
+| largest_city           = capital
+| languages_type         = Native languages
+| languages              = [[Languages of Italy|See full list]]
+| official_languages     = [[Italian language|Italian]]<sup>a</sup>
+| ethnic_groups          = {{unbulleted list |91.5% [[Italians]] |8.5% others}}
+| ethnic_groups_year     = 2017
+| ethnic_groups_ref      = <ref>{{cite web |url=http://demo.istat.it/str2017/index.html |title=Foreign citizens 2017 |publisher=[[National Institute of Statistics (Italy)|ISTAT]] |accessdate=15 June 2018|url-status=dead |archive-url=https://web.archive.org/web/20170806142909/http://www.demo.istat.it/bil2016/index.html |archive-date=6 August 2017}}</ref>
+| religion              = {{ublist |item_style=white-space:nowrap; |83.3% [[Christianity in Italy|Christianity]] |12.4% [[Irreligion in Italy|No religion]] |3.7% [[Islam in Italy|Islam]] |0.6% [[Religion in Italy|Other]]s}}
+| religion_year                = 2012
+| religion_ref                =  <ref name="Survey">{{cite web|url=https://www.pewforum.org/files/2014/01/global-religion-full.pdf|title=The Global Religious Landscape|publisher=Pewforum.org|archive-url=https://web.archive.org/web/20170125173538/https://www.pewforum.org/files/2014/01/global-religion-full.pdf|accessdate=2 October 2015|archive-date=25 January 2017}}</ref>
+| demonym                = [[Italians|Italian]]
+| government_type        = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br>[[Republic|constitutional republic]]}}
+| leader_title1          = [[President of Italy|President]]
+| leader_name1           = [[Sergio Mattarella]]
+| leader_title2          = [[Prime Minister of Italy|Prime Minister]]
+| leader_name2           = [[Giuseppe Conte]]
+| leader_title3          = [[List of presidents of the Senate (Italy)|President of the Senate]]
+| leader_name3           = [[Elisabetta Casellati]]
+| leader_title4          = {{nowrap|[[List of presidents of the Chamber of Deputies (Italy)|President of the<br />Chamber of Deputies]]}}
+| leader_name4           = [[Roberto Fico]]
+| legislature            = [[Italian Parliament|Parliament]]
+| upper_house            = [[Senate of the Republic (Italy)|Senate of the Republic]]
+| lower_house            = [[Chamber of Deputies (Italy)|Chamber of Deputies]]
+| sovereignty_type       = [[History of Italy|Formation]]
+| established_event1     = [[Italian unification|Unification]]
+| established_date1      = 17 March 1861
+| established_event2     = [[1946 Italian institutional referendum|Republic]]
+| established_date2      = 2 June 1946
+| established_event3     = [[Constitution of Italy|Current constitution]]
+| established_date3      = 1 January 1948
+| established_event4     = {{nowrap|[[Enlargement of the European Union#Founding members|Founded]] the [[European Economic Community|EEC]]}} {{nowrap|(now [[European Union|EU]])}}
+| established_date4      = 1 January 1958
+| area_km2               = 301,340
+| area_rank              = 71st
+| area_sq_mi             = 116,347 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| percent_water          = 1.24 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate    = {{decrease}} 60,317,116<ref name="istat.it">{{cite web |title=Indicatori demografici |url=https://www.istat.it/it/archivio/238447 |website=www.istat.it |accessdate=11 April 2020 |language=it |date=20 February 2020}}</ref>
+| population_estimate_year = 2020
+| population_estimate_rank = 23rd
+| population_census      = {{increase}} 59,433,744<ref>{{cite web |title=La popolazione legale del 15° Censimento della popolazione |url=https://www.istat.it/it/archivio/77877 |website=www.istat.it |accessdate=18 September 2019 |language=it |date=19 December 2012}}</ref>
+| population_census_year = 2011
+| population_density_km2 = 201.3
+| population_density_sq_mi = 521.5 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| population_density_rank = 63rd
+| GDP_PPP                = {{steady}} $2.443 trillion<ref name="IMFWEOIT">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=56&pr.y=11&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=136&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=30 October 2019}}</ref>
+| GDP_PPP_year           = 2019
+| GDP_PPP_rank           = 12th
+| GDP_PPP_per_capita     = {{steady}} $40,470<ref name="IMFWEOIT" />
+| GDP_PPP_per_capita_rank = 33rd
+| GDP_nominal            = {{steady}} $1.989 trillion<ref name="IMFWEOIT" />
+| GDP_nominal_year       = 2019
+| GDP_nominal_rank       = 8th
+| GDP_nominal_per_capita = {{steady}} $32,947<ref name="IMFWEOIT" />
+| GDP_nominal_per_capita_rank = 25th
+| Gini                   = 33.4 <!--number only-->
+| Gini_year              = 2018
+| Gini_change            = decrease <!--increase/steady/decrease-->
+| Gini_ref               = <ref>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=12 September 2019}}</ref>
+| Gini_rank              =
+| HDI                    = 0.883 <!--number only-->
+| HDI_year               = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite web |url=http://hdr.undp.org/en/content/2019-human-development-index-ranking |title=Human Development Report 2019 |language=en |publisher=[[United Nations Development Programme]] |date=10 December 2019 |accessdate=10 December 2019 |format=PDF}}</ref>
+| HDI_rank               = 29th
+| currency               = Euro ([[Euro sign|€]])<sup>b</sup>
+| currency_code          = EUR
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +1
+| utc_offset_DST         = +2
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| date_format            = {{abbr|dd|day}}/{{abbr|mm|month}}/{{abbr|yyyy|year}}<br />{{abbr|yyyy|year}}-{{abbr|mm|month}}-{{abbr|dd|day}}&nbsp;([[Anno Domini|AD]])<ref>Year-month-day also sometimes used, though rarely, mainly used for computing contexts. See [[Date and time notation in Italy]].</ref>
+| drives_on              = right
+| calling_code           = [[Telephone numbers in Italy|+39]]<sup>c</sup>
+| cctld                  = [[.it]]<sup>d</sup>
+| footnote_a             = <span style="font-size:100%;">[[German language|German]] is co-official in [[South Tyrol]] and [[Friuli Venezia Giulia]]; [[French language|French]] is co-official in the [[Aosta Valley]]; [[Slovene language|Slovene]] is co-official in the [[province of Trieste]], the [[province of Gorizia]], and Friuli Venezia Giulia; [[Ladin language|Ladin]] is co-official in South Tyrol, in [[Trentino]] and in other northern areas; [[Friulian language|Friulian]] is co-official in Friuli Venezia Giulia; [[Sardinian language|Sardinian]] is co-official in [[Sardinia]].<ref>{{cite web |url=http://www.regione.sardegna.it/j/v/86?v=9&c=72&file=1997026 |title=Legge Regionale 15 ottobre 1997, n. 26 |publisher=Regione autonoma della Sardegna – Regione Autònoma de Sardigna}}</ref><ref>https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/patrimonio-culturale/comunita-linguistiche/</ref></span>
+| footnote_b             = <span style="font-size:100%;">Before 2002, the [[Italian lira]]. The euro is accepted in [[Campione d'Italia]] but its official currency is the [[Swiss franc]].<ref>{{cite web |url=http://www.comune.campione-d-italia.co.it/ |title=Comune di Campione d'Italia |publisher=Comune.campione-d-italia.co.it |date=14 July 2010 |accessdate=30 October 2010 |url-status=live |archive-url=https://web.archive.org/web/20110430223743/http://www.comune.campione-d-italia.co.it/ |archive-date=30 April 2011}}</ref></span>
+| footnote_c             = <span style="font-size:100%;">To call [[Campione d'Italia]], it is necessary to use the Swiss code [[Telephone numbers in Switzerland|+41]].</span>
+| footnote_d             = <span style="font-size:100%;">The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.</span>
+| country_code           =
+| today                  =
+}}

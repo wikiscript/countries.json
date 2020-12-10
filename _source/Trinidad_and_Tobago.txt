@@ -1,0 +1,113 @@
+{{Infobox country
+| coordinates            = {{Coord|10|40|0|N|61|30|27|W|type:city_region:TT-POS|display=inline}}
+| conventional_long_name = Republic of Trinidad and Tobago
+| image_flag             = Flag of Trinidad and Tobago.svg
+| image_coat             = Coat of Arms of Trinidad and Tobago.svg
+| national_motto         = Together We Aspire, Together We Achieve
+| national_anthem        = "[[Forged from the Love of Liberty]]"<div style="padding-top:0.5em;" class="center">[[File:Forged from the Love of Liberty (instrumental).ogg]]</div>
+| common_name            = Trinidad and Tobago
+| image_map              = Trinidad and Tobago (orthographic projection).svg
+| image_map2             = Trinidad and Tobago - Location Map (2013) - TTO - UNOCHA.svg
+| capital                = [[Port of Spain]]
+| largest_city           = [[San Fernando, Trinidad and Tobago|San Fernando]]<br /> {{coord|10|17|N|61|28|W|display=inline}}
+| official_languages     = [[Trinidadian and Tobagonian English|English]]<ref>{{cite web|author=Government of the Republic of Trinidad and Tobago |url=https://www.ttconnect.gov.tt/gortt/portal/ttconnect/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOK9A40MTD0tjQ38Aw0sDYyCPA1dDUy9jd2DDIEKIlEUBLm7ARW4mhp6eIcZGxgYEKffAAdwJKg_ODVPP1w_Cq8yLwMMBZjOBCvA446C3NCICs9MRwCWELx4/dl5/d5/L2dBISEvZ0FBIS9nQSEh/?WCM_GLOBAL_CONTEXT=/gortt/wcm/connect/GorTT%20Web%20Content/ttconnect/home/about+t+and+t/general+information/language |title=Home |publisher=Ttconnect.gov.tt |access-date=2019-03-16}}</ref>
+| languages_type         = Other languages
+| languages              =  ''<sup>See [[Demographics of Trinidad and Tobago#Language|Languages in Trinidad and Tobago]]</sup>''<ref>{{cite web | url=https://www.ethnologue.com/country/TT/languages | title=Trinidad and Tobago – Languages | publisher=Ethnologue.com | access-date=20 May 2018}}</ref>
+| ethnic_groups          = {{unbulleted list
+| 37.6% [[Indo-Trinidadian and Tobagonian|Indian]]
+| 36.3% [[Afro-Trinidadian and Tobagonian|African]]
+| 24.4% [[Demographics of Trinidad and Tobago#Mixed ethnicity|Mixed]]<br>{{nbsp|3}} {{small|• 7.66% [[Dougla]]}}
+| {{no wrap|0.65% [[White Trinidadian and Tobagonian|European]]}}<br> {{nbsp|3}} {{small|• 0.06% {{small|{{small|[[Portuguese people|Portuguese]]}}}}}}
+| 0.30% [[Chinese Trinidadian and Tobagonian|Chinese]]
+| 0.11% {{small|[[Indigenous peoples of the Americas|Indigenous Amerindian]]}}<br />{{small|{{small|(incl. the [[Santa Rosa First Peoples Community]])}}}}
+| 0.08% [[Demographics of Trinidad and Tobago#Arab-Trinidadians and Tobagonians|Arab]]
+| 0.17% [[Ethnic groups in Trinidad and Tobago|Other]]
+| 6.22% Undeclared
+}}
+| ethnic_groups_year     = 2011
+| ethnic_groups_ref      = <ref name=2011Census>{{cite report|title=Trinidad and Tobago 2011 Population and Housing Census Demographic Report|publisher=Trinidad and Tobago Central Statistical Office|url=http://www.tt.undp.org/content/dam/trinidad_tobago/docs/DemocraticGovernance/Publications/TandT_Demographic_Report_2011.pdf|accessdate=2019-08-20}}</ref>
+| demonym                = {{unbulleted list
+|[[Trinidadians and Tobagonians|Trinidadian and Tobagonian]]
+|Trini (colloquial)
+|Trinbagonian (colloquial)<ref>{{cite web|url=https://www.macmillandictionary.com/dictionary/british/trinbagonian|title=Trinbagonian (noun) definition and synonyms – Macmillan Dictionary|website=macmillandictionary.com}}</ref>
+ }}
+| government_type        = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[Republic|constitutional republic]]
+|leader_title1 = [[President of Trinidad and Tobago|President]]
+| leader_name1 = [[Paula-Mae Weekes]] {{small|([[Independent politician|I]])}}
+| leader_title2 = [[List of Prime Ministers of Trinidad and Tobago|Prime Minister]]
+| leader_name2 = [[Keith Rowley]] {{small|([[People's National Movement|PNM]])}}
+| leader_title3 = [[List of Speakers of the House of Representatives of Trinidad and Tobago|House Speaker]]
+| leader_name3 = [[Bridgid Annisette-George]] {{small|([[People's National Movement|PNM]])}}
+| leader_title4 = [[President of the Senate of Trinidad and Tobago|Senate President]]
+| leader_name4 = [[Christine Kangaloo]] {{small|([[People's National Movement|PNM]])}}
+| leader_title5 = [[Chief Justice of Trinidad and Tobago|Chief Justice]]
+| leader_name5 = [[Ivor Archie]]
+| leader_title6 = [[Leader of the Opposition (Trinidad and Tobago)|Opposition Leader]]
+| leader_name6 = [[Kamla Persad-Bissessar]] {{small|([[United National Congress|UNC]])}}
+| legislature            = [[Parliament of Trinidad and Tobago|Parliament]]
+| upper_house            = [[Senate (Trinidad and Tobago)|Senate]]
+| lower_house            = [[House of Representatives (Trinidad and Tobago)|House of Representatives]]
+| established_event1     = [[Indigenous peoples of the Americas|Amerindian]] tribes settle
+| established_date1      = c. 5000 BC
+| established_event9     = Joins [[Caribbean Community|CARICOM]] at the [[Treaty of Chaguaramas]]
+| established_event10    = Republic
+| established_event2     = [[Trinidad]] and [[Tobago]] (separately) discovered by the Spanish
+| established_event3     = Colonised by [[Habsburg Spain|Spain]]
+| established_event4     = [[Enlightenment in Spain|Spain]] cedes [[Trinidad]] to [[Kingdom of Great Britain|Great Britain]]; formalised at the [[Treaty of Amiens]]
+| established_event5     = [[Bourbon Restoration|France]] cedes [[Tobago]] to the [[United Kingdom of Great Britain and Ireland|U.K.]] at the [[Treaty of Paris (1814)|Treaty of Paris]]
+| established_event6     = Unification of Trinidad and Tobago
+| established_event7     = Part of the [[West Indies Federation]]
+| established_event8     = Independence from the [[United Kingdom]]
+| established_date3      = 1530
+| established_date4      = 1797 and 25 March 1802
+| established_date5      = 30 May 1814
+| established_date6      = 1888
+| established_date7      = 3 January 1958 to 31 May 1962
+| established_date8      = 31 August 1962
+| established_date9      = 1 August 1973
+| established_date10     = 1 August 1976<br>{{small|(celebrated 24 September)}}<ref>{{cite web|url=http://thecommonwealth.org/our-member-countries/trinidad-and-tobago/history |title=Trinidad and Tobago : History |publisher=The Commonwealth |access-date=2019-03-16}}</ref><ref>{{cite web|url=https://www.discovertnt.com/history|title=T&T history & society – Discover Trinidad & Tobago|date=22 October 2013}}</ref><ref>{{cite web|url=https://www.mytobago.info/history.php|title=History of Tobago: a myTobago visitor guide article|website=mytobago.info}}</ref>
+| area_km2               = 5,131
+| area_rank              = 165th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 1,981
+| percent_water          = negligible
+| population_estimate    = 1,366,725<ref>{{cite web|url=https://cso.gov.tt/tt-at-a-glance|title=T&T at a Glance|first=Central Statistical Office|last=(CSO)}}</ref>
+| population_census      = 1,328,019<ref>{{cite report|title=Trinidad and Tobago 2011 Population and Housing Census Demographic Report |page=2 |publisher=Trinidad and Tobago Central Statistical Office|url=http://www.tt.undp.org/content/dam/trinidad_tobago/docs/DemocraticGovernance/Publications/TandT_Demographic_Report_2011.pdf|accessdate=2019-08-20}}</ref>
+| population_estimate_year = 2020
+| population_estimate_rank = 151st
+| population_census_year = 2011
+| population_density_km2 = 264
+| population_density_rank = 54th
+| population_density_sq_mi = 684
+| GDP_PPP                = $45.149 billion
+| GDP_PPP_year           = 2019
+| GDP_PPP_per_capita     = $32,684<ref name="imf.org">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=68&pr.y=3&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=369&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+| GDP_nominal            = $22.438 billion
+| GDP_nominal_year       = 2019
+| GDP_nominal_per_capita = $16,243<ref name="imf.org"/>
+| Gini                   = 39.0 <!--number only-->
+| Gini_year              = 2012
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               = <ref>{{cite news|first=Carla|last=Bridglal|date=12 March 2013|url=http://www.trinidadexpress.com/business-magazine/Allowing__govt_to_manage_better-197710671.html|title=Allowing govt to manage better|newspaper=Trinidad Express Newspapers|url-status=dead|archive-url=https://web.archive.org/web/20130314181759/http://www.trinidadexpress.com/business-magazine/Allowing__govt_to_manage_better-197710671.html|archive-date=14 March 2013|access-date=23 December 2013}}</ref>
+| Gini_rank              =
+| HDI                    = 0.799 <!--number only-->
+| HDI_year               = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = steady<!--increase/decrease/steady-->
+| HDI_ref                = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |access-date=9 December 2019 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank               = 63rd
+| currency               = [[Trinidad and Tobago dollar]]
+| currency_code          = TTD
+| time_zone              = [[Atlantic Standard Time|AST]]
+| utc_offset             = -4
+| utc_offset_DST         =
+| time_zone_DST          =
+| date_format            = dd/mm/yyyy
+| drives_on              = [[Right- and left-hand traffic|left]]
+| calling_code           = [[North American Numbering Plan|+1]] [[Area code 868|(868)]]
+| cctld                  = [[.tt]]
+| footnote_a             =
+| religion               = {{unbulleted list
+|55.3% [[Christianity|Christian]]|18.2% [[Hinduism in Trinidad and Tobago|Hindu]]| 5.0% [[Islam in Trinidad and Tobago|Muslim]]|1.2% [[Baháʼí Faith in Trinidad and Tobago|Baháʼí]]|0.9% [[Trinidad Orisha|Orisha-Shango]] ([[Yoruba religion|Yoruba]])|0.3% [[Rastafari]]an|5.8% [[Religion in Trinidad and Tobago|Other]]|11.1% Not stated|2.2% [[Irreligion|None]]}}
+| religion_year          = 2011
+| religion_ref           = <ref name=2011Census/><ref>{{cite web|url=http://www.thearda.com/QL2010/QuickList_40.asp|title=Most Baha'i Nations (2010) – QuickLists – The Association of Religion Data Archives|website=Thearda.com|access-date=2 August 2017}}</ref>
+| today                  =
+}}

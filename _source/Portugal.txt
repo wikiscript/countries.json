@@ -1,0 +1,100 @@
+{{Infobox country
+| conventional_long_name   = Portuguese Republic
+| common_name              = Portugal
+| native_name              = {{native name|pt|República Portuguesa|nbsp=omit}}
+| image_flag               = Flag_of_Portugal.svg
+| image_coat               = Coat of arms of Portugal.svg
+| symbol_width             = 100px
+| motto                    = <!-- ''None'' -->
+| national_anthem          = "{{lang|pt|[[A Portuguesa]]}}"<br /><div style="display:inline-block;margin-top:0.4em;">[[File:A Portuguesa.ogg]]</div>
+| image_map                = {{Switcher|[[File:EU-Portugal (orthographic projection).svg|frameless]]|Show globe|[[File:EU-Portugal with islands circled.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption              = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green }}
+| capital                  = [[Lisbon]]
+| coordinates              = {{Coord|38|46|N|9|9|W|type:city}}
+| largest_city             = Lisbon
+| languages_type           = Official language<br />{{nobold|and [[national language]]}}
+|languages                 = [[Portuguese language|Portuguese]]
+| languages2_type          = {{nobold|Recognized}}<br />{{nobold|regional language}}
+| languages2               = [[Mirandese language|Mirandese]]{{NoteTag|name=a|[[Mirandese language|Mirandese]], spoken in some villages of the municipality of [[Miranda do Douro]], was officially recognized in 1999 (''Lei n.° 7/99 de 29 de Janeiro''),<ref name="auto">{{cite web | url = https://mirandes.no.sapo.pt/LMPSlei.html | archive-url = https://web.archive.org/web/20020318130143/http://mirandes.no.sapo.pt/LMPSlei.html | url-status=dead | archive-date = 18 March 2002 | title = Reconhecimento oficial de direitos linguísticos da comunidade mirandesa (Official recognition of linguistic rights of the Mirandese community) | website= Centro de Linguística da Universidade de Lisboa (UdL) | access-date= 2 December 2015 }}</ref> awarding it an official right-of-use.{{big|<ref name="auto1">[http://bookshop.europa.eu/en/euromosaic-pbC29295845/downloads/C2-92-95-845-EN-C/C29295845ENC_001.pdf?FileName=C29295845ENC_001.pdf&SKU=C29295845ENC_PDF&CatalogueNumber=C2-92-95-845-EN-C The Euromosaic study, Mirandese in Portugal], europa.eu&nbsp;– [[European Commission]] website. Retrieved January 2007. Link updated December 2015</ref>}} [[Portuguese Sign Language]] is also recognized.}}
+| ethnic_groups            = {{Unbulleted list
+ |95.3%&nbsp; [[Portuguese people|Portuguese]]
+ |4.7%&nbsp;Others
+}}
+| ethnic_groups_ref        = {{NoteTag|name=b|By country of citizenship}}<ref>{{cite web |url=https://www.pordata.pt/en/Portugal/Foreign+population+with+regular+residence+as+a+percentage+of+the+resident+population+total+and+by+sex-533 |title=Foreign population with regular residence as a % of the resident population: total and by sex (2018) |publisher=[[Statistics Portugal]], [[Foreigners and Borders Service]] and [[Ministry of Internal Administration]]|access-date=18 July 2019}}</ref>
+| ethnic_groups_year       = 2018
+| religion                 = {{ublist |item_style=white-space:nowrap; |84.3% [[Christianity]] |—81.0% [[Catholic Church in Portugal|Roman Catholic]] |—3.3% Other [[List of Christian denominations|Christians]] |6.8% [[Irreligion|No religion]] |0.6% Other religion |8.3% Undeclared}}
+| demonym                  = Portuguese
+| government_type          = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[Constitution of Portugal|constitutional]] [[republic]]<ref>[http://www.constituteproject.org/constitution/Portugal_2005.pdf Constitution of Portugal, Preamble]:</ref>
+| leader_title1            = [[President of Portugal|President]]
+| leader_name1             = {{nowrap|[[Marcelo Rebelo de Sousa]]}}
+| leader_title2            = {{nowrap|[[List of Presidents of the Assembly of the Republic (Portugal)|President of the Assembly]]}}
+| leader_name2             = [[Eduardo Ferro Rodrigues]]
+| leader_title3            = [[Prime Minister of Portugal|Prime Minister]]
+| leader_name3             = [[António Costa]]
+| legislature              = [[Assembly of the Republic (Portugal)|Assembly of the Republic]]
+| sovereignty_type         = [[History of Portugal|Establishment]]
+| sovereignty_note         =
+| established_event1       = [[County of Portugal#First county|Foundation]]
+| established_date1        = 868
+| established_event2       = [[County of Portugal#Second county|Re-founding]]
+| established_date2        = 1095
+| established_event3       = [[Battle of São Mamede|Sovereignty]]
+| established_date3        = 24 June 1128
+| established_event4       = [[Kingdom of Portugal|Kingdom]]
+| established_date4        = 25 July 1139
+| established_event5       = [[Portuguese Restoration War|Restoration]]
+| established_date5        = 1 December 1640
+| established_event6       = [[Portuguese Constitution of 1822|First Constitution]]
+| established_date6        = 23 September 1822
+| established_event7       = [[5 October 1910 revolution|Republic]]
+| established_date7        = 5 October 1910
+| established_event8       = [[Carnation Revolution|Democratization]]
+| established_date8        = 25 April 1974
+| established_event9       = [[Portuguese Constitution|Present constitution]]
+| established_date9        = 25 April 1976{{NoteTag|name=c|[[Constitution of Portugal|Portuguese Constitution adopted in 1976]] with several subsequent minor revisions, between 1982 and 2005.}}
+| established_event12      = [[Accession of Portugal to the European Union|EEC accession]]
+| established_date12       = 1 January 1986
+| area_km2                 = 92,226
+| area_footnote            = <ref>{{in lang|pt}}{{cite web |title=Superfície Que municípios têm maior e menor área? |url=https://www.pordata.pt/Municipios/Superf%C3%ADcie-57 |publisher=[[Pordata]] |access-date=17 November 2020}}</ref>
+| area_rank                = 109th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi               = 57,298
+| percent_water            = 1.2 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate      = 10,295,909<ref name="auto2">{{cite web|url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques&DESTAQUESdest_boui=414436913&DESTAQUESmodo=2|title=Portugal registou uma taxa de crescimento efetivo positiva (0,19%), o que não acontecia desde 2009 - 2019|website=Ine.pt|access-date=15 June 2020}}</ref>
+| population_estimate_rank = 90th
+| population_census        = 10,562,178<ref>{{cite web | website=Statistics Portugal - Web Portal | date=2012-11-27 | url=http://www.ine.pt/scripts/flex_definitivos/Main.html | archive-url=https://web.archive.org/web/20121127184227/http://www.ine.pt/scripts/flex_definitivos/Main.html | archive-date=27 November 2012 | url-status=dead | access-date=2020-07-11 | title=Archived copy }}</ref>
+| population_estimate_year = 2019
+| population_census_year   = 2011
+| population_density_km2   = 114.5<ref>{{Cite web | url=https://www.pordata.pt/en/Portugal/Population+density++according+to+Census-412 | title=PORDATA - Population density, according to Census}}</ref>
+| GDP_PPP                  = {{increase}} $372.5&nbsp;billion<ref name="imf2">{{cite web|title=Report for Selected Countries and Subjects – Portugal|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=182,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|publisher=International Monetary Fund|access-date=30 October 2020|year=2020}}</ref>
+| GDP_PPP_year             = 2019
+| GDP_PPP_per_capita       = {{increase}} $36,246<ref name="imf2"/>
+| GDP_nominal              = {{increase}} $237.7&nbsp;billion<ref name="imf2"/>
+| GDP_nominal_year         = 2019
+| GDP_nominal_per_capita   = {{increase}} $23,132<ref name="imf2"/>
+| Gini                     = 31.9 <!-- number only -->
+| Gini_year                = 2018
+| Gini_change              = decrease <!-- increase/decrease/steady -->
+| Gini_ref                 = <ref>{{cite web|title=Gini coefficient |url=https://www.pordata.pt/MicroPage.aspx?DatabaseName=Portugal&MicroName=Índice+de+Gini+(percentagem)&MicroURL=2166&|publisher=PORDATA|access-date=8 June 2019|location=Portugal}}</ref>
+| Gini_rank                =
+| HDI                      = 0.850 <!-- number only -->
+| HDI_year                 = 2018 <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change               = increase <!-- increase/decrease/steady -->
+| HDI_ref                  = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |access-date=9 December 2019 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank                 = 40th
+| currency                 = [[Euro]] ([[Euro sign|€]])
+| currency_code            = EUR
+| utc_offset               = {{sp}}
+| time_zone                = [[Western European Time|WET]])<br/> UTC−1 ([[Time in Portugal#IANA time zone database|Atlantic/Azores]]
+| utc_offset_DST           = +1
+| time_zone_DST            = [[Western European Summer Time|WEST]])<br/> UTC (Atlantic/Azores
+| DST_note                 = Note: [[Mainland Portugal]] and [[Madeira]] use WET/WEST, the [[Azores]] are 1 hour behind.
+| date_format              = dd/mm/yyyy ([[Common Era|CE]])
+| drives_on                = right
+| calling_code             = [[Telephone numbers in Portugal|+351]]
+| cctld                    = [[.pt]]
+| footnote_a               = {{Note|a}} [[Mirandese language|Mirandese]], spoken in some villages of the municipality of [[Miranda do Douro]], was officially recognized in 1999 (''Lei n.° 7/99 de 29 de Janeiro''),<ref name="auto"/> awarding it an official right-of-use.{{big|<ref name="auto1"/>}} [[Portuguese Sign Language]] is also recognized.
+| footnote_b               = {{Note|b}} By country of citizenship
+| footnote_c               = {{Note|c}} [[Constitution of Portugal|Portuguese Constitution adopted in 1976]] with several subsequent minor revisions, between 1982 and 2005.
+| religion_year            = 2011
+| today                    =
+}}

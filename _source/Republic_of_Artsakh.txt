@@ -1,0 +1,68 @@
+{{Infobox country
+|conventional_long_name = Republic of Artsakh
+|common_name       = Artsakh
+|native_name       = {{lang|hy|Արցախի Հանրապետություն}}<br />{{transl|hy|Artsakhi Hanrapetutyun}}
+|image_flag        = Flag of Artsakh.svg
+|image_coat        = Coat of arms of Artsakh.svg
+|national_anthem   = {{native name|hy|[[Azat u ankakh Artsakh|Ազատ ու Անկախ Արցախ]]|italics=off}}<br />{{lower|0.1em|''Azat u Ankakh Artsakh''}} {{nbsp|2}}([[Wikipedia:Naming conventions (Armenian)|transliteration]])<br />"Free and Independent Artsakh"<br />
+|image_map         = Nagorno-Karabakh Republic (orthographic projection).svg
+|map_caption       = <small>Territory controlled by Artsakh in dark green, claimed territory in light green.</small>
+|capital           = [[Stepanakert]]
+|coordinates       = {{Coord|39|52|N|46|43|E|type:city|display=inline,title}}
+|largest_city      = capital
+|official_languages= [[Armenian language|Armenian]]<sup>a</sup>
+|government_type   = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
+|leader_title1     = [[President of Artsakh|President]]
+|leader_name1      = [[Arayik Harutyunyan]]
+|leader_title2     = [[President of the National Assembly of Artsakh|President of the National Assembly]]
+|leader_name2      = [[Arthur Tovmasyan]]
+|legislature       = [[National Assembly (Artsakh)|National Assembly]]
+|sovereignty_type  = Independence {{nobold|from the [[Soviet Union]]}}
+|established_event1= Autonomy
+|established_date1 = {{nowrap|2 September 1991<ref>{{cite book |last=Zürcher |first=Christoph |authorlink=:de:Christoph Zürcher |title=The Post-Soviet Wars: Rebellion, Ethnic Conflict, and Nationhood in the Caucasus |year=2007 |publisher=New York University Press |location=New York |isbn=9780814797099 |page=168 |edition=[Online-Ausg.].}}</ref>}}
+|established_event2= {{nowrap|[[1991 Nagorno-Karabakh independence referendum|Declared]]}}
+|established_date2 = 10 December 1991
+|area_km2          = 3170
+|area_rank=
+|area_sq_mi        = 1100 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_footnote     = {{citation needed|date=May 2019}}
+|percent_water=
+|population_estimate=
+|population_census = 150,932<ref>{{cite web |url=http://www.stat-nkr.am/hy/2010-11-24-10-40-02/597--2015 |archive-url=https://web.archive.org/web/20160416093350/http://www.stat-nkr.am/hy/2010-11-24-10-40-02/597--2015 |url-status=dead |archive-date=16 April 2016 |title=ԼՂՀ 2015Թ. ՄԱՐԴԱՀԱՄԱՐԻ ՆԱԽՆԱԿԱՆ ՕՊԵՐԱՏԻՎ ՑՈՒՑԱՆԻՇՆԵՐԻ ՄԱՍԻՆ|publisher=STAF NKRE |date=30 March 2016 |accessdate=30 March 2016}}</ref>
+|population_estimate_year=
+|population_census_year  = 2015
+|population_census_rank  = 191st
+|population_density_km2  =
+|population_density_sq_mi= <!--Do not remove per [[WP:MOSNUM]]-->
+|demonym           = Artsakhi
+|GDP_PPP           = $713 million
+|GDP_PPP_year      = 2019
+|GDP_PPP_rank      = n/a
+|GDP_PPP_per_capita= $4,803
+|GDP_PPP_per_capita_rank = n/a
+|Gini = <!--number only-->
+|Gini_year=
+|Gini_change= <!--increase/decrease/steady-->
+|Gini_ref=
+|Gini_rank=
+|HDI= <!--number only-->
+|HDI_year=
+|HDI_change= <!--increase/decrease/steady-->
+|HDI_ref=
+|HDI_rank=
+|iso3166code  = AM
+|currency     = {{unbulleted list
+  | [[Artsakh dram]]
+  | [[Armenian dram]]
+ }}
+|currency_code= AMD
+|time_zone    = [[Armenia Time|AMT]]
+|utc_offset   = +4
+|drives_on    = right
+|calling_code = [[Telephone numbers in the Republic of Artsakh|+374]] 47<sup>c</sup>
+|cctld        = [[.am]], [[.հայ]]
+|footnote_a   = The constitution guarantees "the free use of other languages spread among the population".
+|footnote_b   = Head of state and head of government, after the post of prime minister was abolished following a [[2017 Nagorno-Karabakh constitutional referendum|constitutional referendum]].
+|footnote_c   = +374 97 for mobile phones.
+|status       = [[International recognition of Artsakh|Unrecognised state]]<br>[[Community for Democracy and Rights of Nations#Members|Recognised by 3 non-UN members]]
+|today=}}

@@ -1,0 +1,83 @@
+{{Infobox dependency
+| name = Bailiwick of Jersey
+| native_name = {{nobold|{{native name|fr|Bailliage de Jersey}}}}<br />{{nobold|{{native name|nrf|Bailliage dé Jèrri}}}}
+| settlement_type = [[Crown dependencies|Crown dependency]]
+| linking_name = Jersey
+| image_flag = Flag of Jersey.svg
+| flag_size = 120px
+| image_seal = Coat of Arms of Jersey.svg
+| seal_size = 60px
+| seal_type = Coat of arms
+| motto = Dieu et Mon Droit ([[French language|French]]) <br />{{small|"God and My Right"}}
+| anthem ="[[God Save the Queen]]"<br/><div style="display:inline-block;margin-top:0.4em;">[[File:United States Navy Band - God Save the Queen.ogg]]</div>
+| song = "[[Island Home (anthem)|Island Home]]"<ref>{{Cite web |url=https://www.gov.je/leisure/jersey/pages/anthemjersey.aspx |title=Anthem for Jersey |website=gov.je}}{{Cite web |url=https://www.gov.je/leisure/jersey/pages/anthemjersey.aspx |title=Anthem for Jersey |website=gov.je}}</ref>
+| song_type = Regional anthem
+| image_map = Europe-Jersey.svg
+| mapsize = 290px
+| map_caption = {{map caption |location_color=green |region=Europe |region_color=dark grey}}
+| image_map2 = 
+| mapsize2 = 290px
+| map_caption2 =
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = [[United Kingdom]]
+| established_title2 = Separation from the [[Duchy of Normandy]]
+| established_date2 = 1204
+| official_languages = [[English language|English]] and [[French language|French]]
+| regional_languages = {{hlist|[[Jèrriais]]}}
+| capital = [[Saint Helier]]
+| coordinates = {{Coord|49|11.4|N|2|6.6|W|type:city}}
+| largest_city = capital
+| ethnic_groups = 46.4% [[Demographics of Jersey|Jersey]]<br />32.7% [[British people|British]]<br />8.2% [[Portuguese people|Portuguese]]<br />3.3% [[Polish people|Polish]]<br />2.4% [[Irish people|Irish]]<br />0.9% [[French people|French]]<br />3.8% Other [[Demographics of Europe|Europe]]an<br />1.3% [[Asian people|Asian]]<br />0.4% [[African people|African]]<br />0.7% multiracial<ref>{{Cite web |url=http://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusBulletin2%2020111214%20SU.pdf |title=Bulletin 2: Place of birth, ethnicity, length of residency, marital status. |access-date=12 September 2013}}</ref>
+| ethnic_groups_year = 2011
+| religion = [[Church of England]]
+| demonym = [[Demographics of Jersey|Islanders]],  Jerseyman, Jerseywoman
+| government_type = [[Parliamentary system|Parliamentary]] [[Democracy|democratic]] [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of the United Kingdom|Monarch]]
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = {{nowrap|[[Lieutenant Governor of Jersey|Lieutenant Governor]]}}
+| leader_name2 = [[Stephen Dalton]]
+| leader_title3 = [[List of Bailiffs of Jersey|Bailiff]]
+| leader_name3 = [[Tim Le Cocq]]<ref>{{Cite web |url=https://statesassembly.gov.je/Pages/Members.aspx?MemberID=59 |title=Members |website=statesassembly.gov.je |access-date=14 January 2020}}</ref>
+| leader_title4 = [[Chief Minister of Jersey|Chief Minister]]
+| leader_name4 = [[John Le Fondré Jr]]
+| legislature = [[States Assembly]]
+| area_km2 = 118.2<ref name=figures />
+| area_rank = {{small|unranked}} <!-- Area rank should match [[List of countries and dependencies by area]];(should not be any here as it is listed with a dash) -->
+| area_sq_mi = 45.56 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0
+| elevation_max_m = 143
+| population_estimate = 107,800<ref name="facts">{{Cite news|url=https://www.itv.com/news/channel/2020-06-18/jerseys-population-increases/ |title=Jersey's population increases by 1100 in the last year|website=ITV |access-date=18 June 2020|date=18 June 2020}}</ref>
+| population_estimate_year = 2019
+| population_estimate_rank = 196th
+| population_density_km2 = 912
+| population_density_sq_mi = 2366 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank =
+| GDP_PPP = $6.0 billion (£4.57 billion)<ref>{{Cite web |url=https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20GVA%20and%20GDP%202015%2020160927%20SU.pdf |title=Measuring Jersey's Economy |date=28 September 2016 |access-date=8 January 2017}}</ref>
+| GDP_PPP_rank = not ranked
+| GDP_PPP_year = 2015
+| GDP_PPP_per_capita = $60,000 (£45,783)
+| GDP_PPP_per_capita_rank = not ranked
+| Gini =
+| Gini_year =
+| Gini_change = <!-- increase/decrease/steady -->
+| Gini_ref = 
+| HDI = 0.985<!--number only-->
+| HDI_year = 2008
+| HDI_change = steady <!--increase/decrease/steady-->
+| HDI_ref = <ref>{{Cite web |url=http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf |title=Filling Gaps in the Human Development Index |date=February 2009 |website=United Nations ESCAP |url-status=dead |archive-url=https://web.archive.org/web/20111005100501/http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf |archive-date=5 October 2011}}</ref>
+| HDI_rank = not ranked
+| currency = [[Pound sterling]]<br />[[Jersey pound]] (£)
+| currency_code = GBP
+| timezone = [[Greenwich Mean Time|GMT]]
+| utc_offset = ±00:00
+| timezone_DST = [[British Summer Time|BST]]
+| utc_offset_DST = +01:00
+| date_format = dd/mm/yyyy
+| electricity = 230 V–50 Hz
+| drives_on = left
+| calling_code = [[Telephone numbers in the United Kingdom#Jersey|+44]]
+| postal_code_type = [[Postcodes in the United Kingdom#Crown dependencies|UK postcode]]
+| postal_code = [[JE postcode area|JE1 – JE5]]
+| iso_code = [[ISO 3166-2:JE|JE]]
+| cctld = [[.je]]
+}}

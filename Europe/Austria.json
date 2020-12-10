@@ -1,4 +1,5 @@
 {
+  "template": "infobox country",
   "conventional_long_name": "Republic of Austria",
   "common_name": "Austria",
   "native_name": "Republik Österreich (German)",
@@ -92,8 +93,105 @@
   "drives_on": "right",
   "calling_code": "+43",
   "cctld": ".at [^d]",
-  "footnote_a": "^[a]: There is an official dictionary, the Österreichisches Wörterbuch , published on commission by the Austrian Ministry of Education .",
-  "footnote_b": "^[b]: Croatian , Czech , Hungarian , Romani , Slovak , and Slovene are officially recognised by the European Charter for Regional or Minority Languages (ECRML) .",
-  "footnote_c": "^[c]: Austrian schilling before 1999; Virtual Euro since 1 January 1999; Euro since 1 January 2002.",
-  "footnote_d": "^[d]: The .eu domain is also used, as it is shared with other European Union member states."
+  "footnote_a": "[^a]: There is an official dictionary, the Österreichisches Wörterbuch , published on commission by the Austrian Ministry of Education .",
+  "footnote_b": "[^b]: Croatian , Czech , Hungarian , Romani , Slovak , and Slovene are officially recognised by the European Charter for Regional or Minority Languages (ECRML) .",
+  "footnote_c": "[^c]: Austrian schilling before 1999; Virtual Euro since 1 January 1999; Euro since 1 January 2002.",
+  "footnote_d": "[^d]: The .eu domain is also used, as it is shared with other European Union member states.",
+  "references": {
+    "[^1]": {
+      "template": "cite web",
+      "url": "https://www.demokratiewebstatt.at/thema/sprachen/amtssprachen-in-oesterreich/die-verschiedenen-amtssprachen-in-oesterreich/",
+      "title": "Die verschiedenen Amtssprachen in Österreich",
+      "website": "DemokratieWEBstatt.at",
+      "access-date": "23 May 2018",
+      "archive-url": "https://web.archive.org/web/20180524084441/https://www.demokratiewebstatt.at/thema/sprachen/amtssprachen-in-oesterreich/die-verschiedenen-amtssprachen-in-oesterreich/",
+      "archive-date": "24 May 2018",
+      "url-status": "live",
+      "df": "dmy-all"
+    },
+    "[^2]": {
+      "template": "cite web",
+      "url": "http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR40066723",
+      "publisher": "Rechtsinformationssystem des Bundes",
+      "title": "Regional Languages of Austria",
+      "year": "2013",
+      "access-date": "27 July 2013",
+      "archive-url": "https://web.archive.org/web/20131018115726/http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR40066723",
+      "archive-date": "18 October 2013",
+      "url-status": "live",
+      "df": "dmy-all"
+    },
+    "[^3]": {
+      "template": "cite web",
+      "url": "http://medienservicestelle.at/migration_bewegt/wp-content/uploads/2012/07/IBIB_2012_Integrationsbericht.pdf",
+      "publisher": "Statistik Austria",
+      "title": "Kommission für Migrations und Integrationsforschung der Österreichischen Akademie der Wissenschaften",
+      "year": "2012",
+      "page": "23",
+      "trans-title": "Commission for Migration and Integration Research of the Austrian Academy of Sciences",
+      "access-date": "17 July 2012",
+      "archive-url": "https://web.archive.org/web/20171014093350/http://medienservicestelle.at/migration_bewegt/wp-content/uploads/2012/07/IBIB_2012_Integrationsbericht.pdf",
+      "archive-date": "14 October 2017",
+      "url-status": "live",
+      "df": "dmy-all"
+    },
+    "[^4]": {
+      "template": "cite web",
+      "url": "https://www.cia.gov/library/publications/the-world-factbook/geos/au.html",
+      "title": "Central Intelligence Agency",
+      "author": "",
+      "date": "7 February 2020",
+      "work": "The World Factbook",
+      "publisher": "Central Intelligence Agency",
+      "access-date": "23 February 2020"
+    },
+    "[^5]": {
+      "template": "cite web",
+      "title": "Surface water and surface water change",
+      "access-date": "2020-10-11",
+      "publisher": "Organisation for Economic Co-operation and Development (OECD)",
+      "url": "https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#"
+    },
+    "[^6]": {
+      "template": "cite web",
+      "title": "Population by Year-/Quarter-beginning",
+      "url": "http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstand_und_veraenderung/bevoelkerung_zu_jahres-_quartalsanfang/023582.html",
+      "date": "7 November 2018",
+      "access-date": "12 June 2015",
+      "archive-url": "https://web.archive.org/web/20150612161754/http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstand_und_veraenderung/bevoelkerung_zu_jahres-_quartalsanfang/023582.html",
+      "archive-date": "12 June 2015",
+      "url-status": "live",
+      "df": "dmy-all"
+    },
+    "[^7]": {
+      "template": "cite web",
+      "url": "http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=70&pr1.y=9&c=122&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=",
+      "title": "Austria",
+      "publisher": "International Monetary Fund",
+      "date": "1 April 2018",
+      "access-date": "23 July 2018"
+    },
+    "[^8]": {
+      "template": "cite web",
+      "url": "https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1",
+      "title": "Gini coefficient of equivalised disposable income - EU-SILC survey",
+      "publisher": "Eurostat",
+      "website": "ec.europa.eu",
+      "access-date": "19 June 2020",
+      "archive-url": "https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1",
+      "archive-date": "20 March 2019",
+      "url-status": "live",
+      "df": "dmy-all"
+    },
+    "[^9]": {
+      "template": "cite web",
+      "url": "http://hdr.undp.org/en/content/2019-human-development-index-ranking",
+      "title": "Human Development Report 2019",
+      "language": "en",
+      "publisher": "United Nations Development Programme",
+      "date": "10 December 2019",
+      "access-date": "10 December 2019",
+      "format": "PDF"
+    }
+  }
 }

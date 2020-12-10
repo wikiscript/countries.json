@@ -1,0 +1,96 @@
+{{Infobox country
+| conventional_long_name = Republic of Moldova
+| common_name = Moldova
+| native_name = {{native name|ro|Republica Moldova}}
+| image_flag = Flag of Moldova.svg
+| image_coat = Coat of arms of Moldova.svg
+| national_anthem = "[[Limba noastră]]"<br />({{Lang-en|"Our language"}})<br /><center>[[File:Imnul Republicii Moldova US NAVY.ogg]]</center>
+| image_map = Location Moldova Europe.png
+| map_caption = {{nowrap|Location of '''Moldova''' (green) and <br />[[Transnistria]] (light green) in Europe.}}
+| image_map2 = 
+| capital = [[Chișinău]]
+| coordinates = {{Coord|47|0|N|28|55|E|type:city}}
+| largest_city = capital
+| official_languages = [[Romanian language|Romanian]] (also known as [[Moldovan language|Moldovan]])<ref name="CCDecision2013" /><ref name="congress">{{cite web| url=https://www.loc.gov/law/foreign-news/article/moldova-romanian-recognized-as-the-official-language/| title=Moldova: Romanian Recognized as the Official Language| publisher=[[Law Library of Congress]]| date=23 December 2013| access-date=13 June 2014| last=Roudik| first=Peter}}</ref><ref name="MCC">{{cite web| url=http://constcourt.md/libview.php?l=en&idc=7&id=512&t=/Overview/Press-Service/News/The-text-of-the-Declaration-of-Independence-prevails-over-the-text-of-the-Constitution| title=The text of the Declaration of Independence prevails over the text of the Constitution| publisher=Constitutional Court of Moldova| date=5 December 2013| access-date=13 June 2014}}</ref>
+| languages_type = Recognised minority<br />languages<!--Protected and/or co-official (regional) languages-->
+| languages = {{hlist | [[Bulgarian language|Bulgarian]] | [[Gagauz language|Gagauz]] | [[Ukrainian language|Ukrainian]]}}
+| languages2_type = Inter-ethnic languages
+| languages2 = [[Russian language|Russian]]<ref name="deschide">{{cite web|title=Игорь Додон // Русский язык должен вернуться в Молдову|url=https://deschide.md/ru/russian_news/social_ru/9330/%D0%98%D0%B3%D0%BE%D1%80%D1%8C-%D0%94%D0%BE%D0%B4%D0%BE%D0%BD--%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%B2-%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D1%83.htm|website=Deschide|publisher=Deschide|access-date=18 August 2017}}</ref><ref name="Rosbalt">{{cite web|title=Додон готов изменить статус русского языка в Молдавии в случае воссоединения с Приднестровьем|url=http://m.rosbalt.ru/world/2017/07/26/1633629.html|website=Rosbalt|publisher=Rosbalt|access-date=18 August 2017}}</ref><ref name="Rusojuz">{{cite web|title=Русский союз Латвии будет сотрудничать с партией Социалистов Молдовы|url=http://www.rusojuz.lv/ru/ourevents/26083-russkij-sojuz-latvii-budet-sotrudnichat-s-partiej-socialistov--moldovi/|website=Rusojuz.lv|publisher=[[Latvian Russian Union]]|access-date=18 August 2017|archive-url=https://web.archive.org/web/20170818173702/http://www.rusojuz.lv/ru/ourevents/26083-russkij-sojuz-latvii-budet-sotrudnichat-s-partiej-socialistov--moldovi/|archive-date=18 August 2017|url-status=dead}}</ref>
+| ethnic_groups = 75.1% [[Moldovans|Moldovan]]<br />7.0% [[Romanians|Romanian]]<br />6.6% [[Ukrainians|Ukrainian]]<br />4.6% [[Gagauz people|Gagauz]]<br />4.1% [[Russians|Russian]]<br />1.9% [[Bulgarians|Bulgarian]]<br />0.36% [[Romani people|Romani]]<br />0.07% [[Poles]]<br />0.89% other
+| ethnic_groups_year = 2014; excluding [[Transnistria]]
+| demonym = [[Moldovans|Moldovan]]
+| government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitution]]al [[secular]] [[republic]]
+| leader_title1 = [[President of Moldova|President]]
+| leader_name1 = [[Igor Dodon]]<!-- NOTE: Maia Sandu will become president in 23 December, until then, Igor Dodon is the president -->
+| leader_title2 = [[Prime Minister of Moldova|Prime Minister]]
+| leader_name2 = [[Ion Chicu]]
+| leader_title3 = [[President of the Moldovan Parliament|President of the Parliament]]
+| leader_name3 = [[Zinaida Greceanîi]]
+| legislature = [[Parliament of the Republic of Moldova|Parliament]]
+| sovereignty_type = [[History of Moldova|Formation]]
+| established_event1 = [[Moldavia|Principality of Moldavia]]
+| established_date1 = 1346
+| established_event2 = [[Bessarabia Governorate]]
+| established_date2 = 1812
+| established_event3 = [[Moldavian Democratic Republic]]
+| established_date3 = 15 December 1917
+| established_event4 = [[Kingdom of Romania|Union with Romania]]
+| established_date4 = 9 April 1918
+| established_event5 = [[Moldavian Autonomous Soviet Socialist Republic|Moldavian ASSR]]
+| established_date5 = 12 October 1924
+| established_event6 = [[Moldavian Soviet Socialist Republic|Moldavian SSR]]
+| established_date6 = 2 August 1940
+| established_event7 = [[Moldovan Declaration of Independence|{{nowrap|Independence from}} the Soviet Union]]
+| established_date7 = 27 August 1991<sup>b</sup>
+| established_event8 = [[United Nations Security Council Resolution 739|Admitted to the]] [[United Nations]]
+| established_date8 = 2 March 1992
+| established_event9 = [[Constitution of Moldova|Constitution]] adopted
+| established_date9 = 29 July 1994
+| area_label = Including [[Transnistria]]
+| area_km2 = 33,846
+| area_rank = 135th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 13,067 <!-- Do not remove per [[WP:MOSNUM]] -->
+| area_label2 = Excluding Transnistria
+| area_data2 = {{convert|29683|km2|abbr=on}}
+| percent_water = 1.4  {{small|(including Transnistria)}}
+| population_estimate = {{decrease}} 2,640,438 <ref>[http://statbank.statistica.md/PxWeb/pxweb/ro/20%20Populatia%20si%20procesele%20demografice/20%20Populatia%20si%20procesele%20demografice__POPrec__POP010/?rxid=9a62a0d7-86c4-45da-b7e4-fecc26003802 BNS:Official estimate]</ref><br />{{small|(excludes Transnistria)}}
+| population_census = 
+| population_census_year = 
+| population_estimate_year = 01.01.2020
+| population_estimate_rank = 142nd
+| population_density_km2 = 86.2 <ref>[https://statistica.gov.md/public/files/publicatii_electronice/Moldova_in_cifre/2020/Breviar_2020_ro.pdf BNS:Official estimate (pg.8)]</ref>
+| population_density_sq_mi = 234 <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank = 93th
+| GDP_PPP = $27.271 billion
+| GDP_PPP_year = 2019
+| GDP_PPP_per_capita = $13,574<ref name="International Comparison Program, World Bank | World Development Indicators database, World Bank | Eurostat-OECD PPP Programme">https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=MD</ref>
+| GDP_PPP_per_capita_rank = 95th
+| GDP_nominal = $12.037 billion
+| GDP_nominal_year = 2019
+| GDP_nominal_per_capita = $4,498<ref name="World Bank national accounts data, and OECD National Accounts data files
+">https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MD</ref>
+| GDP_nominal_per_capita_rank = 110th
+| Gini = 26.8 <!-- number only -->
+| Gini_year = 2014
+| Gini_change = decrease <!-- increase/decrease/steady -->
+| Gini_ref = <ref name="GINI">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI?locations=MD |title=GINI index (World Bank estimate) |publisher=The World Bank |access-date=9 November 2016}}</ref>
+| Gini_rank = 
+| HDI = 0.711 <!-- number only -->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase <!-- increase/decrease/steady -->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank = 107th
+| currency = [[Moldovan leu|Leu]]
+| currency_code = MDL
+| time_zone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| utc_offset_DST = +3
+| time_zone_DST = [[Eastern European Summer Time|EEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Moldova|+373]]
+| cctld = [[.md]]
+| official_website = {{Official URL}}
+| footnote_a = As determined by the [[Moldovan Declaration of Independence]], which the Constitutional court of Moldova found to take precedence over Article 13 of the [[Constitution of Moldova (1994)|Constitution]], which uses the name "[[Moldovan language|Moldovan]]".<ref name="CCDecision2013">{{cite news |url=http://www.rferl.org/content/moldova-romanian-official-language/25191455.html |title=Chișinău Recognizes Romanian As Official Language |agency=[[Associated Press]] |date=5 December 2013 |publisher=[[Radio Free Europe/Radio Liberty]] |access-date=6 December 2013}}</ref>
+| footnote_b = Date of proclamation. Independence subsequently finalized with the [[Dissolution of the Soviet Union|dissolution of the USSR]] in December 1991.
+| today = 
+}}

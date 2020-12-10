@@ -5,12 +5,12 @@
 | image_flag                    = Flag of Mexico.svg
 | image_flag2                   = <!--not officialMexican States Standard.svg//-->
 | image_coat                    = Coat of arms of Mexico.svg
-| alt_coat                      =
+| alt_coat                      = 
 | symbol_type                   = Coat of arms
 | national_anthem               = {{lang|es|[[Himno Nacional Mexicano]]}}<br/>{{small|("Mexican National Anthem")}}<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Himno Nacional Mexicano instrumental.ogg]]}}</div>
 | national_motto                = ''[[List of national mottos#M|La Patria Es Primero]]''<br/>{{small|("The Homeland is First")}}
-| other_symbol_type             =
-| other_symbol                  =
+| other_symbol_type             = 
+| other_symbol                  = 
 | image_map                     = MEX orthographic.svg
 | map_width                     = 260px
 | capital                       = [[Mexico City]]
@@ -21,7 +21,7 @@
 | ethnic_groups                 = [[Indigenous peoples of Mexico|56 Amerindian]] and [[Ethnic groups in Mexico|diverse foreign ethnic groups]]
 | religion                     =90.7% [[Religion in Mexico#Christianity|Christianity]]<br />—82.7% [[Catholic Church in Mexico|Roman Catholic]]<br />—6.6% [[Protestantism]]<br />—1.4% Other [[List of Christian denominations|Christian]]<br />4.7% [[Irreligion|No religion]]<br />1.9% Other [[Religion in Mexico|religion]]s<br />2.7% Undeclared
 | religion_year            = 2010
-| religion_ref = <ref name="2010-census"/>
+| religion_ref = <ref name="2010-census"/> 
 | languages_type                = [[National language]]
 | languages                     = [[Mexican Spanish|Spanish]] (''de facto''){{ref label|iboxb|b}}
 | demonym                       = [[Mexicans|Mexican]]
@@ -49,10 +49,10 @@
 | established_date5             = 5 February 1857
 | established_event6            = [[Constitution of Mexico|Current constitution]]
 | established_date6             = 5 February 1917
-| area                          =
-| today                         =
+| area                          = 
+| today                         = 
 | area_km2                      = 1,972,550
-| area_footnote                 =
+| area_footnote                 = 
 | area_rank                     = 13th
 | area_sq_mi                    = 761,606
 | percent_water                 = 2.5
@@ -76,7 +76,7 @@
 | Gini_year                     = 2016
 | Gini_change                   = increase <!--increase/decrease/steady-->
 | Gini_ref                      = <ref>{{Cite news|url=https://www.coneval.org.mx/SalaPrensa/Comunicadosprensa/Documents/Comunicado-09-Medicion-pobreza-2016.pdf|title=CONEVAL INFORMA LA EVOLUCIÓN DE LA POBREZA 2010-2016|date=30 August 2017|work=CONEVAL|access-date=25 February 2019}}</ref>
-| Gini_rank                     =
+| Gini_rank                     = 
 | HDI                           = 0.767 <!--number only-->
 | HDI_year                      = 2018<!-- Please use the year to which the data refers, not the publication year-->
 | HDI_change                    = increase <!--increase/decrease/steady-->
@@ -87,14 +87,13 @@
 | time_zone                     = ''See'' [[Time in Mexico]]
 | utc_offset                    = −8 to −5
 | utc_offset_DST                = −7 to −5
-| DST_note                      =
+| DST_note                      = 
 | time_zone_DST                 = varies
-| antipodes                     =
-| date_format                   =
+| antipodes                     = 
+| date_format                   = 
 | drives_on                     = right
 | calling_code                  = [[Telephone numbers in Mexico|+52]]
 | cctld                         = [[.mx]]
 | footnote_a                    = {{note|iboxa}}Article 4.° of the [[General Law of Linguistic Rights of the Indigenous Peoples]].<ref>{{cite web |url=http://www.inali.gob.mx/pdf/LGDLPI.pdf |title=General Law of Linguistic Rights of the Indigenous Peoples |author=INALI |date=13 March 2003 |access-date=7 November 2010}}</ref><ref>{{cite web|url=http://www.inali.gob.mx/clin-inali/ |title=Catálogo de las lenguas indígenas nacionales: Variantes lingüísticas de México con sus autodenominaciones y referencias geoestadísticas |publisher=Inali.gob.mx |access-date=18 July 2014}}</ref>
 | footnote_b                    = {{note|iboxb}}Spanish is ''[[de facto]]'' the official language in the Mexican federal government.
 }}
-

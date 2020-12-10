@@ -1,0 +1,108 @@
+{{Infobox country
+| coordinates            = {{Coord|6|46|N|58|10|W|type:city}}
+| conventional_long_name = Co-operative Republic of Guyana
+| image_flag             = Flag of Guyana.svg
+| image_coat             = Coat of Arms of Guyana.svg
+| common_name            = Guyana
+| national_motto         = "One People, One Nation, One Destiny"
+| national_anthem        = "[[Dear Land of Guyana, of Rivers and Plains]]"<br /><center>[[File:National Anthem of Guyana.ogg]]</center>
+| image_map              = GUY orthographic.svg
+| map_caption            = {{map caption |location_color=dark green |region=[[South America]] |region_color= grey }}
+| image_map2             = 
+| capital                = [[Georgetown, Guyana|Georgetown]]
+| largest_city           = capital
+| official_languages     = [[English language|English]]
+| languages_type         = [[Vernacular|Vernacular<br />language]]
+| languages              = [[Guyanese Creole]]
+| regional_languages     = {{collapsible list
+ |titlestyle = background:transparent;text-align:left;font-weight:normal;
+ |title = 10 indigenous languages
+ |[[Kapóng language|Akawaio]]
+ |[[Macushi language|Macushi]] |[[Waiwai language|Waiwai]] |[[Arawak language|Arawak (Lokono)]]
+ |[[Patamona language|Patamona]] |[[Warao language|Warrau]] |[[Carib language|Carib]]
+ |[[Wapishana language|Wapishana]] |[[Pemon language|Pemon (Arekuna)]]|[[Mawayana language|Mawayana]]
+ }}
+| languages2_type        = Other languages
+| languages2             = {{collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title = 6 languages
+| [[Caribbean Hindustani#Guyanese Hindustani|Guyanese Hindustani]]
+| [[Portuguese language|Portuguese]]
+| [[Spanish language|Spanish]]
+| [[Chinese language|Chinese]]
+|[[Dutch language|Dutch]]
+|[[French language|French]]
+}}
+| ethnic_groups          = {{unbulleted list
+ | 39.8% [[Indo-Guyanese|Indian]]
+ | {{nowrap|29.3% [[Afro-Guyanese|African]]}}
+ | 19.9% [[Multiracial|Mixed]]<br /> (including [[Dougla]] and [[Creole people#Caribbean|Creole]]-[[Mulatto]])
+ | 10.5% [[Indigenous peoples in Guyana|Indigenous Amerindian]]
+ | 0.5% Others<br /> (including [[Chinese Guyanese|Chinese]], [[Portuguese Guyanese|Portuguese]], [[White Caribbeans|other European]])<ref name="statisticsguyana.gov.gy">{{Cite book|url=http://www.statisticsguyana.gov.gy/download.php?file=93 |title=Compedium 2: Population Composition|publisher=Bureau of Statistics, Guyana|date=July 2016|access-date=25 August 2018 |archive-url=https://web.archive.org/web/20180709011240/http://www.statisticsguyana.gov.gy/download.php?file=93 |archive-date=9 July 2018 |url-status=live }}</ref>
+ }}
+| ethnic_groups_year     = 2012
+| religion               = {{vunblist |63% [[Christians|Christian]]| 24.8% [[Hinduism in Guyana|Hindu]]| 6.8%
+[[Islam in Guyana|Muslim]]| 2.6% Other|3.1% None<ref name="statisticsguyana.gov.gy"/>}}
+| demonym                = Guyanese
+| government_type        = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[constitutional republic]]<ref>{{cite constitution|article=Preamble|section=Preamble|country=the Cooperative Republic of Guyana|ratified=20 February 1980|url=http://pdba.georgetown.edu/Constitutions/Guyana/guyana96.html}}</ref>
+| leader_title1          = [[President of Guyana|President]]
+| leader_name1           = [[Irfaan Ali]] {{small|([[People's Progressive Party (Guyana)|PPP/C]])}}
+| leader_title2          = [[List of prime ministers of Guyana|Prime Minister/First Vice President]]
+| leader_name2           = {{no wrap|[[Mark Phillips (Guyana)|Mark Phillips]] {{small|([[People's Progressive Party (Guyana)|PPP/C]])}}}}
+| leader_title3          = [[Vice President of Guyana|Vice President]]
+| leader_name3           = {{no wrap|[[Bharrat Jagdeo]] {{small|([[People's Progressive Party (Guyana)|PPP/C]])}}}}
+| legislature            = [[National Assembly (Guyana)|National Assembly]]
+| established_event1     = [[Dutch colonization of the Guianas|Dutch Guiana]]
+| sovereignty_type       = Formation
+| established_event2     = [[British Guiana]]
+| established_date1      = 1667–1814
+| established_event3     = [[Independence]] from the [[United Kingdom]] becoming [[Guyana (1966–1970)|Guyana]]
+| established_date2      = 1814–1966
+| established_event4     = Republic
+| established_date3      = 26 May 1966
+| established_event5     = {{nowrap|[[Constitution of Guyana|Current constitution]]}}
+| established_date4      = 23 February 1970
+| established_date5      = 6 October 1980
+| area_km2               = 214,970
+| area_rank              = 83rd <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 83,000 <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water          = 8.4
+| population_estimate    = 786,391{{UN_Population|ref}}
+| population_census      = 747,884<ref name="2012Census">[http://www.geohive.com/cntry/guyana.aspx Guyana 2012 Census] {{webarchive|url=https://web.archive.org/web/20140806161129/http://www.geohive.com/cntry/guyana.aspx |date=6 August 2014 }} GeoHive– Guyana. Retrieved 2 August 2012.</ref>
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 164th
+| population_census_year = 2012
+| population_density_km2 = 3.502
+| population_density_rank = 232nd
+| population_density_sq_mi = 9.071 <!-- Do not remove per [[WP:MOSNUM]] -->
+| GDP_PPP                = {{increase}} $13.661 billion<ref name="IMFWEOGY">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=336,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2019&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=1 November 2020}}</ref>
+| GDP_PPP_rank           = 144th
+| GDP_PPP_year           = 2020
+| GDP_PPP_per_capita     = {{increase}} $17,359<ref name="IMFWEOGY"/>
+| GDP_PPP_per_capita_rank = 72nd
+| GDP_nominal            = {{increase}} $6.806 billion<ref name="IMFWEOGY"/>
+| GDP_nominal_rank       = 148th
+| GDP_nominal_year       = 2020
+| GDP_nominal_per_capita = {{increase}} $8,649<ref name="IMFWEOGY"/>
+| GDP_nominal_per_capita_rank = 68th
+| Gini                   = <!-- number only -->
+| Gini_year              = <! --there is no update on the country's inequality index since 1998-->
+| Gini_change            = <!-- increase/decrease/steady -->
+| Gini_ref               = 
+| Gini_rank              = 
+| HDI                    = 0.670 <!-- number only -->
+| HDI_year               = 2018 <!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change             = increase <!-- increase/decrease/steady -->
+| HDI_ref                = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |access-date=9 December 2019 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank               = 123rd
+| currency               = [[Guyanese dollar]]
+| currency_code          = GYD
+| time_zone              = [[Atlantic Standard Time|AST]]
+| utc_offset             = -4
+| utc_offset_DST         = 
+| time_zone_DST          = 
+| drives_on              = [[Right- and left-hand traffic|left]]
+| calling_code           = [[+592]]
+| cctld                  = [[.gy]]
+| today                  = 
+}}

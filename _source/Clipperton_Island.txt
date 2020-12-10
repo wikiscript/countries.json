@@ -1,0 +1,71 @@
+{{Infobox islands
+| name                             = Clipperton
+| native_name                      = {{lang|fr|Île de Clipperton}}, {{lang|es|Isla de la Pasión}}
+| native_name_link                 = 
+| native_name_lang                 = 
+| sobriquet                        = <!-- or |nickname= -->
+| image_name                       = Ile_de_Clipperton_(carte-en).svg
+| image_size                       = 
+| image_caption                    = Clipperton Atoll with [[lagoon]] with depths (meters)
+| image_alt                        = Clipperton Atoll with enclosed lagoon with depths (meters)
+| map                              = Pacific Ocean
+| map_alt                          = 
+| map_width                        = 
+| map_caption                      = 
+| map_relief                       = 1
+| label                            = 
+| label_position                   = 
+| coordinates                      = {{Coord|10|18|N|109|13|W|display=inline,title}}
+| etymology                        = 
+| location                         = [[Pacific Ocean]]
+| GridReference                    = <!-- UK only -->
+| archipelago                      = Lagoon
+| waterbody                        = 
+| total_islands                    = 
+| major_islands                    = 
+| area_km2                         = 6
+| area_footnotes                   = 
+| rank                             = 
+| length_km                        = <!-- or |length_m=  -->
+| length_footnotes                 = 
+| width_km                         = <!-- or |width_m=  -->
+| width_footnotes                  = 
+| coastline_km                     = <!-- or |coastline_m=  -->
+| coastline_footnotes              = 
+| elevation_m                      = 29
+| elevation_footnotes              = 
+| highest_mount                    = Clipperton Rock
+| Country_heading                  = 
+| country                          = {{flag|France}}
+| country_admin_divisions_title    = [[Overseas France#Special status|State private property]]
+| country_admin_divisions          = Île de Clipperton
+| country_admin_divisions_title_1  = 
+| country_admin_divisions_1        = 
+| country_admin_divisions_title_2  = 
+| country_admin_divisions_2        = 
+| country_capital_type             = 
+| country_capital                  = 
+| country_largest_city_type        = 
+| country_largest_city             = 
+| country_capital_and_largest_city = 
+| country_largest_city_population  = 
+| country_leader_title             = 
+| country_leader_name              = 
+| country_area_km2                 = <!-- or |country_area_m2= or |country_area_ha= -->
+| demonym                          = 
+| population                       = Non Applicable
+| population_as_of                 = 1945
+| population_footnotes             = 
+| population_rank                  = 
+| population_rank_max              = 
+| density_km2                      = 
+| density_rank                     = 
+| density_footnotes                = 
+| ethnic_groups                    = 
+| timezone1                        = [[Time in France|EAST]]
+| utc_offset1                      = -8
+| timezone1_DST                    = 
+| utc_offset1_DST                  = 
+| website                          = [http://www.outre-mer.gouv.fr/polynesie-francaise-lile-de-clipperton L’île de Clipperton]
+| additional_info                  = 
+}}

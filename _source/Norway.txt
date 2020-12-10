@@ -1,0 +1,113 @@
+{{Infobox country
+| conventional_long_name      = Kingdom of Norway
+| native_name                 = {{ubl|{{native name|nb|Kongeriket Norge}}|{{native name|nn|Kongeriket Noreg}}|{{native name|se|Norgga gonagasriika}}|{{native name|smj|Vuona gånågisrijkka}}|{{native name|sma|Nöörjen gånkarïjhke}}}}
+| common_name                 = Norway
+| image_flag                  = Flag of Norway.svg
+| image_coat                  = Coat of arms of Norway.svg
+| symbol                      = Coat of arms of Norway
+| symbol_type                 = Coat of arms
+| symbol_width                = 65px
+| image_map                   = {{Switcher|[[File:Europe-Norway (orthographic projection).svg|frameless]]|Show globe|[[File:Europe-Norway.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption                 = {{map caption |countryprefix=the Kingdom of |location_color=green | region=Europe |region_color=green and dark grey}}
+| image_map2                  = Norway in the World (+Antarctica claims) cropped.svg
+| map_caption2                = Location of the Kingdom of Norway and [[list of possessions of Norway|its integral overseas territories and dependencies]]: [[Svalbard]], [[Jan Mayen]], [[Bouvet Island]], [[Peter I Island]], and [[Queen Maud Land]]
+| national_anthem             = {{unbulleted list |''[[Ja, vi elsker dette landet]]''<br>({{Lang-en|"Yes, we love this country"}}){{nbsp|2}}}} <div style="display:inline-block;margin-top:0.4em;">[[File:Norway_(National_Anthem).ogg|center]]</div>
+| royal_anthem                = ''{{lang|sv|[[Kongesangen]]}}''<br />{{small|''King's Song''}}
+| national_motto              = None<sup>a</sup>
+| official_languages          = *[[Norwegian language|Norwegian]] <br />{{hlist|style=font-size: 85%;|([[Bokmål]]|[[Nynorsk]])}}
+* [[Sámi languages|Sámi]]<ref>{{cite web|url=https://snl.no/spr%C3%A5k_i_Norge|title=Språk i Norge – Store norske leksikon|date=22 May 2019}}</ref> <br />{{hlist|style=font-size: 85%;|([[Northern Sámi|Northern]]|[[Lule Sámi|Lule]]|[[Southern Sámi|Southern]])}}
+<small>'''Regional language:''' [[Kven language|Kven]]</small>
+<small>'''Minority languages:''' [[Scandoromani language|Romani]], [[Romani language|Romanes]]</small><ref>{{cite web|url=http://www.sprakradet.no/Spraka-vare/Minoritetssprak/|title=Minoritetsspråk|website=Språkrådet|access-date=8 January 2018|archive-url=https://web.archive.org/web/20180115020835/http://www.sprakradet.no/Spraka-vare/Minoritetssprak|archive-date=15 January 2018|url-status=dead}}</ref>
+| languages_type              = [[Writing system]]
+| languages                   = [[Latin alphabet|Latin]]
+| ethnic_groups               = * 81.8% [[Norwegians|Norwegian]]<ref>https://www.ssb.no/befolkning/statistikker/innvbef/aar/2020-03-09</ref>
+* 18.2% non-Norwegian<ref>https://www.ssb.no/befolkning/statistikker/innvbef/aar/2020-03-09</ref>
+Indigenous status:
+* [[Sámi people|Sámi]]<ref>{{cite web|url=https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/samepolitikk/id1403/|title=Samer|first=Fornyings-, administrasjons- og|last=kirkedepartementet|date=16 June 2006|website=Regjeringen.no}}</ref>
+Minority status:<ref>{{cite web|url=https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/nasjonale-minoriteter/id1404/|title=Nasjonale minoriteter|first=Arbeids- og|last=inkluderingsdepartementet|date=16 June 2006|website=Regjeringen.no}}</ref>
+* [[History of the Jews in Norway|Jewish]]
+* [[Norwegian and Swedish Travellers|Traveller]]
+* [[Forest Finns|Forest Finn]]
+* [[Romani people|Romani]]
+* [[Kvens|Kven]]<!--Arranged by its first appearance in Norway-->
+| religion                    = 
+| demonym                     = [[Norwegians|Norwegian]]
+| capital                     = [[Oslo]]
+| coordinates                 = {{Coord|59|56|N|10|41|E|type:city}}
+| largest_city                = capital
+| government_type             = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1               = [[Monarchy of Norway|Monarch]]
+| leader_name1                = [[Harald V of Norway|Harald V]]
+| leader_title2               = [[Prime Minister of Norway|Prime Minister]]
+| leader_name2                = [[Erna Solberg]]
+| leader_title3               = [[President of the Storting|President of the ''Storting'']]
+| leader_name3                = [[Tone W. Trøen]]
+| leader_title4               = [[Chief Justice of the Supreme Court of Norway|Chief Justice]]
+| leader_name4                = [[Toril Marie Øie]]
+| leader_title5               = [[2017 Norwegian parliamentary election|Current coalition]]
+| leader_name5                = [[Conservative Party (Norway)|Liberal conservative]]
+| legislature                 = ''[[Parliament of Norway|Stortinget]]'' <br />&nbsp;'''L''' ''[[Sami Parliament of Norway|Sámediggi]]''
+| sovereignty_type            = [[History of Norway|History]]
+| established_event1          = [[Unification of Norway|State established prior unification]]
+| established_date1           = 872
+| established_event2          = [[Kingdom of Norway (872–1397)|Old Kingdom of Norway]] {{small|(Peak extent)}}
+| established_date2           = 1263
+| established_event3          = [[Kalmar Union]]
+| established_date3           = 1397
+| established_event4          = [[Denmark–Norway]]
+| established_date4           = 1524
+| established_event5          = [[Kingdom of Norway (1814)|Re-established state]]<ref>{{cite web|url=https://www.regjeringen.no/en/the-government/previous-governments/the-establishing-of-the-norwegian-state/id410040/|title=The Re-establishing of a Norwegian State|last=regjeringen.no|date=5 July 2011|website=Government.no}}</ref>
+| established_date5           = [[Meeting of Notables|25 February 1814]]
+| established_event6          = [[Constitution of Norway|Constitution]]
+| established_date6           = 17 May 1814
+| established_event7          = [[Sweden-Norway]]
+| established_date7           = 4 November 1814
+| established_event8          = [[Dissolution of Sweden-Norway]]
+| established_date8           = 7 June 1905
+| area_rank                   = 67th<sup>b</sup> <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2                    = 385,207
+| area_footnote               = <ref name="kart_2019">{{Cite web|url=https://www.kartverket.no/Kunnskap/Fakta-om-Norge/Arealstatistikk/Arealstatistikk-Norge/|title=Arealstatistics for Norway 2019|publisher=Kartverket, mapping directory for Norway|date=20 December 2019|accessdate=1 March 2020}}</ref>
+| area_sq_mi                  = 148,718 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water               = 5.32 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate_year    = 2020
+| population_estimate         = {{increase}} 5,367,580<ref name="pop_2020_estimate">{{cite web|url=https://www.ssb.no/en/befolkning/statistikker/folkemengde/aar-per-1-januar|title=Population - annually, per 1 January|publisher=Statistics Norway|date=27 February 2020|accessdate=24 November 2020}}</ref>
+| population_estimate_rank    = 118th
+| population_density_km2      = 14.2
+| population_density_sq_mi    = 36.08 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank     = 213th
+| GDP_PPP_year                = 2020
+| GDP_PPP                     = $397 billion<ref name="imf2">{{cite web |title=Norway |publisher=International Monetary Fund |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=70&pr.y=7&sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193%2C946%2C122%2C137%2C124%2C546%2C156%2C181%2C423%2C138%2C935%2C196%2C128%2C142%2C939%2C182%2C172%2C359%2C132%2C135%2C134%2C576%2C174%2C936%2C532%2C961%2C176%2C184%2C178%2C144%2C436%2C146%2C136%2C528%2C158%2C112%2C542%2C111%2C941&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=}}</ref>
+| GDP_PPP_rank                = 46th
+| GDP_PPP_per_capita          = $79,638<ref name="imf2"/>
+| GDP_PPP_per_capita_rank     = 6th
+| GDP_nominal                 = $443 billion<ref name="imf2"/>
+| GDP_nominal_rank            = 22nd
+| GDP_nominal_year            = 2018
+| GDP_nominal_per_capita      = $82,711<ref name="imf2"/>
+| GDP_nominal_per_capita_rank = 3rd
+| Gini_year                   = 2018
+| Gini_change                 = decrease <!--increase/decrease/steady-->
+| Gini                        = 24.8 <!--number only-->
+| Gini_ref                    = <ref name="eurogini">{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income |publisher=[[Eurostat]] – EU-SILC survey|website=ec.europa.eu |access-date=7 March 2019}}</ref>
+| Gini_rank                   = 
+| HDI_year                    = 2018 <!--Please use the year to which the HDI data refers, not the publication year-->
+| HDI_change                  = increase <!--increase/decrease/steady-->
+| HDI                         = 0.954 <!--number only-->
+| HDI_ref                     = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                    = 1st
+| currency                    = [[Norwegian krone]]
+| currency_code               = NOK
+| time_zone                   = [[Central European Time|CET]]
+| utc_offset                  = +1
+| time_zone_DST               = [[Central European Summer Time|CEST]]
+| utc_offset_DST              = +2
+| date_format                 = dd.mm.yyyy
+| drives_on                   = right
+| calling_code                = [[Telephone numbers in Norway|+47]]
+| cctld                       = [[.no]]<sup>d</sup>
+| footnote_a                  = The country has no official motto, but the oath from the 1814 [[Norwegian Constituent Assembly]] can be regarded as the closest unofficial equivalent:<br />{{native phrase|nb|Enige og tro inntil Dovre faller}}<br />{{native phrase|nn|Einige og tru inntil Dovre fell}}<br />"United and loyal until [[Dovrefjell|Dovre]] falls"
+| footnote_b                  = Does not include [[Svalbard and Jan Mayen]]. (With the territories, it is the 67th largest country at 385,207<ref name="kart_2019" /> square kilometers)
+| footnote_c                  = This percentage is for the mainland, Svalbard, and Jan Mayen. This percentage counts glaciers as "land". It's calculated as 19,940.14/(365,246.17+19,940.14).{{citation needed|date=January 2018}}
+| footnote_d                  = Two more TLDs have been assigned, but are not used: [[.sj]] for Svalbard and Jan Mayen; [[.bv]] for [[Bouvet Island]].
+| today                       = 
+}}

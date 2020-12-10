@@ -1,0 +1,95 @@
+{{Infobox country
+| conventional_long_name                = Republic of Abkhazia
+| native_name                = {{unbulleted list|item_style=font-size:88%;
+  | 
+{{native name|ab|Аԥсны Аҳәынҭқарра|italic=no}}<br/>{{resize|95%|{{nobold|''{{transl|ab|Apsny Ahwyntkarra}}''}}}}
+  | 
+{{native name|ru|Республика Абхазия|italic=no}}<br/>{{resize|95%|{{nobold|''{{transl|ru|Respublika Abkhaziya}}''}}}}
+ }}
+| common_name                = Abkhazia
+| national_motto                = 
+| national_anthem                = {{native phrase|ab|[[Aiaaira|Аиааира]]|italics=off|nolink=on}}<br/> ''{{transl|ab|Aiaaira}}''<br/>{{small|''Victory''}}<br/><center>[[File:National Anthem of Abkhazia - Аиааира.ogg]]</center>
+| image_flag                = Flag of Abkhazia.svg
+| flag_type                 = [[Flag of Abkhazia|Flag]]
+| image_coat                = Coat of arms of Abkhazia.svg
+| symbol_type               = [[Emblem and logo of Abkhazia|Emblem and logo]]
+| image_map                = Europe location ABX.png
+| map_caption                = Map centred on the [[Caucasus]] indicating Abkhazia
+(orange),<br/>and [[Georgia (country)|Georgia]] proper and South Ossetia (both grey).
+| status                = [[List of states with limited recognition|Unrecognised state]]<br/>[[International recognition of Abkhazia and South Ossetia|Recognised]] by the [[United Nations]] as ''[[Occupied territories of Georgia|de jure]]'' part of [[Georgia (country)|Georgia]]
+| capital                = [[Sukhumi]]
+| coordinates                = {{Coord|43|00|N|40|59|E|type:city}}
+| largest_city                = capital
+| official_languages                = {{hlist | [[Abkhaz language|Abkhaz]]|[[Russian language|Russian]]<sup>a</sup>}}
+| languages_type                = [[Spoken language]]s
+| languages                = {{hlist | [[Abkhaz language|Abkhaz]]|[[Russian language|Russian]]|[[Georgian language|Georgian]]|[[Mingrelian language|Mingrelian]]|[[Svan language|Svan]]|[[Armenian language|Armenian]]}}
+| demonym                = {{hlist|style=white-space:nowrap; |[[Abkhazians|Abkhaz]] |[[Abkhazians|Abkhazian]]}}
+| government_type                = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[republic]]
+| leader_title1                = [[President of Abkhazia|President]]
+| leader_name1                = [[Aslan Bzhania]]
+| leader_title2                = [[Prime Minister of Abkhazia|Prime Minister]]
+| leader_name2                = [[Alexander Ankvab]]
+| legislature                = [[People's Assembly of Abkhazia|People's Assembly]]
+| sovereignty_type                = {{nowrap|Partially recognised independence}} {{nobold|from [[Georgia (country)|Georgia]]}}{{lower|0.1em|<ref>{{cite web |author=Site programming: Denis Merkushev |url=http://www.abkhaziagov.org/ru/state/sovereignty/independence.php |title=Акт о государственной независимости Республики Абхазия |publisher=Abkhaziagov.org |accessdate=22 June 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20080520045517/http://www.abkhaziagov.org/ru/state/sovereignty/independence.php |archivedate=20 May 2008  }}</ref><ref>{{cite web |url=http://www.apsnypress.info/news2008/September/22.htm |title=Апсныпресс – государственное информационное агенство Республики Абхазия |publisher=Apsnypress.info |accessdate=22 June 2010 |archiveurl=https://web.archive.org/web/20100528185616/http://www.apsnypress.info/news2008/September/22.htm |archivedate=28 May 2010 |url-status=dead  }}</ref><ref>{{cite web |url=http://www.unpo.org/content/view/713/236/ |title=Abkhazia: Review of Events for the Year 1996 |publisher=UNPO |date=31 January 1997 |accessdate=22 June 2010 |archiveurl=https://web.archive.org/web/20100605014215/http://www.unpo.org/content/view/713/236/ |archivedate=5 June 2010 |url-status=live}}</ref><!--end lower:-->}}
+| established_event1                = Georgian annulment of Soviet-era laws and treaties
+| established_date1                = 20 June 1990
+| established_event2                = Abkhazian declaration of sovereignty<sup>b</sup>
+| established_date2                = 25 August 1990
+| established_event3                = Georgian declaration of independence
+| established_date3                = 9 April 1991
+| established_event4                = [[History of the Soviet Union (1985–1991)#Formation of the CIS and official end of the USSR|Dissolution of the Soviet Union]]
+| established_date4                = 26 December 1991
+| established_event5                = Abkhazian declaration of Independence
+| established_date5                = 23 July 1992
+| established_event6                = Act of state independence<sup>c</sup>
+| established_date6                = 12 October 1999
+| established_event7                = {{nowrap|First<br/>{{raise|0.2em|[[International recognition of Abkhazia and South Ossetia|international recognition]]<sup>d</sup>}}}}
+| established_date7                = <br/>26 August 2008
+| area_km2                = 8,660<ref name=EB>{{cite encyclopedia |editor-first=Dale H. |editor-last=Hoiberg |encyclopedia=Encyclopedia Britannica |title=Abkhazia |edition=15th |year=2010 |publisher=Encyclopedia Britannica Inc. |volume=I: A-ak Bayes |location=Chicago, IL |isbn=978-1-59339-837-8 |pages=[https://archive.org/details/newencyclopaedia2009ency/page/33 33] |url=https://archive.org/details/newencyclopaedia2009ency/page/33 }}</ref>
+| area_sq_mi                = 3,344 <!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank                = 
+| area_magnitude                = 
+| population_census                = 240,705<ref name = ugrsa>{{cite web |url=http://ugsra.org/ofitsialnaya-statistika.php?ELEMENT_ID=80 |title=Численность наличного населения (на начало года) |publisher=Abkhazian State Statistics Office |accessdate=27 April 2018 |archive-url=https://web.archive.org/web/20180428011837/http://ugsra.org/ofitsialnaya-statistika.php?ELEMENT_ID=80 |archive-date=28 April 2018 |url-status=live  }}</ref>
+| population_census_year                = 2011
+| population_estimate                = 245,246<ref>{{Cite web|url=https://ugsra.org/ofitsialnaya-statistika.php?ELEMENT_ID=386|title=Государственный комитет Республики Абхазия по статистике|website=ugsra.org|accessdate=25 August 2020}}</ref>
+| population_estimate_year                = 2018
+| population_estimate_rank = 185th
+| population_density_km2                = 28
+| population_density_sq_mi                = 72
+| population_density_rank                = 
+| GDP_nominal                = [[US$]]0.5 billion<ref>{{cite web |url=http://www.georgiatimes.info/en/news/37913.html |title=Abkhazia calculated GDP – News |publisher=GeorgiaTimes.info |date=7 July 2010 |accessdate=22 September 2011 |archive-url=https://web.archive.org/web/20110724172817/http://www.georgiatimes.info/en/news/37913.html |archive-date=24 July 2011 |url-status=dead  }}</ref>
+| GDP_nominal_rank                = 
+| GDP_nominal_year                = 2010
+| GDP_nominal_per_capita                = [[US$]]2,039
+| GDP_nominal_per_capita_rank                = 
+| GDP_PPP_year                = 
+| GDP_PPP                = 
+| GDP_PPP_rank                = 
+| GDP_PPP_per_capita                = 
+| GDP_PPP_per_capita_rank                = 
+| Gini_year                = 
+| Gini_change                = <!--increase/decrease/steady-->
+| Gini                = <!--number only-->
+| Gini_ref                = 
+| Gini_rank                = 
+| HDI_year                = 
+| HDI_change                = <!--increase/decrease/steady-->
+| HDI                = <!--number only-->
+| HDI_ref                = 
+| HDI_rank                = 
+| currency                = {{unbulleted list |[[Abkhazian apsar]] |[[Russian ruble]]<sup>e</sup>}}
+| currency_code                = RUB
+| time_zone                = MSK
+| utc_offset                = +3
+| time_zone_DST                = 
+| utc_offset_DST                = 
+| drives_on                = right
+| calling_code                = [[Telephone numbers in Russia|+7]] 840{{\}}940 and [[Telephone numbers in Abkhazia|+995 44]]<ref>{{cite web |title=Abkhazia remains available by Georgian phone codes |url=http://www.today.az/print/news/georgia/58953.html |date=6 January 2010 |accessdate=20 January 2010 |publisher=today.az |archive-url=https://web.archive.org/web/20120712005819/http://www.today.az/print/news/georgia/58953.html |archive-date=12 July 2012 |url-status=live  }}</ref><ref>{{cite web|url=http://www.wtng.info/wtng-995-ge.html|title=World Telephone Numbering Guide|work=wtng.info|access-date=23 June 2014|archive-url=https://web.archive.org/web/20131220025759/http://www.wtng.info/wtng-995-ge.html|archive-date=20 December 2013|url-status=dead}}</ref>
+| footnote_a                = ([[:wikisource:Constitution of Abkhazia|Article 6 of the Constitution]]) guarantees the right to use their mother tongue for all ethnic groups.
+| footnote_b                = Annulled by Georgia immediately thereafter.
+| footnote_c                = To establish, retroactively, ''[[de jure]]'' independence since the [[War in Abkhazia (1992-1993)|1992–1993 war]].
+| footnote_d                = 5 UN member states recognize Abkhazia's independence.
+| footnote_e                = ''[[De facto]]'' currency. Several [[Abkhazian apsar]] commemorative coins have been issued. The apsar is on a fixed exchange rate, pegged to the Russian ruble (1 ruble = 0.10 apsar).
+| iso3166code                = 
+| today                = 
+}}

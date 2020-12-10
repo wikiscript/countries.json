@@ -1,0 +1,98 @@
+{{Infobox country
+| conventional_long_name = Republic of Haiti
+| common_name = Haiti
+| native_name = ''République d'Haïti'' {{small|([[Haitian French|French]])}}<br>{{native name|ht|Repiblik d Ayiti}}<ref>[http://www.haiti.org/wp-content/uploads/2012/09/konstitisyon.pdf Konstitisyon Repiblik d Ayiti]</ref>
+| image_flag = Flag of Haiti.svg
+| image_coat = Coat of arms of Haiti.svg
+| national_motto = <div style="padding-bottom:0.3em;">{{native phrase|fr|"[[Liberté, égalité, fraternité]]"|italics=off|nolink=on}}<ref>{{cite web|url=http://www.haiti-reference.com/histoire/constitutions/const_1987.htm |title=Article 4 of the Constitution |publisher=Haiti-reference.com |access-date=24 July 2013}}</ref><br />{{small|{{native phrase|ht|"Libète, Egalite, Fratènite"|nolink=on}}}}<br />{{small|"Liberty, Equality, Fraternity"}}</div> {{nowrap|'''Motto on traditional coat of arms:'''}}<br />{{native phrase|fr|"[[Unity makes strength|L'union fait la force]]"|italics=off|nolink=on}}<br />{{small|{{native phrase|ht|"Inite se fòs"|nolink=on}}}}<ref>{{Cite web|url=http://www.haitiobserver.com/blog/tag/election/after-the-group-of-g8-now-come-g30-headed-by-louko-desir.html|title=After The Group Of G8, Now Come G30 Headed By Louko Desir|website=Haiti Observer|access-date=28 January 2018}}</ref><br />{{small|"Union makes strength"}}
+| national_anthem = {{native name|fr|[[La Dessalinienne]]|nolink=on}}<br />{{small|{{native name|ht|Desalinyèn|nolink=on}}}}<br />{{small|"The Dessalines Song"}}<div style="padding-top:0.5em;">[[File:Haiti National Anthem.ogg|center]]</div>
+| image_map = Haiti (orthographic projection).svg
+| image_map2 = 
+| capital = [[Port-au-Prince]]
+| coordinates = {{Coord|18|32|N|72|20|W|type:city}}
+| largest_city = Port-au-Prince
+| official_languages = {{unbulleted list | [[Haitian French|French]] | [[Haitian Creole]] }}
+| ethnic_groups = 95% [[Afro-Haitians]]<br />5% [[Mulatto Haitians|mixed]] and [[White Haitians|European Haitians]]<ref name="CIA_20110303" />
+| ethnic_groups_year = 
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |86.9% [[Christians|Christian]]
+  |10.6% [[Irreligion|no religion]]
+  |2.2% [[folk religion]]s
+  |0.3% Others<ref>[http://www.globalreligiousfutures.org/countries/haiti#/?affiliations_religion_id=11&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2015 Haiti]</ref>}}
+| religion_year                = 
+| demonym = [[Haitians|Haitian]]
+| government_type = {{nowrap|[[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]]}} [[republic]]
+| leader_title1 = [[President of Haiti|President]]
+| leader_name1 = [[Jovenel Moïse]]
+| leader_title2 = [[Prime Minister of Haiti|Prime Minister]]
+| leader_name2 = [[Joseph Jouthe]]
+| legislature = [[Haitian Parliament|Parliament]]
+| upper_house = [[Senate (Haiti)|Senate]]
+| lower_house = [[Chamber of Deputies (Haiti)|Chamber of Deputies]]
+| sovereignty_type = [[Haitian Revolution|Independence]]
+| sovereignty_note = from [[French First Republic|France]]
+| established_event1 = Declared
+| established_date1 = 1 January 1804
+| established_event2 = Recognized
+| established_date2 = 17 April 1825
+| established_event3 = [[First Empire of Haiti|First Empire]]
+| established_date3 = 22 September 1804
+| established_event4 = [[State of Haiti|Southern Republic]]
+| established_date4 = 9 March 1806
+| established_event5 = [[State of Haiti|Northern State]]
+| established_date5 = 17 October 1806
+| established_event6 = [[Kingdom of Haiti|Kingdom]]
+| established_date6 = 28 March 1811
+| established_event7 = [[Unification of Hispaniola]]
+| established_date7 = 9 February 1822
+| established_event8 = Dissolution
+| established_date8 = 27 February 1844
+| established_event9 = [[Second Empire of Haiti|Second Empire]]
+| established_date9 = 26 August 1849
+| established_event10 = Republic
+| established_date10 = 15 January 1859
+| established_event11 = [[Constitution of Haiti|Current constitution]]
+| established_date11 = 29 March 1987
+| established_event12          = [[United States occupation of Haiti|United States occupation]]
+| established_date12           = 28 July 1915
+| area_km2 = 27,750
+| area_rank = 143rd <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 10,714 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| percent_water = 0.7
+| population_estimate = 11,439,646{{UN Population|ref}}
+| population_estimate_year = {{UN Population|Year}}
+| population_estimate_rank = 85th
+| population_density_km2 = 382 <!--(population_estimate ÷ area_km2)-->
+| population_density_sq_mi = 989.7 <!--(population_estimate ÷ area_sq_mi)-->
+| population_density_rank = 32nd
+| GDP_PPP = $19.979 billion<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=64&pr1.y=4&c=263&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Haiti |publisher=International Monetary Fund }}</ref>
+| GDP_PPP_year = 2017
+| GDP_PPP_rank = 144th
+| GDP_PPP_per_capita = $1,819<ref name="imf2" />
+| GDP_PPP_per_capita_rank = 174th
+| GDP_nominal = $7.897 billion<ref name="imf2" />
+| GDP_nominal_year = 2017
+| GDP_nominal_rank = 139th
+| GDP_nominal_per_capita = $719<ref name="imf2" />
+| GDP_nominal_per_capita_rank = 172nd
+| Gini = 60.8 <!--number only-->
+| Gini_year = 2012
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=The World Bank |access-date=21 November 2015}}</ref>
+| Gini_rank = 
+| HDI = 0.503 <!--number only-->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank = 169th
+| currency = [[Haitian gourde]] (G)
+| currency_code = HTG
+| time_zone = [[Eastern Time Zone|EST]]
+| utc_offset = −5
+| utc_offset_DST = −4
+| time_zone_DST = [[Eastern Time Zone|EDT]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Haiti|+509]]
+| cctld = [[.ht]]
+| country_code = 
+}}

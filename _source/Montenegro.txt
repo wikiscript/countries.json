@@ -1,0 +1,100 @@
+{{Infobox country
+| conventional_long_name = Montenegro
+| common_name            = Montenegro
+| native_name            = {{native name|cnr|Црна Гора|italics=no}}<br/>{{native name|cnr|Crna Gora}}
+| image_flag             = Flag of Montenegro.svg
+| image_coat             = Coat of arms of Montenegro.svg
+| national_motto         = 
+| national_anthem        = <br/>"{{Lang|sh|[[Oj, svijetla majska zoro|Ој, свијетла мајска зоро]]|italic=no}}" <br /> "{{Lang|sh|Oj, svijetla majska zoro|italic=no}}"<br />({{Lang-en|"Oh, Bright Dawn of May"}})<br /><div style="display:inline-block;margin-top:0.4em;">[[File:National Anthem of Montenegro.ogg|center]]</div>
+| image_map              = Europe-Montenegro.svg
+| map_caption            = {{map caption |location_color=green |region=Europe |region_color=dark grey|legend=Europe-Montenegro.svg}}
+| image_map2             = 
+| capital                = [[Podgorica]]
+| coordinates            = {{Coord|42|47|N|19|28|E|type:city}}
+| largest_city           = capital
+| official_languages     = [[Montenegrin language|Montenegrin]]<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=The official language in Montenegro shall be Montenegrin. Cyrillic and Latin alphabet shall be equal.}}</ref>
+| languages2_type                = In official use languages
+| languages2                = [[Serbian language|Serbian]], [[Bosnian language|Bosnian]], [[Albanian language|Albanian]], [[Croatian language|Croatian]]<ref>{{cite book |url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544 |title=Constitution of Montenegro |chapter-url=http://www.wipo.int/wipolex/en/text.jsp?file_id=187544#LinkTarget_1506 |chapter=Language and alphabet Article 13 |publisher=[[WIPO]] |date=19 October 2007 |quote=Serbian, Bosnian, Albanian and Croatian shall also be in the official use.}}</ref>
+| ethnic_groups          = {{unbulleted list
+ | {{nowrap|45.0% [[Montenegrins]]}}
+ | 28.7% [[Serbs of Montenegro|Serbs]]
+ | 8.6% [[Bosniaks of Montenegro|Bosniaks]]
+ | 4.9% [[Albanians in Montenegro|Albanians]]
+ | 14.5% [[People of Montenegro|Others]]
+}}
+| ethnic_groups_year     = 2011<ref name=Monstat>{{cite web |url=http://www.monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Census of Population, Households and Dwellings in Montenegro 2011 |publisher=Monstat |accessdate=12 July 2011}}</ref>
+| religion               = {{ublist |item_style=white-space:nowrap; |75.93% [[Christianity]] | 19.21% [[Islam in Montenegro|Islam]] | 3.31% [[Irreligion in Montenegro|Irreligious]] | 3.65% [[Religion in Montenegro|Others]]}}
+| religion_year          = 2011
+| demonym                = [[Montenegrins (demonym)|Montenegrin]] <!-- nowiki prevents unwanted link to disambiguation page [[Montenegrin people]] -->
+| government_type        = {{nowrap|[[Unitary state|Unitary]] [[parliamentary system|parliamentary]]<br>[[constitutional republic]]}}
+| leader_title1          = [[President of Montenegro|President]]
+| leader_name1           = [[Milo Đukanović]]
+| leader_title2          = [[Prime Minister of Montenegro|Prime Minister]]
+| leader_name2           = [[Zdravko Krivokapić]]
+| leader_title3         = [[President of the Parliament of Montenegro|President of the Parliament]]
+| leader_name3           = [[Aleksa Bečić]]
+| legislature            = [[Parliament of Montenegro|Skupština]]
+| sovereignty_type       = [[History of Montenegro|Establishment history]]
+| established_event1     = [[Principality of Duklja]]
+| established_date1      = 625
+| established_event2     = [[Kingdom of Duklja]]
+| established_date2      = 1077
+| established_event3     = [[Lordship of Zeta]]
+| established_date3      = 1356
+| established_event4     = [[Prince-Bishopric of Montenegro|Prince-Bishopric proclaimed]]
+| established_date4      = 1516
+| established_event5     = [[Principality of Montenegro]]
+| established_date5      = 1852
+| established_event6     = [[Treaty of Berlin (1878)|Independence recognized]]
+| established_date6      = 1878
+| established_event7     = [[Kingdom of Montenegro|Kingdom proclaimed]]
+| established_date7      = 1910
+| established_event8     = [[Podgorica Assembly|Unification with Serbia]]
+| established_date8      = 1918
+| established_event9     = [[Socialist Republic of Montenegro|Socialist republic]]
+| established_date9      = 1945
+| established_event10    = [[Montenegrin independence referendum, 2006|Independence regained]]
+| established_date10     = 2006
+| area_rank              = 156th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2               = 13,812
+| area_sq_mi             = <!--5332.843-->
+| percent_water          = 2.6
+| population_estimate    = {{Increase}} 622,359 	<ref>http://www.monstat.org/eng/page.php?id=234&pageid=48</ref>
+| population_estimate_year = 2018
+| population_estimate_rank = 169th
+| population_census_year = 2011
+| population_density_km2 = 45
+| population_density_sq_mi = 124
+| population_density_rank = 133rd
+| GDP_PPP                = $13.081&nbsp;billion<ref name="WEO2019">{{cite web |date=October 2019 |url= https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?sy=2018&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=72&pr1.y=18&c=943&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=Report for Selected Countries and Subjects |website=IMF.org |publisher=[[International Monetary Fund]] | access-date=28 January 2020}}</ref>
+| GDP_PPP_year           = 2020
+| GDP_PPP_rank           = 
+| GDP_PPP_per_capita     = $20,977<ref name="WEO2019"/>
+| GDP_PPP_per_capita_rank = 74th
+| GDP_nominal            = $5.685&nbsp;billion<ref name="WEO2019"/>
+| GDP_nominal_year       = 2020
+| GDP_nominal_rank       = 
+| GDP_nominal_per_capita = $9,116<ref name="WEO2019"/>
+| GDP_nominal_per_capita_rank = 72nd
+| Gini                   = 36.7
+| Gini_year              = 2017
+| Gini_change            = increase
+| Gini_ref               = <ref>{{cite web |title=Gini coefficient of equivalised disposable income - EU-SILC survey |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |website=ec.europa.eu/eurostat |publisher=[[Eurostat]] |accessdate=30 March 2020}}</ref>
+| Gini_rank              = 
+| HDI                    = 0.816 <!--number only-->
+| HDI_year               = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank               = 52nd
+| currency               = [[Euro]] ([[Euro sign|€]])<sup>a</sup>
+| currency_code          = EUR
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +1
+| utc_offset_DST         = +2
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| drives_on              = right
+| calling_code           = [[Telephone numbers in Montenegro|+382]]
+| cctld                  = [[.me]]
+| footnote_a             = [[Montenegro and the euro|Adopted unilaterally]]; Montenegro is not a member of the [[Eurozone]].
+| today                  = 
+}}

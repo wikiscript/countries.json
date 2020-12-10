@@ -4,7 +4,7 @@
 | native_name            = {{native name|de|Republik Österreich}}
 | image_flag             = Flag of Austria.svg
 | image_coat             = Austria Bundesadler.svg
-| national_motto         =
+| national_motto         = 
 | national_anthem        = {{unbulleted list
  | {{native name|de|[[National anthem of Austria|Bundeshymne der Republik Österreich]]}}
  | ({{Lang-en|"National Anthem of the Republic of Austria"}})
@@ -81,7 +81,7 @@
 | population_density_rank  = 106th
 | GDP_PPP                  = $461.432 billion<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=70&pr1.y=9&c=122&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Austria |publisher=[[International Monetary Fund]]|date=1 April 2018|access-date=23 July 2018}}</ref>
 | GDP_PPP_year             = 2018
-| GDP_PPP_rank             =
+| GDP_PPP_rank             = 
 | GDP_PPP_per_capita       = $51,936<ref name=imf2/>
 | GDP_PPP_per_capita_rank  = 17th
 | GDP_nominal              = $446,315 billion<ref name=imf2/>

@@ -1,0 +1,55 @@
+{{Infobox UK country
+| native_name              = {{ubl|{{native name|ga|Tuaisceart Éireann|nbsp=omit}}|''{{lang|sco|Norlin Airlann}}'' {{small|([[Ulster Scots dialects|Ulster Scots]])}}}}
+| motto                    =
+| status                   = [[Country of the United Kingdom|Country]] ([[Administrative division|constituent unit]])
+| capital                  = [[Belfast]]
+| coordinates              = {{Coord|54|36|N|5|55|W|type:city}}
+| largest_city             = capital
+| languages_type           = [[Languages of Northern Ireland|Languages]]{{ref label|footnote_b|b}}
+| languages                = [[English language|English]]
+| languages2_type          = Regional languages
+| languages2_sub           = yes
+| languages2               = {{hlist |[[Irish language|Irish]]|[[Ulster Scots dialects|Ulster-Scots]]}}
+| ethnic_groups            = {{unbulleted list|98.21% [[White people|White]]|1.06% [[Asian people|Asian]]|0.20% [[Black people|Black]]|0.53% other<ref>{{cite web |url=https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/2011-census-results-key-statistics-northern-ireland-report-11-december-2012.pdf |title=Northern Ireland Census 2011 Output |publisher=[[Northern Ireland Statistics and Research Agency]] |date=11 December 2012|page=15 |access-date=7 October 2019 }}</ref>}}
+| ethnic_groups_year       = 2011
+| politics_link            = Politics of Northern Ireland
+| legal_jurisdiction       = [[Northern Ireland law|Northern Ireland]]
+| government_type          = [[Consociational]] [[Devolution in the United Kingdom|devolved]]&nbsp;legislature within [[unitary state|unitary]] [[constitutional monarchy]]
+| monarch                  = [[Elizabeth&nbsp;II]]
+| first_minister           = [[Arlene Foster]]
+| deputy_first_minister    = [[Michelle O'Neill]]
+| secretary_of_state       = [[Brandon Lewis]]
+| number_of_mps            = 18
+| sovereignty_type         = [[History of Northern Ireland|Devolution]]
+| established_event1       = [[Government of Ireland Act 1920|Government of Ireland Act]]
+| established_date1        = 3 May 1921
+| established_event2       = {{nowrap|[[Northern Ireland Constitution Act 1973|Constitution Act]]}}
+| established_date2        = 18 July 1973
+| established_event3       = {{nowrap|[[Northern Ireland Act 1974|Northern Ireland Act]]}}
+| established_date3        = 17 July 1974
+| established_event4       = {{nowrap|[[Northern Ireland Act 1998|Northern Ireland Act]]}}
+| established_date4        = 19 November 1998
+| legislature              = [[Northern Ireland Assembly]]
+| area_rank                =
+| area_km2                 = 14130
+| area_footnote            = <ref name="ONS Countries">{{cite web|title=The Countries of the UK|url=http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/administrative/the-countries-of-the-uk/index.html|website=Office for National Statistics|publisher=Office for National Statistics (United Kingdom)|access-date=7 July 2015|ref=ONS Countries}}</ref>
+| area_sq_mi               = 5456
+| percent_water            =
+| population_estimate      = {{increase}} 1,893,700<ref>{{Cite web|url=http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates|title=Population estimates – Office for National Statistics|website=www.ons.gov.uk|access-date=18 July 2020}}</ref>
+| population_estimate_rank =
+| population_estimate_year = 2019
+| population_census        = 1,810,863<ref name="Norther Ireland Statistics & Research Agency 2012">{{cite web|title=Census 2011 Key Statistics for Northern Ireland |url=http://www.nisra.gov.uk/Census/key_report_2011.pdf |access-date=14 January 2013 |author=Northern Ireland Statistics & Research Agency |date=December 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121224033625/http://www.nisra.gov.uk/Census/key_report_2011.pdf |archive-date=24 December 2012 }}</ref>
+| population_census_year   = 2011
+| population_density_km2   = 133
+| population_density_sq_mi = 345
+| population_density_rank  =
+| GVA_year                 = 2018
+| GVA                      = £49 billion<ref>https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/regionaleconomicactivitybygrossdomesticproductuk/1998to2018/pdf</ref>
+| GVA_per_capita           = £26,000
+| GVA_rank                 =
+| HDI_year                 = 2018 | HDI_change = <!--increase/decrease/steady--> | HDI = 0.887<!--number only--> | HDI_ref = <ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/GBR/?levels=1%2B4&interpolation=0&extrapolation=0&nearest_real=0&years=2018&colour_scales=national|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|access-date=13 September 2018}}</ref> | HDI_rank =
+| calling_code             = [[Telephone numbers in the United Kingdom|+44]]{{ref label|footnote_c|c}}
+| footnote_a               = The official flag of Northern Ireland is the [[Union Jack]] ''[[de jure]]''.<ref>{{cite web|url=http://www.legislation.gov.uk/nisr/2000/347/contents/made | title= The Flags Regulations (Northern Ireland) 2000 | publisher = [[Government of the United Kingdom]] | date = 8 November 2000 | access-date =26 October 2019}}</ref> The [[Ulster Banner]] was used by the [[Parliament of Northern Ireland]] from 1953 until the latter was abolished in 1973. The Ulster Banner is still used by some organisations and entities and has been adopted as an unofficial flag of the region by [[Unionism in Northern Ireland|unionists]] but its use is controversial. See [[Northern Ireland flags issue]] for more.
+| footnote_b               = {{note|footnote_b}} Northern Ireland has no official language. English serves as the ''[[de facto]]'' language of government and diplomacy and is the ''[[de jure]]'' language of legal proceedings. Irish and Ulster Scots are officially recognised by [[Her Majesty's Government]] as [[minority languages]].
+| footnote_c               = {{note|footnote_c}} +44 is always followed by 28 when calling landlines. The code is 028 within the UK and 048 from the Republic of Ireland where it is treated as a domestic call.
+}}

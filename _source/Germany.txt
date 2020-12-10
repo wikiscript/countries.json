@@ -1,0 +1,85 @@
+{{Infobox country
+| conventional_long_name   = Federal Republic of Germany
+| common_name              = Germany
+| native_name              = {{nowrap|{{small|{{native name|de|Bundesrepublik Deutschland|nbsp=omit}}}}}}
+| image_flag               = Flag of Germany.svg
+| image_coat               = Coat of arms of Germany.svg
+| national_anthem          = "[[Deutschlandlied]]"{{efn|From 1952 to 1990, the entire "Deutschlandlied" was the national anthem, but only the third verse was sung on official occasions. Since 1991, the third verse alone has been the national anthem.<ref name="PresidentsOffice">{{cite web|url=http://www.bundespraesident.de/DE/Amt-und-Aufgaben/Wirken-im-Inland/Repraesentation-und-Integration/repraesentation-und-integration-node.html|title=Repräsentation und Integration|last=Bundespräsidialamt|authorlink=Bundespräsidialamt|language=de|url-status=live|archiveurl=https://web.archive.org/web/20160307221541/http://www.bundespraesident.de/DE/Amt-und-Aufgaben/Wirken-im-Inland/Repraesentation-und-Integration/repraesentation-und-integration-node.html|archivedate=7 March 2016|accessdate=8 March 2016}}</ref>}}<br />({{lang-en|"Song of Germany"}})<br /><div style="display:inline-block;margin-top:0.4em;">[[File:German national anthem performed by the US Navy Band.ogg]]</div>
+| image_map                = {{switcher|[[File:EU-Germany (orthographic projection).svg|frameless]]|Show globe|[[File:EU-Germany.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption              = {{map caption
+| location_color           = dark green
+| region                   = Europe
+| region_color             = dark grey
+| subregion                = the [[European Union]]
+| subregion_color          = light green
+}}
+| map_width                = 250px
+| capital                  = [[Berlin]]<small>{{efn|Berlin is the sole constitutional capital and ''de jure'' seat of government, but the former provisional capital of the Federal Republic of Germany, [[Bonn]], has the special title of "federal city" (''{{lang|de|Bundesstadt}}'') and is the primary seat of six ministries.<ref>{{cite web|url=https://www.deutschland.de/en/topic/politics/the-german-federal-government|website=deutschland.de|title=The german Federal Government|date=23 January 2018|archive-url=https://web.archive.org/web/20200430004825/https://www.deutschland.de/en/topic/politics/the-german-federal-government|archive-date=30 April 2020|url-status=live}}</ref>}}</small>
+| coordinates              = {{Coord|52|31|N|13|23|E|type:city}}
+| largest_city             = capital
+| languages_type           = Official language<br />{{nobold|and national language}}
+| languages                = [[German language|German]]{{efn|[[Danish language|Danish]], [[Low German]], [[Sorbian languages|Sorbian]], [[Romani language|Romany]], and [[Frisian languages|Frisian]] are recognised by the [[European Charter for Regional or Minority Languages]].<ref>{{cite web|url=https://blogs.loc.gov/law/2018/09/the-protection-of-minority-and-regional-languages-in-germany/|publisher=Library of Congress|last=Gesley|first=Jenny|title=The Protection of Minority and Regional Languages in Germany|date=26 September 2018|archive-url=https://web.archive.org/web/20200525092638/https://blogs.loc.gov/law/2018/09/the-protection-of-minority-and-regional-languages-in-germany/|archive-date=25 May 2020|url-status=live}}</ref>}}
+| demonym                  = [[Germans|German]]
+| government_type          = [[Federation|Federal]] [[Parliamentary system|parliamentary]] [[republic]]
+| leader_title1            = [[President of Germany|President]]
+| leader_name1             = [[Frank-Walter Steinmeier]]
+| leader_title2            = [[Chancellor of Germany (Federal Republic of Germany)|Chancellor]]
+| leader_name2             = [[Angela Merkel]]
+| leader_title3            = [[Vice-Chancellor of Germany|Vice Chancellor]]
+| leader_name3             = [[Olaf Scholz]]
+| legislature              = {{sp}}
+| upper_house              = [[Bundesrat of Germany|Bundesrat]]
+| lower_house              = [[Bundestag]]
+| sovereignty_type         = [[History of Germany|Formation]]
+| established_event1       = {{nowrap|[[Unification of Germany|Unification]]}}
+| established_date1        = 18 January 1871
+| established_event2       = {{nowrap|[[Weimar Republic|Monarchy abolished]]}}
+| established_date2        = 9 November 1918
+| established_event3       = [[Nazi Germany]]
+| established_date3        = 23 March 1933
+| established_event4       = {{nowrap|[[History of Germany (1945–90)|West-East division]]{{efn|The [[West Germany|Federal Republic of Germany]] was proclaimed on the [[Allied-occupied Germany|British, American and French occupation zones]] on 23 May 1949 while the [[East Germany|German Democratic Republic]] was formed from the [[Soviet occupation zone]] on 7 October 1949.}}}}
+| established_date4        = 23 May 1949
+| established_event5       = [[German reunification|Reunification]]
+| established_date5        = 3 October 1990
+| area_km2                 = 357,022
+| area_footnote            = <ref name="CIA" />
+| area_rank                = 62nd <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi               = 137,847 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water            = 1.27 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate      = {{increase}} 83,166,711<ref name="2018pop">{{cite web|url=https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/zensus-geschlecht-staatsangehoerigkeit-2019.html|title=Bevölkerung nach Geschlecht und Staatsangehörigkeit|accessdate=15 July 2018|website=Destatis|archive-url=https://web.archive.org/web/20190823083410/https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/zensus-geschlecht-staatsangehoerigkeit-2019.html|archive-date=23 August 2019|url-status=live}}</ref>
+| population_estimate_year = 2019
+| population_estimate_rank = 18th
+| population_density_km2   = 232
+| population_density_sq_mi = 601 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank  = 58th
+
+| GDP_PPP                  = {{decrease}} $4.454 trillion<ref name=imf2>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=134,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2019&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=March 30, 2020}}</ref>
+| GDP_PPP_rank                = 5th
+| GDP_PPP_year                = 2020
+| GDP_PPP_per_capita          = {{decrease}} $53,571<ref name="imf2" />
+| GDP_PPP_per_capita_rank     = 15th
+| GDP_nominal                 = {{decrease}} $3,780 trillion<ref name="imf2" />
+| GDP_nominal_rank            = 4th
+| GDP_nominal_year            = 2020
+| GDP_nominal_per_capita      = {{decrease}} $45,466<ref name="imf2" />
+| GDP_nominal_per_capita_rank = 15th
+| Gini                        = 31.1 <!--number only-->
+| Gini_year                   = 2018
+| Gini_change                 = increase <!--increase/decrease/steady-->
+| Gini_ref                    = <ref name="eurogini">{{cite web|url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1|title=Gini coefficient of equivalised disposable income|publisher=[[Eurostat]]|accessdate=14 October 2019|archive-url=https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1|archive-date=20 March 2019|url-status=live}}</ref>
+| Gini_rank                   =
+| HDI                         = 0.939 <!--number only-->
+| HDI_year                    = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                  = increase<!--increase/decrease/steady-->
+| HDI_ref                     = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|date=10 December 2019|publisher=[[United Nations Development Programme]]|archive-url=https://web.archive.org/web/20170322121226/http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/ROU.pdf|archive-date=22 March 2017|url-status=dead|access-date=10 December 2019}}</ref>
+| HDI_rank                    = 4th
+| currency                    = [[Euro]] ([[Euro sign|€]])
+| currency_code               = EUR
+| time_zone                   = [[Central European Time|CET]]
+| utc_offset                  = +1
+| utc_offset_DST              = +2
+| time_zone_DST               = [[Central European Summer Time|CEST]]
+| cctld                       = [[.de]]
+| today                       =
+| drives_on                   = Right
+}}

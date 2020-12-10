@@ -1,0 +1,33 @@
+{
+  "template": "infobox dependency",
+  "name": "Bouvet Island",
+  "native_name": "Bouvetøya (no) / Bouvet-øya (no)",
+  "settlement_type": "Dependent territory of Norway",
+  "image_map": "Bouvet Island on the globe (Antarctica centered).svg",
+  "map_alt": "Location of Bouvet Island (circled in red)",
+  "mapsize": "290px",
+  "subdivision_type": "Sovereign state",
+  "subdivision_name": "!!{{flag | Norway}}",
+  "established_title": "Annexed by Norway",
+  "established_date": "23 January 1928",
+  "established_title2": "Dependency status",
+  "established_date2": "27 February 1930[^1]",
+  "established_title3": "Nature reserve declared",
+  "established_date3": "17 December 1971[^2]",
+  "government_type": "Dependency under a constitutional monarchy",
+  "leader_title1": "Monarch",
+  "leader_name1": "Harald V",
+  "leader_title2": "Administered by",
+  "leader_name2": "Ministry of Justice and Public Security",
+  "area_km2": "49",
+  "area_label2": "Glaciated",
+  "area_data2": "93%",
+  "elevation_max_m": "780",
+  "population_estimate": "0",
+  "iso_code": "BV",
+  "cctld": "!!{{hlist | .no | .bv }}!!{{Infobox protected area | name=Bouvetøya Nature Reserve | child=yes | iucn_category=Ia}}",
+  "references": {
+    "[^1]": "??",
+    "[^2]": "??"
+  }
+}

@@ -1,0 +1,75 @@
+{{Infobox dependency
+| name = Åland Islands
+| native_name = {{native name|sv|Landskapet Åland}}<br />{{native name|fi|Ahvenanmaan maakunta}}
+| settlement_type = [[Regions of Finland|Autonomous region of Finland]]
+| linking_name = Åland
+| image_flag = Flag of Åland.svg
+| flag_size = 125px
+| flag_link = Flag of Åland
+| image_seal = Aland coat of arms.svg
+| seal_size = 61px
+| seal_type = Coat of arms
+| seal_link = Coat of arms of Åland
+| motto = "Islands of Peace"<ref>Tim Vickery, Associated Press (18 July 2004) ''Deseret News''.</ref>
+| anthem = {{native phrase|sv|"[[Ålänningens sång]]"|italics=off}}<br />({{Lang-en|"Song of the Ålander"}})<br />[[File:National Anthem - Åland Islands.mid]]
+| image_map = Ahvenanmaa.sijainti.suomi.2020.svg
+| map_caption = Location of Åland within Finland
+| map_alt = Location of Åland within Finland
+| mapsize = 290px
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = [[Finland]]
+| established_title = Autonomy granted
+| established_date = 7 May 1920<ref name="autonomy">{{cite book|author=Hurst Hannum|title=Basic Documents on Autonomy and Minority Rights|url=https://books.google.com/books?id=_oV3pKJfnvcC|year=1993|publisher=Martinus Nijhoff Publishers|isbn=0-7923-1977-X|chapter=Agreement between Sweden and Finland Relating to Guarantees in the Law of 7 May 1920 on the Autonomy of the Aaland Islands|page=141}}</ref>
+| established_title2 = [[Special member state territories and the European Union#Åland Islands|EU accession]]
+| established_date2 = 1 January 1995
+| official_languages = [[Swedish language|Swedish]]
+| demonym = {{hlist|Ålandic|Ålandish|Ålänning|Åländare|Ahvenanmaalainen}}
+| capital = [[Mariehamn]]
+| coordinates = {{Coord|60|07|N|019|54|E|type:city}}
+| largest_city = capital
+| government_type = [[Devolution|Devolved]] [[Parliamentary system|parliamentary]] [[Autonomous administrative division|autonomous region]]
+| leader_title1 = Governor
+| leader_name1 = [[Peter Lindbäck]]
+| leader_title2 = [[Lantråd|Premier]]
+| leader_name2 = [[Veronica Thörnroos]]
+| legislature = [[Parliament of Åland|Lagting]]
+| area_km2 = 1,580<ref name=norden>{{cite web |url=http://pxnet2.stat.fi/PXWeb/pxweb/fi/StatFin/StatFin__vrm__vamuu/005_vamuu_tau_101.px/?rxid=f57a9b0d-6b40-4851-a896-18275f7b60dd |title=Ennakkoväkiluku sukupuolen mukaan alueittain, helmikuu.2016|website=Pxnet2.stat.fi |accessdate=31 March 2016}}</ref>
+| area_rank = unranked
+| area_sq_mi = 610 <!--Do not remove per [[WP:MOSNUM]]-->
+| elevation_max_m = 129.1
+| population_estimate = 29,884<ref name="auto">https://www.asub.ax/sites/www.asub.ax/files/attachments/page/statistisk_arsbok_for_aland_2019_1.pdf</ref>
+| population_census = 
+| population_estimate_year = 2019
+| population_estimate_rank = 223rd
+| population_census_year = 2013
+| population_density_km2 = 18.36
+| population_density_sq_mi = 46.98 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 
+| GDP_PPP = $1.563 billion<ref>{{cite web|url=http://www.asub.ax/text.con?iPage=227|title=Välkommen till ÅSUB! - Ålands statistik- och utredningsbyrå|website=Asub.ax|accessdate=26 October 2017}}</ref>
+| GDP_PPP_year = 2007
+| GDP_PPP_per_capita = $55,829
+| Gini = <!--number only-->
+| Gini_year = 
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = 
+| Gini_rank = 
+| HDI = 0.900 <!--number only-->
+| HDI_year = 2017
+| HDI_change = <!--increase/decrease/steady-->
+| HDI_ref = <ref>{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref>
+| HDI_rank = 
+| currency = [[Euro]] (€)
+| currency_code = EUR
+| timezone = [[Eastern European Time|EET]]
+| utc_offset = +02:00
+| timezone_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST = +03:00
+| date_format = dd.mm.yyyy
+| drives_on = right
+| calling_code = [[Telephone numbers in Åland|+358 18]]
+| postal_code_type =
+| postal_code =
+| iso_code = {{hlist|[[ISO 3166-2:AX|AX]]|[[ISO 3166-2:FI|FI-01]]}}
+| cctld = [[.ax]]
+| website = [https://www.aland.ax/en www.aland.ax]
+}}

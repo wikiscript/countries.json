@@ -1,0 +1,103 @@
+{{Infobox country
+| conventional_long_name = Republic of Croatia
+| common_name            = Croatia
+| native_name            = {{native name|hr|Republika Hrvatska}}<small>{{efn|name=a|In the recognized minority languages and the most spoken [[minority languages of Croatia]]:
+:* {{lang-cs|Chorvatská republika}}
+:* {{lang-de|Republik Kroatien}}
+:* {{lang-fr|République de Croatie}}
+:* {{lang-hu|Horvát Köztársaság}}
+:* {{lang-it|Repubblica di Croazia}}
+:* {{lang-rue|Републіка Хорватія}}
+:* {{lang-sr|Република Хрватска}}
+:* {{lang-sk|Chorvátska republika}}
+:* {{lang-sl|Republika Hrvaška}}
+:* {{lang-uk|Респу́бліка Хорва́тія}}
+}}</small>
+| image_flag             = Flag of Croatia.svg
+| image_coat             = Coat of arms of Croatia.svg
+| anthem                 = "[[Lijepa naša domovino]]"<br />({{Lang-en|"Our Beautiful Homeland"}})<br /><div style="display:inline-block;margin-top:0.4em;">[[File:Lijepa nasa domovino instrumental.ogg|center]]</div>
+| image_map              = EU-Croatia.svg
+| map_caption            = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green |legend=}}
+| capital                = [[Zagreb]]
+| coordinates            = {{Coord|45|48|N|16|0|E|type:city}}
+| largest_city           = capital
+| official_languages     = [[Croatian language|Croatian]]<small>{{efn|name=c|Apart from Croatian, [[Regions of Croatia|state counties]] have [[Minority languages of Croatia|official regional languages]] that are used for official government business and commercially. [[Istria County]] is [[Italian language in Croatia|Italian-speaking]]<ref>{{cite web|url=http://www.pravosudje.hr/europska-povelja-o-regionalnim-ili-manjinskim-jezi|title=Europska povelja o regionalnim ili manjinskim jezicima|date=4 November 2011|publisher=[[Ministry of Justice (Croatia)]]|language=Croatian|archiveurl=https://web.archive.org/web/20131227001603/http://www.pravosudje.hr/europska-povelja-o-regionalnim-ili-manjinskim-jezi|archivedate=27 December 2013|url-status=dead|accessdate=1 December 2018}}</ref><ref name="Census-2011-languages"/> while select counties bordering Serbia [[Serbian language in Croatia|speak standard Serbian]].<ref>{{Cite news|url=https://www.economist.com/the-economist-explains/2017/04/10/is-serbo-croatian-a-language|title=Is Serbo-Croatian a language?|date=10 April 2017|work=The Economist|access-date=1 December 2018|language=en}}</ref> Other notable–albeit significantly less-present minority languages in Croatia include: [[Czech language|Czech]], [[Hungarian language|Hungarian]], and [[Slovak language|Slovak]].}}</small>
+| languages_type         = [[Writing system]]
+| languages              = [[Latin alphabet|Latin]]<small>{{efn|name=d|The [[Croatian language|writing system of Croatia]] is legally [[Croatian language#Official status|protected by federal law]]. Efforts to recognise minority scripts, pursuant to international law, on a local level, has been met with [[Anti-Cyrillic protests in Croatia|protests]].}}</small>
+| ethnic_groups          = {{Unbulleted list |90.42% [[Croats]] |4.36% [[Serbs of Croatia|Serbs]] |item3_style=padding-top:0.2em;line-height:1.2em|5.22% [[Demographics of Croatia#Ethnic groups|others]]}}
+| ethnic_groups_year     = 2011<ref name="Census2011-nationality">{{Croatian Census 2011|E}}</ref>
+| religion               = {{ublist |item_style=white-space:nowrap; |90.72% [[Christianity|Christian]]<small>|-86.28% [[Catholic Church in Croatia|Catholicism]] |-4.44% [[Eastern Orthodoxy in Croatia|Eastern Orthodoxy]]</small> |4.57% [[Irreligion in Croatia|Irreligious]] |1.47% [[Islam in Croatia|Islam]] |2.90% [[Religion in Croatia|Others]]}}
+| religion_year          = 2011
+| demonym                = {{hlist|[[Croats|Croatian]]}}
+| government_type        = [[Unitary state|Unitary]] [[Parliamentary republic|parliamentary]] [[Republic|constitutional republic]]
+| leader_title1          = [[President of Croatia|President]]
+| leader_name1           = [[Zoran Milanović]]
+| leader_title2          = [[Prime Minister of Croatia|Prime Minister]]
+| leader_name2           = [[Andrej Plenković]]
+| leader_title3          = [[Speaker of the Croatian Parliament|Speaker of Parliament]]
+| leader_name3           = [[Gordan Jandroković]]
+| legislature            = [[Sabor]]
+| established_event1     = [[Duchy of Croatia|Duchy]]
+| established_date1      = 9th century
+| established_event2     = [[Kingdom of Croatia (925–1102)|Kingdom]]
+| established_date2      = 925
+| established_event3     = [[Personal union with Hungary]]
+| established_date3      = 1102
+| established_event4     = Joined [[Kingdom of Croatia (Habsburg)|Habsburg Monarchy]]
+| established_date4      = 1 January 1527
+| established_event5     = Secession from<br />[[Austria-Hungary]]
+| established_date5      = 29 October 1918
+| established_event6     = [[Creation of Yugoslavia]]
+| established_date6      = 4 December 1918
+| established_event7     = [[Independence of Croatia|Decision on independence]]
+| established_date7      = 25 June 1991
+| established_event8     = [[Erdut Agreement]]
+| established_date8      = 12 November 1995
+| established_event9     = [[2013 enlargement of the European Union|Joined]] the [[European Union]]
+| established_date9      = 1 July 2013
+| area_km2               = 56,594
+| area_rank              = 124th
+| area_sq_mi             = 21,851
+| percent_water          = 1.09
+| population_estimate    = 4,058,165<ref>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tps00001 |title=Population on 1 January |publisher=[[Eurostat]] |website=ec.europa.eu/eurostat |access-date=7 August 2020}}</ref>
+| population_census      = 4,284,889<ref name="Census 2011 counties">{{Croatian Census 2011|S}}</ref>
+| population_estimate_year = 2020
+| population_census_year = 2011
+| population_estimate_rank = 128th
+| population_census_rank = 
+| population_density_km2 = 73
+| population_density_sq_mi = 189
+| population_density_rank = 109th
+| GDP_PPP                = $117.928 billion<ref name=WEO2018>{{cite web|url= https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=103&pr.y=11&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=960&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|accessdate=16 January 2020 |title=World Economic Outlook Database, October 2019 – Croatia|work=International Monetary Fund}}</ref>
+| GDP_PPP_year           = 2020
+| GDP_PPP_rank           = 81st
+| GDP_PPP_per_capita     = $29,207<ref name=WEO2018/>
+| GDP_PPP_per_capita_rank = 55th
+| GDP_nominal            = $63.172 billion<ref name=WEO2018/>
+| GDP_nominal_year       = 2020
+| GDP_nominal_rank       = 77th
+| GDP_nominal_per_capita = $15,646<ref name=WEO2018/>
+| GDP_nominal_per_capita_rank = 55th
+| Gini                   = 29.7
+| Gini_year              = 2018
+| Gini_change            = decrease <!--increase/decrease/steady-->
+| Gini_ref               = <ref>{{cite web|title=First Results|url=http://www.dzs.hr/Eng/system/first_results.htm|accessdate=21 July 2017}}</ref>
+| Gini_rank              = 17th
+| HDI_year               = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI                    = 0.837 <!--number only-->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank               = 46th
+| currency               = [[Croatian kuna|Kuna]]
+| currency_code          = HRK
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +1
+| utc_offset_DST         = +2
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| date_format            = dd.mm.yyyy&nbsp;([[Common Era|CE]])
+| drives_on              = right
+| calling_code           = [[+385]]
+| patron_saint           = [[St. Joseph]]<ref name="Hrvatski sabor - Povijest">{{cite web|url=http://www.sabor.hr/sv-josip-zastitnik-hrvatske-domovine|accessdate=10 March 2018|title=Hrvatski sabor – Povijest|archive-url=https://web.archive.org/web/20180306022924/http://www.sabor.hr/sv-josip-zastitnik-hrvatske-domovine|archive-date=6 March 2018|url-status=dead}}</ref>
+| cctld                  = {{vunblist| [[.hr]] and [[.eu]]}}
+| today                  = 
+}}

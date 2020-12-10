@@ -1,0 +1,84 @@
+{{Infobox country
+| conventional_long_name = Republic of Paraguay
+| native_name            = {{ubl|{{native name|es|República del Paraguay}}|{{native name|gn|Tetã Paraguái}}}}
+| common_name            = Paraguay
+| image_flag             = Flag_of_Paraguay.svg
+| flag_caption           = {{nowrap|Flag{{tsp}}<small>{{#tag:ref |The reverse side of the Flag of Paraguay:<br/>[[File:Flag_of_Paraguay_(reverse).svg|100px|left]]{{-}} |group="nb"}}</small><!--(end nowrap:)-->}}
+| image_coat             = Coat of arms of Paraguay.svg
+| symbol_type            = {{nowrap|[[Coat of arms of Paraguay|Seal]]{{tsp}}{{#tag:ref |The reverse side of the National Seal of Paraguay:<br/>[[File:Coat of arms of Paraguay (reverse).svg|100px|left]]{{-}} |group="nb"}}<!--(end nowrap:)-->}}
+| image_map              = PRY orthographic.svg
+| map_caption            = {{map caption |location_color=dark green |region=[[South America]] |region_color= grey }}
+| image_map2             = Paraguay - Location Map (2012) - PRY - UNOCHA.svg
+| national_motto         = {{native phrase|es|"Paz y justicia"|italics=off|nolink=on}}<br/>"Peace and justice"
+| national_anthem        = <br/>{{native name|es|[[Paraguayan National Anthem|Himno Nacional Paraguayo]]|nolink=on}}<br/><div style="padding-top:0.5em;">[[File:Paraguayan National Anthem.oga|center]]</div>
+| languages_type         = [[Official language]]s<ref name=languages>{{cite journal |url=http://www.servat.unibe.ch/icl/pa00000_.html#A140_ |title=Paraguay – Constitution, Article 140 About Languages |publisher=International Constitutional Law Project |access-date=3 December 2007 |archive-url=https://www.webcitation.org/6ATSFpvnY?url=http://www.servat.unibe.ch/icl/pa00000_.html#A140_ |archive-date=6 September 2012 |url-status=dead }} (see [http://www.servat.unibe.ch/icl/pa__indx.html translator's note] {{Webarchive|url=https://web.archive.org/web/20170201143025/http://www.servat.unibe.ch/icl/pa__indx.html |date=1 February 2017 }})</ref><ref>{{cite web |url=http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf |title=8 LIZCANO |publisher=Convergencia.uaemex.mx |access-date=5 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130115054959/http://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf |archive-date=15 January 2013}}</ref>
+| official_languages     = {{hlist |[[Spanish language|Spanish]] <br> [[Guarani language|Guarani]]}}
+| demonym                = [[Paraguayan]]<br>Guaraní (colloquial)<ref>{{cite book|url=https://books.google.com/books?id=lwGSDQAAQBAJ&q=paraguayans+refer+to+themselves+as+Guarani&pg=PA14|title=Prophets of Agroforestry: Guaraní Communities and Commercial Gathering|first=Richard K.|last=Reed|date=1 May 1995|publisher=University of Texas Press|isbn=9780292744875|via=Google Books}}</ref>
+| ethnic_groups          = {{unbulleted list
+ | 95% [[Mestizo]] (mixed [[Indigenous peoples in Paraguay|Native]] and [[White Latin Americans|European]])
+ | 5% Other
+}}
+| ethnic_groups_year = 2016<ref name=CIA>{{cite web |author=Central Intelligence Agency |title=Paraguay |work=The World Factbook |publisher=Central Intelligence Agency |location=Langley, Virginia |year=2016 |url=https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html |access-date=1 January 2017 |archive-url=https://web.archive.org/web/20151104205444/https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html |archive-date=4 November 2015 |url-status=live }}</ref>
+| capital                = [[Asunción]]
+| coordinates            = {{Coord|25|16|S|57|40|W|type:city}}
+| largest_city           = Asunción
+| religion_year = 2018
+| religion_ref           = <ref>[https://www.statista.com/statistics/1067159/paraguay-religion-affiliation-share-type// Religion affiliation in Paraguay as of 2018. Based on Latinobarómetro.] Survey period: June 15 to August 2, 2018, 1,200 respondents.</ref>
+| religion               = 96.1% [[Christianity]]<br />—88.3% [[Catholic Church in Paraguay|Roman Catholic]]<br />—7.8% Other [[List of Christian denominations|Christian]]<br />2.6% [[Irreligion in Latin America|No religion]]<br />0.4% Other [[Religion in Paraguay|religion]]s<br />0.8% No answer
+| government_type        = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Presidential system|presidential]] [[republic]]
+| leader_title1          = [[President of Paraguay|President]]
+| leader_name1           = [[Mario Abdo Benítez]]
+| leader_title2          = [[Vice President of Paraguay|Vice President]]
+| leader_name2           = [[Hugo Velázquez Moreno|Hugo Velázquez]]
+| legislature            = [[Congress of Paraguay|Congress]]
+| upper_house            = [[Senate of Paraguay|Senate]]
+| lower_house            = [[Chamber of Deputies of Paraguay|Chamber of Deputies]]
+| area_rank = 60th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2               = 406757
+| percent_water          = 2.6
+| population_estimate    = 7,292,672<ref name=imf2>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|work=World Economic Outlook Database, October 2018|publisher=[[International Monetary Fund]]|title=Paraguay|date=9 October 2018|access-date=9 October 2018|archive-url=https://web.archive.org/web/20190331072622/https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|archive-date=31 March 2019|url-status=live}}</ref>
+| population_estimate_rank = 104th
+| population_estimate_year = 2020
+| population_census      = 
+| population_census_year = 
+| population_density_km2 = 17.93
+| population_density_sq_mi = 39 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 210th
+| GDP_PPP                = $101.075 billion<ref name=imf2>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|work=World Economic Outlook Database, October 2018|publisher=[[International Monetary Fund]]|title=Paraguay|date=9 October 2018|access-date=9 October 2018|archive-url=https://web.archive.org/web/20190331072622/https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=56&pr.y=7&sy=2016&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=288&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&grp=0&a=|archive-date=31 March 2020|url-status=live}}</ref>
+| GDP_PPP_rank = 90th
+| GDP_PPP_year = 2020
+| GDP_PPP_per_capita     = $15,030
+| GDP_PPP_per_capita_rank = 96th
+| GDP_nominal_year = 2020
+| GDP_nominal            = $44.557 billion<ref name=imf2/>
+| GDP_nominal_rank = 94th
+| GDP_nominal_per_capita = $6,230<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 94th
+| sovereignty_type       = Independence {{nobold|from [[Spain]]}}
+| established_event1     = Declared
+| established_date1      = 14 May 1811
+| established_event2     = Recognized
+| established_date2      = 25 November 1842
+| established_event3     = [[United Nations Charter|Admitted to the]] [[United Nations]]
+| established_date3      = 24 October 1945
+| Gini_year = 2018
+| Gini                   = 46.2 <!--number only-->
+| Gini_ref               = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=PY |title=Gini Index |publisher=[[World Bank]] |access-date=6 April 2019 |archive-url=https://web.archive.org/web/20171205203227/https://data.worldbank.org/indicator/SI.POV.GINI?locations=PY |archive-date=5 December 2017 |url-status=live }}</ref>
+| Gini_rank = 
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI                    = 0.728 <!--number only-->
+| HDI_ref                = <ref name="HDI">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2019.pdf|title=Human Development Report|year=2019|access-date=9 December 2019|publisher=United Nations Development Programme|archive-url=https://web.archive.org/web/20191209094356/http://hdr.undp.org/sites/default/files/hdr2019.pdf|archive-date=9 December 2019|url-status=dead}}</ref>
+| HDI_rank = 98th
+| currency               = [[Paraguayan guaraní|Guaraní]]
+| currency_code          = PYG
+| time_zone              = [[UTC–4|PYT]]
+| utc_offset             = –4
+| time_zone_DST          = [[Daylight saving time in Paraguay|PYST]]
+| utc_offset_DST         = –3
+| drives_on              = right
+| calling_code           = [[+595]]
+| cctld                  = [[.py]]
+| footnote_a             = Mixed European and [[Amerindian]].
+| today                  = 
+}}

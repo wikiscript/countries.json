@@ -1,0 +1,103 @@
+{{Infobox country
+| conventional_long_name      = Republic of Serbia
+| common_name                 = Serbia
+| native_name                 = {{native name|sr|Република Србија|italics=no}}<br />{{native name|sr|Republika Srbija}}
+| image_flag                  = Flag of Serbia.svg
+| image_coat                  = Coat of arms of Serbia.svg
+| national_motto              = 
+| national_anthem             = <br />"{{Lang|sh|[[Bože pravde|Боже правде]]|italic=no}}" / "{{Lang|sh|Bože pravde|italic=no}}"<br />({{Lang-en|"God of Justice"}})<br /><div style="display:inline-block;margin-top:0.4em;">[[File:National anthem of Serbia, performed by the United States Navy Band.wav|center]]</div>
+| image_map                   = {{Switcher|[[File:Serbia (orthographic projection).svg|frameless]]|Show globe|[[File:Europe-Serbia.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption                 = Location of Serbia (green) and the disputed territory of [[Kosovo]]{{ref label|status|a|}} (light green) in Europe (dark grey).
+| image_map2                  = 
+| capital                     = [[Belgrade]]
+| coordinates                 = {{Coord|44|48|N|20|28|E|type:city}}
+| largest_city                = capital
+| official_languages          = [[Serbian language|Serbian]]
+| languages2_type             = Recognised minority languages
+| languages2                  = {{ubl|[[Hungarian language|Hungarian]], [[Bosnian language|Bosnian]], [[Albanian language|Albanian]], [[Croatian language|Croatian]], [[Slovak language|Slovak]], [[Romanian language|Romanian]], [[Bulgarian language|Bulgarian]] and [[Rusyn language|Rusyn]]}}
+| ethnic_groups               = {{unbulleted list
+  | 83.3% [[Serbs]]
+  |  3.5% [[Hungarians in Serbia|Hungarians]]
+  |  2.1% [[Roma in Serbia|Roma]]
+  |  2% [[Bosniaks of Serbia|Bosniaks]]
+  | {{nowrap|9% others}}
+  | {{small|(excluding [[Kosovo]]){{ref label|status|a|}}}}
+ }}
+| ethnic_groups_year          = 2011
+| religion                    = {{ublist |item_style=white-space; 
+|91.2% [[Christianity|Christian]]<small>|-84.6% [[Eastern Orthodoxy in Serbia|Eastern Orthodox]] |-5% [[Catholic Church in Serbia|Roman Catholic]] |-1% [[Protestantism in Serbia|Protestant]]</small> |3.1% [[Islam in Serbia|Muslim]] |1.1% [[Irreligion|Irreligious]]| 5% Other/unknown | {{small|(excluding [[Kosovo]]){{ref label|status|a|}}}}}}
+| religion_year               = 2011
+| demonym                     = [[Serbians|Serbian]]
+| government_type             = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br />[[Republic|constitutional republic]]}}
+| leader_title1               = [[President of Serbia|President]]
+| leader_name1                = [[Aleksandar Vučić]]
+| leader_title2               = [[Prime Minister of Serbia|Prime Minister]]
+| leader_name2                = [[Ana Brnabić]]
+| leader_title3               = [[President of the National Assembly of Serbia|President of the National Assembly]]
+| leader_name3                = [[Ivica Dačić]]
+| legislature                 = [[National Assembly (Serbia)|National Assembly]]
+| sovereignty_type            = [[History of Serbia|Establishment history]]
+| established_event1          = {{nowrap|[[Principality of Serbia (early medieval)|Medieval principality]]}}
+| established_date1           = 780
+| established_event2          = {{nowrap|[[Kingdom of Serbia (medieval)|Medieval kingdom]]}}
+| established_date2           = 1217
+| established_event3          = {{nowrap|[[Serbian Empire|Medieval empire]]}}
+| established_date3           = 1346
+| established_event4          = {{nowrap|[[Ottoman Serbia|Ottoman conquest]]}}
+| established_date4           = 1459–1556
+| established_event5          = {{nowrap|[[Revolutionary Serbia]]}}
+| established_date5           = 1804
+| established_event6          = {{nowrap|[[Principality of Serbia]]}}
+| established_date6           = 1815
+| established_event7          = {{nowrap|[[Treaty of Berlin (1878)|Independence recognized]]}}
+| established_date7           = 1878
+| established_event8          = {{nowrap|[[Kingdom of Serbia]]}}
+| established_date8           = 1882
+| established_event9          = {{nowrap|[[Yugoslavia]]}}
+| established_date9           = 1918
+| established_event10         = {{nowrap|[[Serbia and Montenegro]]}}
+| established_date10          = 1992
+| established_event11         = {{nowrap|Independence restored}}
+| established_date11          = 2006
+| area_km2                    = 88361
+| area_label                  = Including Kosovo{{ref label|status|a|}}
+| area_rank                   = 111th
+| area_sq_mi                  = <!-- 34,116-->
+| area_label2                 = Excluding Kosovo{{ref label|status|a|}}
+| area_data2                  = {{convert|77474|km2|abbr=on}}<ref name="cia_profile">{{cite web |url = https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html |title = The World Factbook: Serbia |publisher = [[Central Intelligence Agency]] |date = 20 June 2014 |access-date = 18 December 2014 }}</ref>
+<!-- | percent_water = 0.13 {{small|(including Kosovo)}}{{ref label|status|a|}} -->| population_estimate                = {{decrease}}6,963,764 {{small|(excluding Kosovo)}}{{ref label|status|a|}}<ref name="stat.gov.rs">{{cite web |url = http://www.stat.gov.rs/ |title = PBC stats |year = 2019 |website = stat.gov.rs }}</ref>
+| population_estimate_year    = 2019
+| population_estimate_rank    = 106th
+| population_density_km2      = 89 
+| population_density_sq_mi    = 211 <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank     = 95th
+| GDP_PPP                     = {{increase}} $137.126&nbsp;billion {{small|(excluding Kosovo)}}{{ref label|status|a|}}{{lower|0.2em|}}{{ref label|status|a|}}<ref name="IMFWEORS" />
+| GDP_PPP_year                = 2020
+| GDP_PPP_rank                = 75th
+| GDP_PPP_per_capita          = {{increase}} $19,767 {{small|(excluding Kosovo)}}{{ref label|status|a|}}{{lower|0.2em|<ref name="IMFWEORS">{{cite web |url = https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?sy=2019&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=32&pr1.y=2&c=942&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title = World Economic Outlook Database, January 2020 |publisher = [[International Monetary Fund]] |website = IMF.org |access-date = 2 March 2020 }}</ref>}}
+| GDP_PPP_per_capita_rank     = 67th
+| GDP_nominal                 = {{increase}} $55.437&nbsp;billion {{small|(excluding Kosovo)}}{{ref label|status|a|}}{{lower|0.2em}}<ref name="IMFWEORS" />
+| GDP_nominal_year            = 2020
+| GDP_nominal_rank            = 81st
+| GDP_nominal_per_capita      = {{increase}} $7,992 {{small|(excluding Kosovo)}}{{ref label|status|a|}}{{lower|0.2em}}<ref name="IMFWEORS" />
+| GDP_nominal_per_capita_rank = 76th
+| Gini                        = 35.6 <!-- number only -->
+| Gini_year                   = 2018
+| Gini_change                 = decrease <!--increase/decrease/steady-->
+| Gini_ref                    = <ref>{{cite web |url = https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title = Gini coefficient of equivalised disposable income – EU-SILC survey |publisher = [[Eurostat]] |website = ec.europa.eu |access-date = 30 March 2020 }}</ref>
+| HDI                         = 0.799 <!--number only-->
+| HDI_year                    = 2018<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change                  = increase<!-- increase/decrease/steady -->
+| HDI_ref                     = <ref name="HDI">{{cite web |url = http://hdr.undp.org/sites/default/files/hdr2019.pdf |title = 2019 Human Development Report |year = 2019 |access-date = 9 December 2019 |publisher = [[United Nations Development Programme]] }}</ref>
+| HDI_rank                    = 63rd
+| currency                    = [[Serbian dinar]]
+| currency_code               = RSD
+| time_zone                   = [[Central European Time|CET]]
+| utc_offset                  = [[UTC+1|+1]]
+| utc_offset_DST              = [[UTC+2|+2]]
+| time_zone_DST               = [[Central European Summer Time|CEST]]
+| drives_on                   = [[Right- and left-hand traffic|right]]
+| calling_code                = [[Telephone numbers in Serbia|+381]]
+| cctld                       = {{unbulleted list |[[.rs]] |[[.срб]]}}
+| today                       = 
+}}

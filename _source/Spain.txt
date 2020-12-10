@@ -1,0 +1,111 @@
+{{Infobox country
+| conventional_long_name = Kingdom of Spain
+| native_name            = {{native name|es|Reino de España}}
+| common_name            = Spain
+| name                   = {{collapsible list
+|titlestyle                  = background:transparent;text-align:center;line-height:normal;font-size:84%;
+|title                       = {{resize|1.0 em|4 other official names}}{{efn|name=a|The Spanish Constitution does not establish any official name for Spain, even though the terms ''España'' (Spain), ''Estado español'' (Spanish State) and ''Nación española'' (Spanish Nation) are used throughout the document. Nonetheless, the Spanish Ministry of Foreign Affairs established in an ordinance published in 1984 that the denominations ''España'' (Spain) and ''Reino de España'' (Kingdom of Spain) are equally valid to designate Spain in international treaties. The latter term is widely used by the government in national and international affairs of all kinds, including foreign treaties as well as national official documents, and is therefore recognised as the official name by many international organisations.<ref>{{cite web|url=http://noticias.juridicas.com/base_datos/Admin/ai281209-aec.html|title=Acuerdo entre el Reino de España y Nueva Zelanda sobre participación en determinadas elecciones de los nacionales de cada país residentes en el territorio del otro, hecho en Wellington el 23 de junio de 2009.|website=Noticias Jurídicas}}</ref>}}{{efn|name=b|In Spain, [[Languages of Spain|other languages]] are officially recognised as legitimate [[Indigenous language|autochthonous]] [[regional language|(regional) languages]] under the [[Spanish Constitution]]. In each of these, Spain's official name ({{lang-es|Reino de España|links=no}}, pronounced: {{IPA-es|ˈrejno ð(e) esˈpaɲa|}}) is as follows:
+* {{lang-ca|Regne d'Espanya}}, {{IPA-ca|ˈreŋnə ðəsˈpaɲə|IPA}}
+* {{lang-eu|Espainiako Erresuma}}, {{IPA-eu|es̺paɲiako eres̺uma|IPA}}
+* {{lang-gl|Reino de España}}, {{IPA-gl|ˈrejnʊ ð(ɪ) esˈpaɲɐ|IPA}}
+* {{lang-oc|Reiaume d'Espanha}}, {{IPA-oc|reˈjawme ðesˈpaɲɔ|IPA}}}}
+|{{Infobox |subbox=yes |bodystyle=font-size:80%;font-weight:normal;
+|rowclass1 =mergedrow |label1=[[Catalan language|Catalan]]: |data1={{lang|ca|Regne d'Espanya}}
+|rowclass2 = mergedrow |label2=[[Basque language|Basque]]: |data2={{lang|eu|Espainiako Erresuma}}
+|rowclass3 = mergedrow |label3=[[Galician language|Galician]]: |data3={{lang|gl|Reino de España}}
+|rowclass4 = mergedrow |label4=[[Occitan language|Occitan]]: |data4={{lang|oc|Reiaume d'Espanha}}
+}}
+}}
+| image_flag             = Flag of Spain.svg
+| image_coat             = File:Escudo de España (mazonado).svg
+| national_motto         = {{native phrase|la|[[Plus ultra]]}} <br /> {{small|"Further Beyond"}}
+| national_anthem        = {{native name|es|[[Marcha Real]]|icon=yes}}<!-- In full ''Marcha Real Española'' (Spanish Royal March), also known as ''Marcha Granadera'' (March of the Grenadiers). --><ref>{{cite web|url=http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf|title=Real Decreto 1560/1997, de 10 de octubre, por el que se regula el Himno Nacional|author=Presidency of the Government|work=[[Boletín Oficial del Estado]] núm. 244|date=11 October 1997|language=es|url-status=live|archive-url=https://web.archive.org/web/20150924034615/http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf|archive-date=24 September 2015|author-link=Government of Spain}}</ref> <br /> {{small|"Royal March"}}  <br /> <div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Marcha Real-Royal March by US Navy Band.ogg]]}}</div>
+| image_map              = {{Switcher|[[File:EU-Spain (orthographic projection).svg|frameless]]|Show globe|[[File:EU-Spain.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption            = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green}}
+| image_map2             = 
+| capital                = [[Madrid]]
+| coordinates            = {{Coord|40|26|N|3|42|W|type:city}}
+| largest_city           = capital
+| languages_type         = Official language <br /> {{nowrap|{{nobold|and national language}}}}
+| languages              = [[Spanish language|Spanish]]<!--(aka Castilian)-->{{efn|name=c|The official language of the State is established in the Section 3 of the [[Spanish Constitution of 1978]] to be Castilian.<ref>{{cite web|url=http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm |title=The Spanish Constitution |publisher=Lamoncloa.gob.es |access-date=26 April 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130325101204/http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm |archive-date=25 March 2013}}</ref> In some [[autonomous communities of Spain|autonomous communities]], [[Catalan language|Catalan]], [[Galician language|Galician]] and [[Basque language|Basque]] are co-official languages. [[Aragonese language|Aragonese]], [[Asturian language|Asturian]], and [[Occitan language|Occitan]] (locally known as [[Aranese language|Aranese]]) have some degree of official recognition.}}
+| ethnic_groups          =
+| ethnic_groups_year     = 
+| ethnic_groups_ref      = 
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |61% [[Roman Catholicism in Spain|Roman Catholic]]
+  |35% [[Irreligion in Spain|No religion]]
+  |3% Others
+  |1% No answer
+  }}
+| religion_ref           = <ref>Centro de Investigaciones Sociológicas: [http://datos.cis.es/pdf/Es3288marMT_A.pdf Barómetro de Julio 2020, página 21.]¿Cómo se define Ud. en materia religiosa: católico/a practicante, católico/a no practicante, creyente de otra religión, agnóstico/a, indiferente o no creyente, o ateo/a?</ref><br />{{failed verification|date=November 2020}}
+| religion_year          = 2020
+| demonym                = {{hlist|Spanish|Spaniard}}
+| government_type        = [[Unitary state|Unitary]]&nbsp;[[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1          = [[Monarchy of Spain|Monarch]]
+| leader_name1           = [[Felipe VI]]
+| leader_title2          = [[Prime Minister of Spain|Prime Minister (President of the Government)]]
+| leader_name2           = [[Pedro Sánchez]]
+| leader_title3          = [[President of the Spanish Senate|President of the Senate]]
+| leader_name3           = [[Pilar Llop]]
+| leader_title4          = [[President of the Congress of Deputies]]
+| leader_name4           = [[Meritxell Batet]]
+| leader_title5          = [[President of the Supreme Court of Spain|President of the Supreme Court]]
+| leader_name5           = [[Carlos Lesmes Serrano]]
+| legislature            = [[Cortes Generales]]
+| upper_house            = [[Senate of Spain|Senate]]
+| lower_house            = [[Congress of Deputies]]
+| sovereignty_type       = [[History of Spain|Formation]]
+| established_event1     = [[Catholic Monarchs of Spain|''De facto'']]
+| established_date1      = 20 January 1479
+| established_event2     = ''[[Nueva Planta decrees|De jure]]''
+| established_date2      = 9 June 1715
+| established_event3     = [[Spanish Constitution of 1812|First constitution]]
+| established_date3      = 19 March 1812
+| established_event4     = {{nowrap|[[Spanish transition to democracy|Current democracy]]}}
+| established_date4      = [[Spanish Constitution of 1978|29 December 1978]]
+| established_event5     = {{nowrap|[[Enlargement of the European Union#Mediterranean enlargements|EEC accession]]}}{{efn|[[European Union]] (EU) since 1993.}}
+| established_date5      = 1 January 1986
+| area_km2               = 505,990<ref>{{cite web|title=Anuario estadístico de España 2008. 1ª parte: entorno físico y medio ambiente|url=http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf|website=Instituto Nacional de Estadística (Spain)|access-date=14 April 2015|url-status=live|archive-url=https://web.archive.org/web/20150924144913/http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf|archive-date=24 September 2015}}</ref>
+| area_rank              = 51st
+| area_sq_mi             = 195,364 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = 0.89 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate    = {{increase}} 47,431,256<ref>https://www.ine.es/prensa/cp_e2020_p.pdf</ref> {{efn|As of 1 January 2020, the Spanish population increased in 392,921 in 2019, reaching a number of 47,330 million inhabitants. In the same period of time, the number of citizens with Spanish citizenship reached 42,094,606. The number of foreigners (i.e. immigrants, ex-pats and refugees, without including foreign born nationals with Spanish citizenship) permanently living in Spain was estimated to be at 5,235,375 (11.06%) in 2020.<ref>{{cite web|url=https://www.ine.es/prensa/cp_e2020_p.pdf|title=Population Figures at 01 January 2019. Migrations Statistics. Year 2019.|date=June 2020|publisher=[[Instituto Nacional de Estadística (Spain)|National Statistics Institute]] (INE)|language=es|url-status=live|archive-url=https://web.archive.org/web/20170628123003/http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176951&menu=ultiDatos&idp=1254735572981|archive-date=28 June 2017}}</ref>}}
+| population_estimate_year = 2020
+| population_estimate_rank = 30th
+| population_density_km2 = 94
+| population_density_sq_mi = 243 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 120th
+| GDP_PPP                = {{increase}} {{nowrap|$2.016&nbsp;trillion<ref name="IMFWEOES">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=PPPPC,&sy=2020&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1= |title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=22 October 2020}}</ref>}}
+| GDP_PPP_year           = 2020
+| GDP_PPP_rank           = 15th
+| GDP_PPP_per_capita     = $38,143<ref name="IMFWEOES"/>
+| GDP_PPP_per_capita_rank = 36th
+| GDP_nominal            = {{increase}} {{nowrap|$1.440&nbsp;trillion<ref name="IMFWEOES"/>}}
+| GDP_nominal_year       = 2020
+| GDP_nominal_rank       = 13th
+| GDP_nominal_per_capita = $26,831<ref name="IMFWEOES"/>
+| GDP_nominal_per_capita_rank = 29th
+| Gini                   = 33.0 <!--Number only-->
+| Gini_year              = 2019
+| Gini_change            = decrease
+| Gini_ref               = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=3 August 2020}}</ref>
+| Gini_rank              = 103rd
+| HDI                    = 0.893 <!--Number only-->
+| HDI_year               = 2018 <!--Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--Increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank               = 25th
+| currency               = [[Euro]]{{efn|The [[Spanish peseta|Peseta]] before 2002.}} ([[Euro sign|€]])
+| currency_code          = EUR
+| time_zone              = [[Western European Time|WET]] and [[Central European Time|CET]]
+| utc_offset             = ⁠±0 to +1 <!--Note: Zero-width non-breaking space results in the infobox displaying "UTC" without a specified offset.-->
+| DST_note               = {{small|Note: most of Spain observes CET/CEST, except the [[Canary Islands]] which observe WET/WEST.}}
+| time_zone_DST          = [[Western European Summer Time|WEST]] and [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +1 to +2
+| date_format            = dd/mm/yyyy {{small|([[Common Era|CE]])}}
+| drives_on              = right
+| calling_code           = [[Telephone numbers in Spain|+34]]
+| iso3166code            = ES
+| cctld                  = [[.es]]{{efn|name=e|The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. Also, the [[.cat]] domain is used in [[Catalonia]], [[.gal]] in [[Galiza|Galicia]] and [[.eus]] in the [[Basque Country (autonomous community)|Basque-Country]] autonomous regions.}}
+| today                  = 
+}}

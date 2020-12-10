@@ -1,0 +1,100 @@
+{{Infobox country
+| conventional_long_name = Republic of Cuba
+| common_name = Cuba
+| native_name = {{native name|es|República de Cuba}}
+| image_flag = Flag of Cuba.svg
+| image_coat = Coat of Arms of Cuba.svg
+| alt_coat = A shield in front of a Fasces crowned by the Phrygian Cap, all supported by an oak branch and a laurel wreath
+| symbol_type = Coat of arms
+| national_motto = <br>{{native phrase|es|"¡Patria o Muerte, Venceremos!"|italics=off|nolink=on}}<br />"Homeland or Death, we shall overcome!"{{lower|0.2em|<ref>{{cite web |url=http://www.bc.gob.cu/english/cuban_bills.asp |title=Cuban Peso Bills |publisher=Central Bank of Cuba |date=2015 |accessdate=14 February 2017}}</ref><!--end lower:-->}}
+| national_anthem = ''[[La Bayamesa]]''<br />{{raise|0.2em|({{Lang-en|"The Bayamo Song"}}){{lower|0.2em|<ref>{{cite web |url=http://mipais.cuba.cu/cat_en.php?idcat=91&idpadre=83&nivel=2 |title=National symbols |publisher=Government of Cuba |accessdate=7 September 2009}}</ref><!--end lower:-->}}<!--end raise:-->}}<br />[[File:Cuban national anthem (abridged version), performed by the U.S. Navy Band.oga|center]]
+| image_map = CUB orthographic.svg
+| image_map2 = 
+| alt_map = 
+| map_caption =
+| capital = [[Havana]]
+| coordinates = {{Coord|23|8|N|82|23|W|type:city}}
+| largest_city = capital
+| official_languages = [[Cuban Spanish|Spanish]]
+| ethnic_groups = {{unbulleted list
+  | 64.1% [[White Cuban|European Cuban]]<sup>a</sup>
+  | 26.6% [[Mulatto]] or [[Multiracial|Mixed]]
+  | 9.3% [[Afro-Cuban]]
+}}
+| ethnic_groups_year = 2012
+| ethnic_groups_ref = <ref name=CIA>{{cite web|author=by type |url=http://cia.gov/library/publications/the-world-factbook/geos/cu.html |title=Central America :: Cuba — The World Factbook - Central Intelligence Agency |publisher=Cia.gov |accessdate=2020-05-25}}</ref>
+| religion = {{flatlist|
+[[Christians|Christian]] 59.2%, [[folk religion|folk]] 17.4%, other 0.4%, none 23% {{small|(2010 est.)}}<ref name=CIA/>}}
+| demonym = [[Cubans|Cuban]]
+| government_type = [[Unitary state|Unitary]] [[Marxism–Leninism|Marxist–Leninist]] [[One-party state|one-party]] [[Socialist state|socialist]] [[republic]]<ref name=constitution>{{cite web |title= The Constitution of the Republic of Cuba, 1976 (as Amended to 2002) |url= http://www.constitutionnet.org/files/Cuba%20Constitution.pdf |publisher= National Assembly of People's Power |accessdate= 18 August 2012 |url-status=dead |archive-url= https://web.archive.org/web/20130117013359/http://www.constitutionnet.org/files/Cuba%20Constitution.pdf |archive-date= 17 January 2013 }}<br />For discussion of the 1992 amendments, see {{Harvnb|Domínguez|2003}}.</ref>
+| leader_title1 = [[First Secretary of the Communist Party of Cuba|First Secretary of the Communist Party]]
+| leader_name1 = {{nowrap|[[Raúl Castro]]}}
+| leader_title2 = [[President of Cuba|President]]
+| leader_name2 = [[Miguel Díaz-Canel]]
+| leader_title3 = {{nowrap|[[Vice President of Cuba|First Vice President]]}}
+| leader_name3 = [[Salvador Valdés Mesa]]
+| leader_title4 = [[Second Secretary of the Communist Party of Cuba|Second Secretary of the Communist Party]]
+| leader_name4 = {{nowrap|[[José Machado Ventura]]}}
+| leader_title5 = [[Prime Minister of Cuba|Prime Minister]]
+| leader_name5 = {{nowrap|[[Manuel Marrero Cruz]]}}
+| leader_title6 = [[National Assembly of People's Power|President of the<br> National Assembly]]
+| leader_name6 = {{nowrap|[[Esteban Lazo Hernández]]}}
+| legislature = [[National Assembly of People's Power]]
+| sovereignty_type = {{nowrap|[[Independence]]}}
+| established_event1 = [[Ten Years War|Declaration of Independence]]
+| established_date1 = 10 October 1868
+| established_event2 = [[Cuban War of Independence|War of Independence]]
+| established_date2 = 24 February 1895
+| established_event3 = [[Treaty of Paris (1898)|Recognized]] (handed over from [[Spain]] to the United States)
+| established_date3 = 10 December 1898
+| established_event4 = Republic declared (independence from [[United States]])
+| established_date4 = 20 May 1902
+| established_event5 = [[Cuban Revolution]]
+| established_date5 = 26 July 1953 – 1 January 1959
+| established_event6 = Current constitution
+| established_date6 = 10 April 2019
+| area_km2 = 109,884
+| area_rank = 104th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 42,426 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0 <!-- Should match [[List of countries and dependencies by area]] -->
+| population_census = {{decrease}} 11,193,470<ref>http://www.onei.gob.cu/node/14832. Retrieved 10 June 2020</ref>
+| population_census_year = 2019
+| population_census_rank = 82nd
+| population_density_km2 = 101.9
+| population_density_sq_mi = 263.9 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 81st
+| GDP_PPP = [[US$]] 254.865 billion<ref name="auto">{{cite web|title=World Bank GDP PPP 2015, 28 April 2017 PDF|url=https://archive.org/details/GDPPPP1|accessdate=18 January 2018}}</ref>
+| GDP_PPP_year = 2015
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = US$ 22,237<ref name="auto"/><ref>{{cite web|title=World Bank total population of Cuba in 2015 (GDP PPP divided by Population data)|url=https://data.worldbank.org/indicator/SP.POP.TOTL?end=2015&locations=CU&start=1960|accessdate=18 January 2018}}</ref>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = {{increase}} $100.023 billion<ref>{{cite web |title=GDP (current US$) - Cuba |url=https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CU&name_desc=false |website=data.worldbank.org |publisher=World Bank |accessdate=4 February 2020}}</ref>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 63rd
+| GDP_nominal_per_capita = {{increase}} $8,822<ref>{{cite web |title=GDP per capita (current US$) - Cuba |url=https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CU&name_desc=false |website=data.worldbank.org |publisher=World Bank |accessdate=4 February 2020}}</ref>
+| GDP_nominal_per_capita_rank = 76th
+| Gini = 38.0 <!--number only-->
+| Gini_year = 2000
+| Gini_ref = <ref>{{cite news |title=Cuba grapples with growing inequality |url=https://www.reuters.com/article/2008/04/10/us-cuba-reform-inequality-idUSN1033501920080410 |accessdate=21 July 2013 |newspaper=Reuters}}</ref>
+| Gini_rank = 
+| HDI = 0.778 <!--number only-->
+| HDI_year = 2018 <!--Please use the year to which the HDI data refers, not the year of publication-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref>{{cite web|title=Table 2: Trends in the Human Development Index, 1990–2014|url=http://hdr.undp.org/en/composite/trends|publisher=United Nations Development Programme|accessdate=15 December 2015}}</ref>
+| HDI_rank = 72nd<!--Please see talk page before adding a reference here again-->
+| currency = {{unbulleted list
+  | [[Cuban peso|Peso]] <!--Following is kludge to deal with coding for one currency per country:-->(<code>[[ISO 4217|CUP]]</code>)
+  | [[Cuban convertible peso|Convertible peso]]<sup>b</sup>
+ }}
+| currency_code = CUC
+| time_zone = [[Cuba Time|CST]]
+| utc_offset = −5
+| utc_offset_DST = −4
+| time_zone_DST = [[Daylight saving time in Cuba|CDT]]
+| drives_on = right
+| calling_code = [[+53]]
+| cctld = [[.cu]]
+| official_website = {{url|www.cubagob.cu}}
+| footnote_b = From 1993 to 2004, the [[United States dollar]] was used alongside the peso, until the dollar was replaced by the convertible peso.
+| footnote_a = Data represents racial self-identification from Cuba's 2012 national census
+}}

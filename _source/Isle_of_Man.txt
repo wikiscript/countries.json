@@ -1,0 +1,87 @@
+{{Infobox dependency
+| name = Isle of Man
+| native_name = {{nobold|{{native name|gv|Mannin, Ellan Vannin}}}}
+| settlement_type = [[Crown dependencies|Crown dependency]]
+| linking_name = the Isle of Man
+| image_flag = Flag of the Isle of Man.svg
+| flag_size = 130px
+| flag_link = Flag of the Isle of Man
+| image_seal = Coat of arms of the Isle of Man.svg
+| seal_size = 81px
+| seal_type = Coat of arms
+| seal_link = Coat of arms of the Isle of Man
+| motto = {{native phrase|la|"Quocunque Jeceris Stabit"|italics=off}}<br>({{lang-en|"Wherever you throw it, it shall stand"}})
+| anthem = "[[O Land of Our Birth]]"<br />"[[God Save the Queen]]" <div style="display:inline-block;margin-top:0.4em;">[[File:United States Navy Band - God Save the Queen.ogg]]</div>
+| image_map = Europe-Isle_of_Man.svg
+| mapsize = 290px
+| map_alt = Location of the Isle of Man in Europe
+| map_caption = Location of the Isle of Man (green)
+ in Europe (dark grey)
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = [[United Kingdom]]
+| established_title = [[Kingdom of the Isles|Norse control]]
+| established_date = 9th century
+| established_title2 = [[Treaty of Perth|Scottish control]]
+| established_date2 = 2 July 1266
+| established_title3 = English control
+| established_date3 = 1399
+| established_title4 = [[Isle of Man Purchase Act 1765|Revested into British Crown]]
+| established_date4 = 10 May 1765
+| official_languages = [[English language|English]] <br> [[Manx language|Manx]]
+| capital = [[Douglas, Isle of Man|Douglas]]
+| coordinates = {{Coord|54|09|N|4|29|W|type:city}}
+| largest_city = capital
+| demonym = [[Manx people|Manx]] (Manxman (plural: Manxmen), Manxwoman (plural: Manxwomen))
+| ethnic_groups =
+| ethnic_groups_year =
+| religion = Largely Christian
+| government_type = [[Parliamentary system|Parliamentary]] [[Democracy|democratic]] [[constitutional monarchy]]
+| leader_title1 = [[Lord of Mann]]<!---Please do not change this to "Lady", the title is "Lord"--->
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = [[Lieutenant Governor of the Isle of Man|Lieutenant&nbsp;governor]]
+| leader_name2 = [[Richard Gozney|Sir Richard Gozney]]
+| leader_title3 = [[Chief Minister of the Isle of Man|Chief Minister]]
+| leader_name3 = [[Howard Quayle]]
+| legislature = [[Tynwald]]
+| upper_house = [[Legislative Council of the Isle of Man|Legislative Council]]
+| lower_house = [[House of Keys]]
+| area_km2 = 572
+| area_rank = {{small|unranked}} <!-- Area rank should match [[List of countries and dependencies by area]];(should not be any here as it is listed with a dash) -->
+| area_sq_mi = 221<!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water = 1
+| elevation_max_m = 620
+| population_census = 83,314<ref name="census-2016">{{Cite web |title=2016 Isle of Man Census Report |url=https://www.gov.im/media/1355784/2016-isle-of-man-census-report.pdf |access-date=19 July 2019 |website=Gov.im}}</ref>
+| population_census_rank = 202nd
+| population_census_year = 2016
+| population_density_km2 = 148
+| population_density_sq_mi = 362.4<!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank = 78th
+| GDP_PPP = $7.43&nbsp;billion
+| GDP_PPP_year = 2014
+| GDP_PPP_rank = 161st
+| GDP_PPP_per_capita = $84,600
+| GDP_PPP_per_capita_rank = 9th
+| Gini = 0.41 <!--number only-->
+| Gini_year =
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref>{{Cite web |title=Income Inequalities |url=http://www.poverty.org.uk/09/index.shtml |url-status=dead |archive-url=https://web.archive.org/web/20110426071007/http://www.poverty.org.uk/09/index.shtml |archive-date=26 April 2011 |access-date=21 April 2011 |website=The Poverty Site}}</ref>
+| HDI = 0.849 <!--number only-->
+| HDI_year = 2010
+| HDI_change = <!--increase/decrease/steady-->
+| HDI_ref = <ref>{{Cite web |title=Human Development Report 2010 |url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf |access-date=21 April 2011 |website=HDR.UNDP.org |publisher=United Nations Development Programme |page=143 ff}}</ref>
+| HDI_rank = 14th
+| currency = [[Pound sterling]]<br />[[Manx pound]] (£)
+| currency_code = GBP
+| timezone = [[Greenwich Mean Time|GMT]]
+| utc_offset = ±00:00
+| timezone_DST = [[British Summer Time|BST]]
+| utc_offset_DST = +01:00
+| date_format = dd/mm/yyyy
+| electricity = 240 V–50 Hz
+| drives_on = left
+| calling_code = [[Telephone numbers in the United Kingdom#Isle of Man|+44]]
+| postal_code_type = [[Postcodes in the United Kingdom#Crown dependencies|UK postcode]]
+| postal_code = [[IM postcode area|IM1 – IM99]]
+| iso_code = [[ISO 3166-2:IM|IM]]
+| cctld = [[.im]]
+}}

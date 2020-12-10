@@ -1,0 +1,104 @@
+{{Infobox country
+| conventional_long_name = Republic of Slovenia
+| common_name            = Slovenia
+| native_name            = {{native name|sl|Republika Slovenija}}
+| image_flag             = Flag of Slovenia.svg
+| image_coat             = Coat of Arms of Slovenia.svg
+| national_anthem        = ''[[National anthem of Slovenia|Zdravljica]]''<br>{{small|("A Toast")}}{{parabr}}[[File:Slovenia's national anthem, performed by the United States Navy Band.oga|center]]
+| image_map              = EU-Slovenia.svg
+| map_caption            = {{map caption |location_color=dark green |region= Europe |region_color=dark grey |subregion= the [[European Union]] |subregion_color= green}}
+| image_map2             = 
+| capital                = [[Ljubljana]]
+| coordinates            = {{Coord|46|03|N|14|30|E|type:city}}
+| largest_city           = capital
+| official_languages     = [[Slovene language|Slovene]]{{efn-lr|[[Hungarian language|Hungarian]] and [[Italian language|Italian]] are co-official in some municipalities.}}
+|regional_languages =[[Italian language in Slovenia|Italian]]<br>[[Languages of Slovenia#Hungarian|Hungarian]]
+| religion              = {{ublist |item_style=white-space:nowrap; |77.8% [[Christianity]] |—73.4% [[Catholic Church in Slovenia|Catholicism]] |—3.7% [[Eastern Orthodox Church|Eastern Orthodoxy]] |—0.7% Other [[List of Christian denominations|Christian]] |18.3% [[Irreligion|No religion]] |3.9% [[Religion in Slovenia|Other]]s}}
+| religion_year                = 2018
+| religion_ref                =  <ref name="EB2018">{{citation|title=Eurobarometer 90.4 (December 2018): Attitudes of Europeans towards Biodiversity, Awareness and Perceptions of EU customs, and Perceptions of Antisemitism|work=[[Eurobarometer|Special Eurobarometer]] |year=2019 |url=http://zacat.gesis.org/webview/index.jsp?headers=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V204&v=2&stubs=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V11&weights=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfVariable%2FZA7556_V440&V204slice=1&study=http%3A%2F%2F193.175.238.79%3A80%2Fobj%2FfStudy%2FZA7556&charttype=null&tabcontenttype=row&V11slice=1&V204subset=1+-+10%2C11%2C12+-+13%2C14&mode=table&top=yes |access-date=9 August 2019|publisher=[[European Commission]] |location=[[European Union]]|via=[[GESIS – Leibniz Institute for the Social Sciences|GESIS]]}}</ref>
+| ethnic_groups          = {{unbulleted list
+  | 83.1% [[Slovenes]]
+  | 2% [[Serbs in Slovenia|Serbs]]
+  | 1.8% [[Croats of Slovenia|Croats]]
+  | 1.6% [[Bosniaks of Slovenia|Bosniaks]]
+  | 0.42% [[Romani people|Romani]]
+  | 0.3% [[Hungarians]]
+  | 0.1% [[Istrian Italians|Italians]]
+  | 2.2% Other
+  | 8.9% Unspecified
+ }}
+| ethnic_groups_year = 2002<ref name="2002census">{{cite web |url= http://www.stat.si/popis2002/en/rezultati/rezultati_red.asp?ter=SLO&st=7 |title= Census 2002: 7. Population by ethnic affiliation, Slovenia, Census 1953, 1961, 1971, 1981, 1991 and 2002 |publisher= Statistical Office of the Republic of Slovenia |access-date= 2 February 2011}}</ref><ref>{{cite web |url= https://eacea.ec.europa.eu/national-policies/eurydice/content/population-demographic-situation-languages-and-religions-77_sl |title=Prebivalstvo: demografsko stanje, jeziki in veroizpovedi|date=10 October 2017}}</ref>
+| demonym                = [[Slovenes|Slovene]]
+| government_type        = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br />[[Republic|constitutional republic]]}}
+| leader_title1          = [[President of Slovenia|President]]
+| leader_name1           = {{Current president of Slovenia}}
+| leader_title2          = [[Prime Minister of Slovenia|Prime Minister]]
+| leader_name2           = [[Janez Janša]]
+| legislature            = [[Slovenian Parliament|Parliament]]
+| upper_house            = [[National Council (Slovenia)|National Council]]
+| lower_house            = [[National Assembly (Slovenia)|National Assembly]]
+| established_event1     = [[State of Slovenes, Croats and Serbs|State of Slovenes,<br/>Croats and Serbs]]
+| established_date1      = 29 October 1918
+| established_event2     = [[Creation of Yugoslavia|Kingdom of<br>Yugoslavia]]
+| established_date2      = 4 December 1918
+| established_event3     = [[Slovene National Liberation Committee|Slovene<br>statehood]]
+| established_date3      = 19 February 1944
+| established_event4     = [[Democratic Federal Yugoslavia]]
+| established_date4      = 29 November 1945
+| established_event5     = [[Breakup of Yugoslavia|Independence]] from<br>Yugoslavia
+| established_date5      = 25 June 1991<ref name="Škrk1999"/>
+| established_event6     = [[Brioni Agreement]]<br>signed
+| established_date6      = 7 July 1991
+| established_event7     = [[Constitution of Slovenia|Current constitution]]<br>adopted
+| established_date7      = 23 December 1991
+| established_event8     = [[United Nations Security Council Resolution 754|Admitted to the]] United Nations
+| established_date8      = 22 May 1992
+| established_event9     = [[2004 enlargement of the European Union|Joined]] the<br>[[European Union]]
+| established_date9      = 1 May 2004
+| area_km2               = 20,271
+| area_rank = 151st <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 7,826.677 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = 0.7<ref name="Surface2005">{{cite web |url= http://www.stat.si/letopis/2010/01_10/01-03-10.htm |title= Površina ozemlja in pokrovnost tal, določena planimetrično, 2005 |trans-title= Surface area and land cover determined planimetrically, 2005 |language=sl, en|publisher= Statistical Office of the Republic of Slovenia |access-date= 2 February 2011}}</ref>
+| population_estimate    = {{increase}} 2,095,861<ref name="Statistical Office of Slovenia">{{cite web |url= https://www.stat.si/StatWeb/en|title=Population of Slovenia|access-date=June 17, 2020}}</ref>
+| population_census      = 1,964,036
+| population_estimate_year = 2020
+| population_estimate_rank = 147th
+| population_census_year = 2002
+| population_density_km2 = 102<ref name="Statistical Office of Slovenia"/>
+| population_density_sq_mi = 262 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 106th
+| GDP_PPP                = $83&nbsp;billion<ref name="IMFWEOSI">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?sy=2018&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=61&pr1.y=2&c=961&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |website=IMF.org |publisher=[[International Monetary Fund]] |access-date=3 January 2020}}</ref>
+| GDP_PPP_year = 2020
+| GDP_PPP_rank = 93rd
+| GDP_PPP_per_capita     = {{increase}} $40,343<ref name="IMFWEOSI"/>
+| GDP_PPP_per_capita_rank = 35th
+| GDP_nominal            = $56&nbsp;billion<ref name="IMFWEOSI"/>
+| GDP_nominal_year = 2020
+| GDP_nominal_rank = 80th
+| GDP_nominal_per_capita = {{increase}} $27,452<ref name="IMFWEOSI"/>
+| GDP_nominal_per_capita_rank = 34th
+| Gini                   = 23.9 <!--number only-->
+| Gini_year = 2019
+| Gini_change            = increase <!--increase/decrease/steady-->
+| Gini_ref               = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=Eurostat |access-date=19 June 2020}}</ref>
+| Gini_rank = 
+| HDI                    = 0.902 <!--number only-->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI_ref                = <ref name=HDI>{{cite web|url= http://hdr.undp.org/en/composite/HDI|format= PDF|title= Key to HDI countries and ranks, 2015|website= Hdr.undp.org|access-date= 3 August 2017}}</ref>
+| HDI_rank = 24th
+| iso3166code            = SI<!-- the vehicle<ref>https://www.collinsdictionary.com/word-lists/car-international-car-registration-letters</ref> and IOC<ref>https://www.olympic.org/slovenia</ref> codes are SLO -->
+| currency               = [[Euro]] ([[Euro sign|€]])
+| currency_code          = EUR
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +1
+| utc_offset_DST         = +2
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| date_format            = dd. mm. yyyy&nbsp;([[Anno Domini|AD]])
+| drives_on              = right
+| calling_code           = [[Telephone numbers in Slovenia|+386]]
+| cctld                  = [[.si]]{{efn-lr| Also [[.eu]], shared with other [[European Union]] member states.}}
+| footnotes              = {{notelist-lr}}
+| official_website       = {{URL|www.slovenia.si/}}
+| today                  = 
+}}

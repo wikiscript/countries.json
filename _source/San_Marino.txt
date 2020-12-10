@@ -1,0 +1,80 @@
+{{Infobox country
+| conventional_long_name                = Republic of San Marino<ref name="cia"/><ref name="Britannica"/>
+| common_name                = San Marino
+| native_name                = {{native name|it|Repubblica di San Marino}}
+| image_flag                = Flag of San Marino.svg
+| alt_flag                = Flag of San Marino
+| image_coat                = Coat of arms of San Marino.svg
+| alt_coat                = Coat of arms of San Marino
+| symbol_type                = Coat of arms
+| national_motto                = {{native phrase|la|"Libertas"|italics=off}}<br />{{small|"Freedom"}}
+| national_anthem                = ''[[Inno Nazionale della Repubblica]]''<br /><center>{{small|"National Anthem of the Republic"}}<div style="padding-top:0.5em;">[[File:Inno Nazionale della Repubblica.ogg]]</div></center>
+| image_map                = Location San Marino Europe.png
+| alt_map                = Location of San Marino in Europe
+| map_caption                = {{map caption |location_color=green |region=[[Europe]] |region_color=agate grey |legend=Location San Marino Europe.png}}
+| capital                = [[City of San Marino|San Marino]]
+| coordinates                = {{Coord|43|56|N|12|26|E|type:city}}
+| largest_settlement                = [[Dogana]]<br />{{small|{{coord|43|58|52.57|N|12|29|22.2|E|display=inline}}}}
+| largest_settlement_type                = settlement
+| official_languages                = [[Italian language|Italian]]<ref>{{cite web |title=San Marino è |url=https://www.gov.sm/articoli/San-Marino-%C3%A8/San-Marino-%C3%A8.html |website=GOV.SM |publisher=Repubblica di San Marino |accessdate=28 August 2020}}</ref>
+| religion                = 97% [[Catholicism]]<br>3% Other
+| demonym                = [[Sammarinese]]
+| government_type                = [[Unitary state|Unitary]] [[List of countries by system of government#Assembly-independent republican systems|assembly-independent]] [[Diarchy|diarchic]] [[Directorial system|directorial republic]]
+| leader_title1                = [[Captains Regent]]
+| leader_name1                = [[Alessandro Cardelli]]<br />[[Mirko Dolcini]]
+| legislature                = [[Grand and General Council]]
+| sovereignty_type                = [[Independence]]
+| established_event1                = from [[Roman Empire]]
+| established_date1                = 3 September 301<ref name="cia"/>
+| area_km2                = 61.2
+| area_footnote                = <ref name="cia"/>
+| area_rank                = 190th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi                = 
+| percent_water                = 0
+| population_estimate                = 34,232<ref name="cia"/>
+| population_census                = 
+| population_estimate_year                = 2020
+| population_estimate_rank                = 221st
+| population_census_year                = 
+| population_density_km2                = 520
+| population_density_sq_mi                = 
+| population_density_rank                = 23rd
+| GDP_PPP                = {{nowrap|$2.09 billion}}<ref name=imf>[https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?sy=2017&ey=2017&scsm=1&ssd=1&sort=country&ds=.&br=1&c=135&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=79&pr.y=15 San Marino]. Imf.org.</ref>
+| GDP_PPP_year                = 2017
+| GDP_PPP_rank                = 175th
+| GDP_PPP_per_capita                = $60,651<ref name=imf/>
+| GDP_PPP_per_capita_rank                = 11th
+| GDP_nominal                = {{nowrap|$1.55 billion}}<ref name=imf/>
+| GDP_nominal_year                = 2017
+| GDP_nominal_rank                = 174th
+| GDP_nominal_per_capita                = $44,947<ref name=imf/>
+| GDP_nominal_per_capita_rank                = 13th
+| Gini                = <!--number only-->
+| Gini_year                = 
+| Gini_change                = <!--increase/decrease/steady-->
+| Gini_ref                = 
+| Gini_rank                = 
+| HDI                = 0.875 <!--number only-->
+| HDI_year                = 2013
+| HDI_change                = <!--increase/decrease/steady-->
+| HDI_ref                = <ref>[http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf Filling Gaps in the Human Development Index] {{webarchive|url=https://web.archive.org/web/20111005100501/http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf |date=5 October 2011 }}, United Nations ESCAP, February 2009</ref>
+| HDI_rank                = 26th
+| currency                = [[Euro]] ([[Euro sign|€]])
+| currency_code                = EUR
+| time_zone                = [[Central European Time|CET]]
+| utc_offset                = +01
+| utc_offset_DST                = +02
+| DST_note                = 
+| time_zone_DST                = [[Central European Summer Time|CEST]]
+| date_format                = 
+| drives_on                = right
+| calling_code                = [[+378]] (+39 0549 calling via Italy)
+| patron_saint                = [[Saint Marinus]]<br />[[Saint Agatha]]
+| cctld                = [[.sm]]
+| footnote_a                = By tradition.
+| footnote_b                = [[List of countries by Human Development Index#UN member states (latest UNDP data)]].
+| footnotes                = Sources: {{lower|0.4em|{{big|<ref name="cia"/><ref name="unece">{{cite web |url=http://www.unece.org/stats/profiles2009/san_marino.pdf |title=San Marino |work=UNECE Statistics Programme |year=2009 |publisher=[[UNECE]] |accessdate=13 March 2010}}</ref><!--end big:-->}}}}
+| today                = 
+| established_event2                = [[Constitution of San Marino|Constitution]]
+| established_date2                = 8 October 1600<br />(statutes)
+}}

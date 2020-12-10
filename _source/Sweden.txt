@@ -1,0 +1,90 @@
+{{Infobox country
+| conventional_long_name  = Kingdom of Sweden
+| common_name             = Sweden
+| native_name             = {{native name|sv|Konungariket Sverige}}
+| image_flag              = Flag of Sweden.svg
+| image_coat              = Coat of arms of Sweden.svg
+| coa_size                = 70px
+| symbol_type             = [[Coat of arms of Sweden|Coat of arms]]
+| national_motto          = {{small|[[Royal mottos of Swedish monarchs|(royal)]]}}&nbsp;"{{lang|sv|För Sverige – i tiden}}"{{ref label|aaa|a}}<br />{{small|"For Sweden – With the Times"<ref>{{cite web |title = Mottoes of The Kings and Queens of Sweden |url = http://www.kungahuset.se/royalcourt/monarchytheroyalcourt/themonarchyinsweden/mottoesofthemonarchs.4.396160511584257f2180004713.html |publisher = [[Royal Court of Sweden]] |website = www.kungahuset.se |access-date = 22 December 2015 |archive-url = https://web.archive.org/web/20151223021154/http://www.kungahuset.se/royalcourt/monarchytheroyalcourt/themonarchyinsweden/mottoesofthemonarchs.4.396160511584257f2180004713.html |archive-date = 23 December 2015 |url-status=live |df = dmy-all }}</ref>}}
+| national_anthem         = ''{{lang|sv|[[Du gamla, Du fria]]}}''{{ref label|bbb|b}}<br />({{Lang-en|"Thou ancient, thou free"}})<div style="padding-top:0.5em;">[[File:United States Navy Band - Sweden.ogg|center]]</div>
+| royal_anthem            = ''{{lang|sv|[[Kungssången]]}}''<br />{{small|''Song of the King''}}
+| image_map               = {{Switcher|[[File:EU-Sweden (orthographic projection).svg|frameless]]|Show globe|[[File:EU-Sweden.svg|upright=1.15|frameless]]|Show map of Europe|default=1}}
+| map_caption             = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green |legend=EU-Sweden.svg}}
+| capital                 = [[Stockholm]]
+| coordinates             = {{Coord|59|21|N|18|4|E|type:city}}
+| largest_city            = capital
+| official_languages      = [[Swedish language|Swedish]]{{ref label|ccc|c}}
+| languages_type          = National minority languages
+| languages               = {{hlist | [[Finnish language|Finnish]] | [[Meänkieli language|Meänkieli]] | [[Sami languages|Sami]] | [[Romani language|Romani]] | [[Yiddish language|Yiddish]]}}
+| ethnic_groups           = No official statistics{{ref label|ddd|d}}
+| religion                = 66.8% [[Christianity]]<br />—60.3% [[Church of Sweden]]{{efn|The Monarch and dynastic members of the Royal House must at all times be a [[Protestantism|Protestant Christian]] of the [[Church of Sweden]], but has not been the official state religion since the year 2000.<ref name="The Act of Succession">{{cite web | url = http://www.riksdagen.se/en/How-the-Riksdag-works/Democracy/The-Constitution/The-Act-of-Succession/| title = The Act of Succession | publisher = The [[Riksdag]] | access-date = 2014-10-24 }}</ref><ref name="Nergelius:42-44">[[#Nergelius|Nergelius]]: pp. 42–44.</ref><ref name="svenskakyrkan stats">{{cite web|url=https://www.svenskakyrkan.se/statistik|title=Svenska kyrkan i siffror|publisher=Church of Sweden (Svenska kyrkan)}}</ref> However, the Church is recognized by law<ref>.[http://riksdagen.se/webbnav/index.aspx?nid=3911&bet=1998:1591 "SFS 1998:1591"], Riksdagen</ref> and is still supported by the state.<ref>{{Cite web|url=https://www.sweden.org.za/church-of-sweden.html|title=Church of Sweden|website=www.sweden.org.za|access-date=8 August 2020}}</ref>}}<br />
+—6.5% Other [[List of Christian denominations|Christian]]<br />27.0% [[Irreligion in Sweden|No religion]]<br />5.0% [[Islam in Sweden|Islam]]<br />1.2% Other [[Religion in Sweden|religion]]s<ref>{{Cite web|url=http://www.globalreligiousfutures.org/countries/sweden#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All+Countries&restrictions_year=2016|title=Religions in Sweden &#124; PEW-GRF|website=www.globalreligiousfutures.org|access-date=8 August 2020}}</ref><ref>{{cite web|last1=Hackett|first1=Conrad|title=5 facts about the Muslim population in Europe|url=http://www.pewresearch.org/fact-tank/2017/11/29/5-facts-about-the-muslim-population-in-europe/|website=Pew Research/Fact Tank|publisher=Pew Research Center|access-date=12 December 2017|archive-url=https://web.archive.org/web/20180817033409/http://www.pewresearch.org/fact-tank/2017/11/29/5-facts-about-the-muslim-population-in-europe/|archive-date=17 August 2018|url-status=live}}</ref>
+| religion_year           = 2017
+| demonym                 = {{hlist |[[Swedish people|Swedish]] |[[Swedes|Swede]]}}
+| government_type         = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]<br />[[constitutional monarchy]]}}
+| leader_title1           = [[Monarchy of Sweden|Monarch]]
+| leader_name1            = [[Carl XVI Gustaf of Sweden|Carl XVI Gustaf]]
+| leader_title2           = [[Speaker of the Riksdag|Riksdag Speaker]] 
+| leader_name2            = [[Andreas Norlén]] 
+| leader_title3           = [[Prime Minister of Sweden|Prime Minister]]
+| leader_name3            = [[Stefan Löfven]]
+| legislature             = [[Riksdag]]
+| sovereignty_type        = [[History of Sweden|History]]
+| established_event1      = A unified Swedish kingdom established
+| established_date1       = By the early 12th century
+| established_event2      = Part of [[Kalmar Union]]
+| established_date2       = 1397–1523
+| established_event3      = Part of [[Swedish-Norwegian Union]]
+| established_date3       = 4 November 1814 – August 1905<ref name=NEsvno>{{cite web|last1=Norborg|first1=Lars-Arne|title=svensk–norska unionen|url=http://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/svensk-norska-unionen|website=ne.se|publisher=[[Nationalencyklopedin]]|access-date=6 August 2015|language=sv|archive-url=https://web.archive.org/web/20160115212312/http://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/svensk-norska-unionen|archive-date=15 January 2016|url-status=live}}</ref>
+| established_event4      = [[1995 enlargement of the European Union|Joined]] the [[European Union]]
+| established_date4       = 1 January 1995
+| area_km2                = 450,295
+| area_rank               = 55th
+| area_sq_mi              = 175,896
+| percent_water           = 8.37 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate     = {{increase}} 10,367,232<ref name=population>[https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/] [[Statistics Sweden]]. Retrieved 6 November 2020.</ref>
+| population_estimate_year = 31 August 2020
+| population_estimate_rank = 89th
+| population_density_km2   = 25
+| population_density_sq_mi = 65
+| population_density_rank = 198th
+| GDP_PPP                 = {{nowrap|{{increase}} $563.882 billion<ref name="imf2">{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=61&pr.y=4&sy=2017&ey=2021&scsm=1&ssd=1&sort=country&ds=.&br=1&c=144&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=8 January 2020}}</ref><!--end nowrap:-->}}
+| GDP_PPP_year            = 2020
+| GDP_PPP_rank            = 39th
+| GDP_PPP_per_capita      = {{increase}} $52,477<ref name="imf2" />
+| GDP_PPP_per_capita_rank = 16th
+| GDP_nominal             = {{nowrap|{{decrease}} $528.929 billion<ref name="imf2" />}}
+| GDP_nominal_year        = 2020
+| GDP_nominal_rank        = 23rd
+| GDP_nominal_per_capita  = {{decrease}} $50,339<ref name="imf2" />
+| GDP_nominal_per_capita_rank = 12th
+| Gini                    = 27.6 <!--number only-->
+| Gini_year               = 2019
+| Gini_change             = increase <!--increase/decrease/steady-->
+| Gini_ref                = <ref name=eurogini>{{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=3 July 2020 |archive-url=https://web.archive.org/web/20190320064533/https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1 |archive-date=20 March 2019 |url-status=live  }}</ref>
+| Gini_rank               = 
+| HDI                     = 0.937 <!--number only-->
+| HDI_year                = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change              = increase <!--increase/decrease/steady-->
+| HDI_ref                 = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}}</ref>
+| HDI_rank                = 8th
+| currency                = [[Swedish krona]]
+| currency_code           = SEK
+| time_zone               = [[Central European Time|CET]]
+| utc_offset              = +1
+| utc_offset_DST          = +2
+| time_zone_DST           = [[Central European Summer Time|CEST]]
+| date_format             = YYYY-MM-DD
+| drives_on               = right{{ref label|eee|e}}
+| calling_code            = [[Telephone numbers in Sweden|+46]]
+| cctld                   = [[.se]]{{ref label|fff|f}}
+| footnote_a              = {{note|aaa}} "{{lang|sv|För Sverige – I tiden}}" has been adopted by [[Carl XVI Gustaf of Sweden|Carl XVI Gustaf]] as his personal motto.
+| footnote_b              = {{note|bbb}} ''{{lang|sv|[[Du gamla, Du fria]]}}'' has never been officially adopted as national anthem, but is so by convention.
+| footnote_c              = {{note|ccc}} Since 1 July 2009.<ref name="Swedish" /><ref name="Swedish2" /> Five other languages are [[Minority languages of Sweden|officially recognised as minority languages]]:<ref>{{cite web |url=http://www.sprakradet.se/servlet/GetDoc?meta_id=2119#item100400 |archive-url=https://web.archive.org/web/20140206102022/http://www.sprakradet.se/servlet/GetDoc?meta_id=2119 |archive-date=6 February 2014 |title=Är svenskan också officiellt språk i Sverige? |trans-title=Is Swedish also an official language in Sweden? |publisher=[[Swedish Language Council]] |date=1 February 2008 |access-date=22 June 2008 |language=sv}}</ref> [[Finnish language|Finnish]], [[Meänkieli]], [[Romani language|Romani]], [[Sami languages|Sami]], and [[Yiddish language|Yiddish]]. The [[Swedish Sign Language]] also has a special status.
+| footnote_d              = {{note|ddd}} {{as of|2012|12|31|alt=On 31 December 2012}}, approximately 27% of the population had a full or partial foreign background.<ref name="SCB1">{{cite web|url=http://www.scb.se/Pages/TableAndChart____26041.aspx |title=Summary of Population Statistics 1960–2012 |publisher=[[Statistics Sweden]] |access-date=9 June 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130317045943/http://www.scb.se/Pages/TableAndChart____26041.aspx |archive-date=17 March 2013}}</ref><ref name="NoteEthn">Note that [[Swedish-speaking Finns]] or other Swedish-speakers born outside Sweden might identify as ''Swedish'' despite being born abroad. Moreover, people born in Sweden may not be ethnic Swedes. As the [[Government of Sweden|Swedish government]] does not base any statistics on [[ethnicity]], there are no exact numbers on the [[Ethnicity|ethnic]] background of migrants and their descendants in Sweden. This is not, however, to be confused with migrants' [[Nationality|national backgrounds]], which are recorded.</ref>
+| footnote_e              = {{note|eee}} Since [[Dagen H|3 September 1967]].
+| footnote_f              = {{note|fff}} The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+| iso3166code             = SE
+| today                   =
+}}

@@ -1,0 +1,96 @@
+{{Infobox dependency
+| name = Virgin Islands
+| settlement_type = [[British Overseas Territories|British Overseas Territory]]
+| linking_name = the British Virgin Islands
+| image_flag = Flag of the British Virgin Islands.svg
+| flag_size = 153px
+| flag_link = Flag of the British Virgin Islands
+| image_seal = Coat of Arms of the British Virgin Islands.svg
+| seal_size = 72px
+| seal_type = Coat of arms
+| seal_link = Coat of arms of the British Virgin Islands
+| motto = {{native phrase|la|"Vigilate"|italics=off}}<br />({{lang-en|"Be Vigilant"}})
+| anthem = "[[God Save the Queen]]"<br /><div style="display:inline-block;margin-top:0.4em;">[[File:United States Navy Band - God Save the Queen.ogg]]</div>
+| song_type = Territorial song
+| song = "[[Oh, Beautiful Virgin Islands]]"
+| image_map = British Virgin Islands in United Kingdom.svg
+| map_caption = {{map caption|location_color=circled in red }}
+| mapsize = 290px
+| image_map2 = British Virgin Islands - Location Map (2013) - VGB - UNOCHA.svg
+| mapsize2 = 250px
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = [[United Kingdom]]
+| established_title = {{nowrap|Before annexation}}
+| established_date = [[Dutch West Indies]]
+| established_title2 = British capture
+| established_date2 = 1648
+| established_title3 = [[Cooper Island (British Virgin Islands)|Cooper Island]] sold to U.K.
+| established_date3 = 1905
+| established_title4 = Separate colony
+| established_date4 = 1960
+| established_title5 = Autonomy
+| established_date5 = 1967
+| official_languages = [[English language|English]]
+| demonym = {{hlist|[[British people|British]]|[[Virgin Islander]]}}
+| capital = [[Road Town]]
+| coordinates = {{Coord|18|25|53|N|64|37|23|W|type:city}}
+| largest_city = capital
+| ethnic_groups = 76.9% [[Black people|Black]]<br />5.6% [[Hispanic]]<br />5.4% [[White people|White]]<br />5.4% [[Multiracial|Mixed]]<br />2.1% [[Indo-Caribbean|East Indian]]<br />4.6% other
+| ethnic_groups_year = 2010<ref name=ReferenceB />
+| government_type = [[Parliamentary system|Parliamentary]] [[Dependent territory|dependency]] under a [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of the United Kingdom|Monarch]]
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = [[Governor of the Virgin Islands|Governor]]
+| leader_name2 = [[Augustus Jaspert]]
+| leader_title3 = [[Deputy Governor of the British Virgin Islands|Deputy Governor]]
+| leader_name3 = David Archer
+| leader_title4 = [[Premier of the British Virgin Islands|Premier]]
+| leader_name4 = [[Andrew Fahie]]
+| legislature = [[House of Assembly of the British Virgin Islands|House of Assembly]]
+| national_representation = [[Government of the United Kingdom]]
+| national_representation_type1 = Minister
+| national_representation1 = [[Tariq Ahmad, Baron Ahmad of Wimbledon|Tariq Ahmad]]
+| area_km2 = 153
+| area_rank = 
+| area_sq_mi = 59 <!-- Do not remove as per WP:MOSNUM -->
+| percent_water = 1.6
+| elevation_max_m = 521 
+| population_estimate = 30,030
+| population_census = 28,054<ref name="ReferenceB">The BVI Beacon "Portrait of a population: 2010 Census published" p. 4, 20 November 2014</ref>
+| population_estimate_year = 2019
+| population_estimate_rank = 222nd
+| population_census_year = 2010
+| population_density_km2 = 260
+| population_density_sq_mi = 673 <!-- Do not remove as per WP:MOSNUM -->
+| population_density_rank = 68th
+| GDP_PPP = $500 million<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html|title=The World Factbook|work=cia.gov}}</ref>
+| GDP_PPP_year = 2017
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $34,200
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = 
+| GDP_nominal_year = 
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = 
+| GDP_nominal_per_capita_rank = 
+| Gini = 
+| Gini_year = 
+| Gini_change = <!-- increase/decrease/steady -->
+| Gini_ref = 
+| HDI = <!-- number only -->
+| HDI_year = <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = <!-- increase/decrease/steady -->
+| HDI_ref = 
+| HDI_rank = 
+| currency = [[United States dollar]] (US$)
+| currency_code = USD
+| timezone = [[Atlantic Time Zone|AST]]
+| utc_offset = -4:00
+| date_format = dd/mm/yyyy
+| drives_on = left
+| calling_code = [[North American Numbering Plan|+1]]-[[Area code 284|284]]
+| postal_code_type = [[Postcodes in the United Kingdom#British Overseas Territories|UK postcode]]
+| postal_code = VG-11xx
+| iso_code = [[ISO 3166-2:VG|VG]]
+| cctld = [[.vg]]
+}}

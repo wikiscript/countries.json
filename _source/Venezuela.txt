@@ -1,0 +1,103 @@
+{{Infobox country
+| conventional_long_name = Bolivarian Republic of Venezuela
+| common_name = Venezuela
+| native_name = {{native name|es-VE|República Bolivariana de Venezuela}}
+| image_flag = File:Flag of Venezuela (state).svg<!-- DO NOT REPLACE THE FLAG WITH THE PRE-CHAVEZ FLAG. THIS IS THE OFFICIAL STATE FLAG OF VENEZUELA, SEE TALK PAGE. -->
+| image_coat = File:Coat of arms of Venezuela.svg<!-- DO NOT REPLACE THE STATE EMBLEM WITH THE PRE-CHAVEZ EMBLEM. THIS IS THE OFFICIAL EMBLEM OF VENEZUELA, SEE TALK PAGE. -->
+| national_motto = ''[[Dios y Federación]]''<br />(''"God and Federation"'')
+| national_anthem = ''[[Gloria al Bravo Pueblo]]''<br />(''"Glory to the Brave People"'')<div style="padding-top:0.5em;">[[File:United States Navy Band - Gloria al Bravo Pueblo.ogg|center]]</div>
+| image_map = Venezuela Orthographic Map.svg
+| map_caption = Land controlled by Venezuela shown in dark green; claimed but uncontrolled land shown in light green.
+| capital = [[Caracas]]
+| coordinates = {{Coord|10|30|N|66|55|W|type:city}}
+| largest_city = [[Caracas]]
+| official_languages = [[Venezuelan Spanish|Spanish]]{{ref label|languages|b|none}}
+| ethnic_groups = {{unbulleted list
+  | 51.6% [[Mestizos in Venezuela|Mestizo]] (mixed [[Indigenous peoples in Venezuela|Amerindian]] and [[Venezuelan of European descent|White]])
+  | 43.6% [[Venezuelan of European descent|European (White)]]
+  | 3.6% [[Afro-Venezuelan|African (Black)]]
+  | 1.2% [[Indigenous peoples in Venezuela|Amerindians]] and Others
+ }}
+| ethnic_groups_year = 2011
+| ethnic_groups_ref =<ref name="Census-ethnics">{{cite web |url=http://www.ine.gob.ve/documentos/Demografia/CensodePoblacionyVivienda/pdf/nacional.pdf|title=Resultado Básico del XIV Censo Nacional de Población y Vivienda 2011 (Mayo 2014) |page=29 |publisher=Ine.gov.ve |access-date=8 September 2014}}</ref>
+| religion               = 89% [[Christianity]]<br />—71% [[Catholic Church in Venezuela|Roman Catholic]]<br />—17% [[Protestant]]<br />—1% Other [[List of Christian denominations|Christian]]<br />8% [[Irreligion in Latin America|No religion]]<br />2% Other [[Religion in Venezuela|religion]]s<br />1% No answer
+| religion_ref           =<ref name="grumilla"/>
+| religion_year          = 2012
+| demonym = [[Venezuelans|Venezuelan]]
+| government_type = [[Federal state|Federal]] [[Dominant-party system|dominant-party]] [[Presidential system|presidential]] [[Constitution of Venezuela|constitutional]] [[republic]]
+| leader_title1 = [[President of Venezuela|President]]
+| leader_name1 = *[[Nicolás Maduro]]<br />(disputed){{refn|group="n"|Recognized as president by the [[2017 Constituent National Assembly|National Constituent Assembly]], the [[Supreme Tribunal of Justice (Venezuela)|Supreme Tribunal of Justice]], the [[National Electoral Council (Venezuela)|National Electoral Council]], [[National Bolivarian Armed Forces of Venezuela|National Bolivarian Armed Forces]] and the United Nations.<ref>{{cite web|url=https://undocs.org/en/A/74/572|title=Report of the Credentials Committee|publisher=United Nations General Assembly|access-date=29 January 2020}}</ref>}}
+*[[Juan Guaidó]]<br />(disputed){{refn|group="n"|Recognized as president by the [[National Assembly (Venezuela)|National Assembly]] and the [[Supreme Tribunal of Justice of Venezuela in exile|Supreme Tribunal in Exile]].}} <!--Please read discussion on talk page before editing-->
+| leader_title2 = [[Vice President of Venezuela|Vice President]]
+| leader_name2 = [[Delcy Rodríguez]] (constitutional position [[Venezuelan presidential crisis|disputed]]) <!--Please read discussion on talk page before editing-->
+<!--THE FOLLOWING INFO IS HIDDEN FOR NOW AS THE STATUS IS UNCLEAR-->
+<!--| leader_title3 = [[President of the National Assembly of Venezuela|President of the National Assembly]]     
+| leader_name3 = [[Juan Guaidó]]
+| leader_title4 = [[2017 Constituent Assembly of Venezuela|President of Constituent Assembly]]
+| leader_name4 = [[Diosdado Cabello]]-->
+| legislature = [[National Assembly (Venezuela)|National Assembly]]<br />[[Constituent Assembly of Venezuela|Constituent Assembly]] (disputed)
+| sovereignty_type = Independence
+| established_event1 = from Spain
+| established_date1 = 5 July 1811
+| established_event2 = {{nowrap|from [[Gran Colombia]]}}
+| established_date2 = 13 January 1830
+| established_event3 = Recognized
+| established_date3 = 29 March 1845
+| established_event4 = [[United Nations Charter|Admitted to the]] United Nations
+| established_date4 = 15 November 1945
+| established_event5 = {{nowrap|[[Fifth Republic of Venezuela|Current constitution]]}}
+| established_date5 = 20 December 1999<ref>{{cite web|url=https://www.constituteproject.org/constitution/Venezuela_2009.pdf?lang=en|title=Venezuela (Bolivarian Republic of)'s Constitution of 1999 with Amendments through 2009|website=constituteproject.org|access-date=21 October 2020}}</ref>
+| area_km2 = 916,445
+| area_rank = 32nd <!-- Area rank should match [[List of countries and dependencies by area]]. -->
+| area_sq_mi = 353,841
+| percent_water = 3.2%{{ref label|area|d|none}}
+| population_estimate = {{increase}} {{UN_Population|Venezuela (Bolivarian Republic of)}} {{UN_Population|ref}} (government)<br />28,067,000 ([[International Monetary Fund|IMF]])<ref name="auto">{{Cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=37&pr.y=8&sy=2013&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=299&s=LP&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org|access-date=25 May 2019}}</ref>
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 45th
+| population_density_km2 = 33.74
+| population_density_sq_mi = 87.42
+| population_density_rank = 181st
+| GDP_PPP = {{decrease}} $204.291&nbsp;billion<ref name="imf1">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=subject&ds=.&br=1 |title= World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=20 April 2020}}</ref>
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = {{decrease}} $7,344<ref name="imf2"/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = {{decrease}} $63.960&nbsp;billion<ref name="imf2">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=subject&ds=.&br=1 |title= World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=20 October 2019}}</ref>
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 84th
+| GDP_nominal_per_capita = {{decrease}} $2,299<ref name="imf2"/>
+| GDP_nominal_per_capita_rank = 146th
+| Gini = 44.8 <!-- Number only. -->
+| Gini_year = 2013
+| Gini_change = increase<!--increase/decrease/steady-->
+| Gini_ref =<ref>{{cite web |title=Income Gini coefficient |url=http://hdr.undp.org/en/content/income-gini-coefficient |website=[[United Nations Development Programme]] |publisher=United Nations |access-date=21 September 2015}}</ref>
+| Gini_rank = 
+| HDI = 0.726 <!-- Number only. -->
+| HDI_year = 2018<!-- Please use the year to which the data refers, not the publication year. -->
+| HDI_change = decrease<!--increase/decrease/steady-->
+| HDI_ref =<ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr2019.pdf |title=2019 Human Development Report |year=2019 |access-date=9 December 2019 |publisher=United Nations Development Programme }}</ref>
+| HDI_rank = 96th
+| currency = {{unbulleted list
+  | [[Venezuelan bolívar|Bolívar Soberano]]
+ }}
+| currency_code = VES
+| time_zone = [[Time in Venezuela|VET]]
+| utc_offset = −4
+| utc_offset_DST = 
+| time_zone_DST = 
+| date_format = dd/mm/yyyy ([[Common Era|CE]])
+| drives_on = right
+| calling_code = [[+58]]
+| cctld = [[.ve]]
+| footnote_a = {{note label|name|a|none}} The "Bolivarian Republic of Venezuela" has been the full official title since the adoption of the [[Constitution of Venezuela|Constitution of 1999]], when the state was renamed in honor of [[Simón Bolívar]].
+| footnote_b = {{note label|languages|b|none}} The Constitution also recognizes all [[Indigenous languages of the Americas|indigenous languages]] spoken in the country.
+| footnote_c = {{note label|groups|c|none}} Some important subgroups include those of [[Spanish Venezuelan|Spanish]], [[Italo-Venezuelans|Italian]], [[Indigenous peoples in Venezuela|Amerindian]], [[Afro-Venezuelan|African]], [[Portuguese Venezuelan|Portuguese]], [[Arab Venezuelan|Arab]] and [[German Venezuelan|German]] descent.
+| footnote_d = {{note label|area|d|none}} Area totals include only Venezuelan-administered territory.
+| footnote_e = {{note label|currency|e|none}} On 20 August 2018, a new bolivar was introduced, the ''Bolívar soberano'' (ISO 4217 code VES) worth 100,000 VEF.
+| recognized_regional_languages = {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Languages of Venezuela|26 languages]]
+  |liststyle = border-top:1px solid #aaa;
+  | [[Piapoco language|Piapoco]]<br />[[Baniwa of Içana|Baniwa]]<br />[[Arawak language|Locono]]<br />[[Wayuu language|Wayúu]]<br />[[Warao language|Warao]]<br />[[Pemon language|Pemón]]<br />[[Panare language|Panare]]<br />[[Ye'kuana language|Yek'uana]]<br />[[Yukpa language|Yukpa]]<br />[[Carib language|Carib]]<br />[[Kapóng language|Akawaio]]<br />[[Japreria language|Japrería]]<br />[[Mapoyo-Yabarana language|Mapoyo]]<br />[[Mapoyo-Yabarana language|Yawarana]]<br />[[Hodï language|Hodï]]<br />[[Puinave language|Puinave]]<br />[[Guahibo language|Jivi]]<br />[[Barí language|Barí]]<br />[[Arutani language|Uruak]]<br />[[Sapé language|Sapé]]<br />[[Yaruro language|Pumé]]<br />[[Piaroa language|Piaroa]]<br /> [[Yanomamö language|Yanomamö]]<br />[[Sanumá language|Sanemá]]<br />[[Ninam language|Yanam]]<br />[[Nheengatu language|Yeral]]
+ }}
+}}

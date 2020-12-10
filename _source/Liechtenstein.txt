@@ -1,0 +1,75 @@
+{{Infobox country
+| conventional_long_name                = Principality of Liechtenstein
+| common_name                = Liechtenstein
+| native_name                = {{native name|de|Fürstentum Liechtenstein}}
+| image_flag                = Flag of Liechtenstein.svg
+| image_coat                = Staatswappen-Liechtensteins.svg
+| national_motto                = "Für Gott, Fürst und Vaterland"<br/>{{small|"For God, Prince, and Fatherland"}}
+| national_anthem = <center>''[[Oben am jungen Rhein]]''<br/>{{small|(English: "High on the Young Rhine")}}<div style="padding-top:0.5em;">[[File:Oben am jungen Rhein, by the U.S. Navy Band.ogg|center]]</div></center>
+| image_map                = Europe-Liechtenstein.svg
+| map_caption                = {{map caption |location_color=green |region=Europe |region_color=agate grey |legend=Location Liechtenstein Europe.png}}
+| image_map2                = Liechtenstein - Location Map (2013) - LIE - UNOCHA.svg
+| capital                = [[Vaduz]]
+| largest_settlement                = [[Schaan]]<br />{{small|{{coord|47|10|00|N|9|30|35|E|display=inline}}}}
+| largest_settlement_type                = municipality
+| official_languages                = German
+| religion_year               = 2015<ref>{{cite web |url= https://www.cia.gov/library/publications/the-world-factbook/geos/ls.html |title=Central Intelligence Agency|author=<!--Staff writer(s); no by-line.--> |date= 7 February 2020|work=The World Factbook|publisher=Central Intelligence Agency|accessdate=24 February 2020}}</ref>
+| religion              = 83.2% Christianity<br />—73.4% [[Catholic Church in Liechtenstein|Roman Catholic]] (official)<br />—9.8% Other [[List of Christian denominations|Christian]]<br />7.0% [[Irreligion|No religion]]<br />5.9% [[Islam in Liechtenstein|Islam]]<br />3.9% [[Religion in Liechtenstein|Other]]s
+| demonym                = [[Liechtensteiners|Liechtensteiner]]
+| government_type                = [[Unitary state|Unitary]] [[parliamentary]] [[semi-constitutional monarchy]]
+| leader_title1                = [[Monarchy of Liechtenstein|Monarch]]
+| leader_name1                = [[Hans-Adam II]]
+| leader_title2                = [[Prince of Liechtenstein|Regent]]
+| leader_name2                = [[Alois, Hereditary Prince of Liechtenstein|Alois]]
+| leader_title3                = [[List of heads of government of Liechtenstein|Prime Minister]]
+| leader_name3                = [[Adrian Hasler]]
+| legislature                = [[Landtag of Liechtenstein|Landtag]]
+| sovereignty_type                = Independence as [[principality]]
+| established_event1                = {{nowrap|Union between<br/>[[County of Vaduz|Vaduz]] and<br/>[[Lordship of Schellenberg|Schellenberg]]}}
+| established_date1                = 23 January 1719
+| established_event2                = {{nowrap|[[Peace of Pressburg (1805)|Treaty of Pressburg]]}}
+| established_date2                = 12 July 1806
+| established_event3                = {{nowrap|Separation from<br/>[[German Confederation]]}}
+| established_date3                = 23 August 1866
+| area_km2                = 160
+| area_rank                = 189th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi                = 61
+| percent_water                = 2.7<ref>[http://www.llv.li/pdf-llv-as-jb_2011_1.1_geografie__raumnutzung_2011 Raum, Umwelt und Energie] {{webarchive |url= https://web.archive.org/web/20111012083302/http://www.llv.li/pdf-llv-as-jb_2011_1.1_geografie__raumnutzung_2011 |date=12 October 2011 }} Landesverwaltung Liechtenstein. Retrieved 2 October 2011.</ref>
+| population_estimate                = 38,749<ref name="Liechpop">{{cite web|url=https://www.llv.li/#/12150/-bevolkerung-und-wohnen|title=Amt für Statistik, Landesverwaltung Liechtenstein |website=Llv.li|accessdate=30 June 2019}}</ref>
+| population_estimate_year                = 2020
+| population_estimate_rank                = 217th
+| population_density_km2                = 237
+| population_density_sq_mi                = 587<!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank                = 57th
+| GDP_PPP                = $5.3&nbsp;billion<ref>{{cite web |url= http://www.llv.li/files/as/fl-in-zahlen-englisch-2016.pdf |title=Liechtenstein in Figures: 2016 |website=Llv.li|accessdate=3 August 2017}}</ref>
+| GDP_PPP_year                = 2013
+| GDP_PPP_rank                = 149th
+| GDP_PPP_per_capita                = $98,432<ref name="Liechpop"/><ref name="Liechfigures"/><ref name="wdi"/>
+| GDP_PPP_per_capita_rank                = 3rd
+| GDP_nominal                = $5.155&nbsp;billion<ref name="Liechfigures">[http://www.llv.li/amtsstellen/llv-as-wichtige_zahlen_engl.htm Key Figures for Liechtenstein] {{webarchive |url= https://web.archive.org/web/20090917040625/http://www.llv.li/amtsstellen/llv-as-wichtige_zahlen_engl.htm |date=17 September 2009 }} Landesverwaltung Liechtenstein. Retrieved 1 July 2012.</ref><ref name="wdi">[http://data.worldbank.org/data-catalog World Development Indicators], [[World Bank]]. Retrieved 1 July 2012. Note: "PPP conversion factor, GDP (LCU per international $)" and "Official exchange rate (LCU per US$, period average)" for Switzerland were used.</ref>
+| GDP_nominal_year                = 2010
+| GDP_nominal_rank                = 147th
+| GDP_nominal_per_capita                = $143,151<ref name="Liechpop"/><ref name="Liechfigures"/><ref name="wdi"/>
+| GDP_nominal_per_capita_rank                = 2nd
+| Gini                = <!--number only-->
+| Gini_year                = 
+| Gini_change                = <!--increase/decrease/steady-->
+| Gini_ref                = 
+| Gini_rank                = 
+| HDI                = 0.917 <!--number only-->
+| HDI_year                = 2018<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change                = increase<!--increase/decrease/steady-->
+| HDI_ref                =<ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank                = 18th
+| currency                = [[Swiss franc]]
+| currency_code                = CHF
+| time_zone                = [[Central European Time|CET]]
+| utc_offset                = +01:00
+| utc_offset_DST                = +02:00
+| time_zone_DST                = [[Central European Time|CEST]]
+| drives_on                = right
+| calling_code                = [[Telephone numbers in Liechtenstein|+423]]
+| cctld                = [[.li]]
+| footnote_a                = 
+| today                = 
+|image_flag2=File:Flag of Liechtenstein (state).svg|Third flag=}}

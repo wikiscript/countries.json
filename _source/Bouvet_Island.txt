@@ -1,0 +1,34 @@
+{{Infobox dependency
+| name = Bouvet Island
+| native_name = {{native name|no|Bouvetøya|paren=omit}} / {{native name|no|Bouvet-øya}}
+| settlement_type = [[Dependencies of Norway|Dependent territory of Norway]]
+| image_map = Bouvet Island on the globe (Antarctica centered).svg
+| map_alt = Location of Bouvet Island (circled in red)
+| map_caption = {{map caption |location_color=circled in red, in the Atlantic Ocean}}
+| mapsize = 290px
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = {{flag|Norway}}
+| established_title = {{nowrap|Annexed by Norway}}
+| established_date = 23 January 1928
+| established_title2 = Dependency status
+| established_date2 = 27 February 1930<ref name="LOV19300227"/>
+| established_title3 = Nature reserve declared
+| established_date3 = 17 December 1971<ref name="FOR19711217"/>
+| government_type = [[Dependent territory|Dependency]] under a [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of Norway|Monarch]]
+| leader_name1 = [[Harald V of Norway|Harald V]]
+| leader_title2 = Administered by
+| leader_name2 = [[Ministry of Justice and Public Security]]
+| area_km2 = 49
+| area_label2 = [[Glacier|Glaciated]]
+| area_data2 = 93%
+| elevation_max_m = 780
+| population_estimate = 0
+| iso_code = [[ISO 3166-2:BV|BV]]
+| cctld = {{hlist|[[.no]]|[[.bv]]{{efn|.bv allocated, but not used.}}}}
+{{Infobox protected area
+| name = Bouvetøya Nature Reserve
+| child = yes
+| iucn_category = Ia <!-- https://www.protectedplanet.net/bouvetoya-nature-reserve -->
+}}
+}}

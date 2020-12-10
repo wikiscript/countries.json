@@ -1,0 +1,94 @@
+{{Infobox dependency
+| name = Gibraltar
+| settlement_type = [[British Overseas Territories|British Overseas Territory]]
+| linking_name = Gibraltar
+| official_name =
+| image_flag = Flag of Gibraltar.svg
+| flag_size = 155px
+| flag_link = Flag of Gibraltar
+| image_seal = Coat of arms of Gibraltar1.svg
+| seal_size = 70px
+| seal_type = Coat of arms
+| seal_link = Coat of arms of Gibraltar
+| motto = {{native phrase|la|"Montis Insignia Calpe"|italics=off}}<br/>({{lang-en|"Badge of the Rock of Gibraltar"}})<ref>{{cite web|url =https://www.gibraltar.gov.gi/national-symbols|title =National Symbols|publisher =Gibraltar.gov.gi|access-date =21 June 2013|archive-url =https://web.archive.org/web/20141113200625/https://www.gibraltar.gov.gi/national-symbols|archive-date =13 November 2014|url-status=dead|df =dmy-all}}</ref>
+| anthem = "[[God Save the Queen]]"<div style="display:inline-block;margin-top:0.4em;">[[File:United States Navy Band - God Save the Queen.ogg]]</div>
+| song_type = National song
+| song = "[[Gibraltar Anthem]]"
+| image_map = Gibraltar location in Europe.svg
+| map_alt = Location of Gibraltar in Europe
+| map_caption = {{map caption |location_color=dark green}} United Kingdom shown in pale green
+| mapsize = 290px
+| image_map2 = Gibraltar map-en-edit2.svg
+| map_alt2 = Map of Gibraltar
+| map_caption2 = Map of Gibraltar
+| mapsize2 = 290px
+| subdivision_type = [[Sovereign state]]
+| subdivision_name = [[United Kingdom]]
+| established_title = [[Capture of Gibraltar|British capture]]
+| established_date = 4 August 1704
+| established_title2 = {{nowrap|[[Treaty of Utrecht|Cession from Spain]]}}
+| established_date2 = 11 April 1713
+| established_title3 = [[Gibraltar National Day|National Day]]
+| established_date3 = 10 September 1967
+| established_title4 = Accession to [[European Economic Community|EEC]]
+| established_date4 = 1 January 1973
+| established_title5 = [[Brexit|Withdrawal from the EU]]
+| established_date5 = 31 January 2020
+| official_languages = [[English language|English]]
+| languages_type = Spoken languages
+| languages = {{hlist|[[English language|English]]|[[Andalusian Spanish]]|[[Llanito]]}}
+| capital = Gibraltar
+| coordinates = {{Coord|36|8|N|5|21|W|type:city}}
+| largest_settlement_type = district<br/>{{nobold|by population}}
+| largest_settlement = [[Westside, Gibraltar|Westside]]
+| ethnic_groups = {{hlist|[[Gibraltarians|Gibraltarian]]|[[British people|British]]|[[Maghrebis]]}}
+| demonym = {{hlist|[[Gibraltarians|Gibraltarian]]|Llanito {{small|(colloquial)}}}}
+| government_type = [[Devolution|Devolved]] [[Representative democracy|representative democratic]] [[Parliamentary system|parliamentary]] [[Dependent territory|dependency]] under a [[constitutional monarchy]]
+| leader_title1 = [[Monarchy of the United Kingdom|Monarch]]
+| leader_name1 = [[Elizabeth II]]
+| leader_title2 = [[Governor of Gibraltar|Governor]]
+| leader_name2 = [[David Steel (Royal Navy officer) | Sir David Steel]]
+| leader_title3 = [[Chief Minister of Gibraltar|Chief Minister]]
+| leader_name3 = [[Fabian Picardo]]
+| leader_title4 = [[Mayor of Gibraltar|Mayor]]
+| leader_name4 = John Gonçalves<ref>{{cite web | url = https://www.gbc.gi/news/new-mayor-john-goncalves-says-he-wants-give-young-people-voice | title = New Mayor John Gonçalves says he wants to give young people a voice | access-date = 5 April 2019}}</ref>
+| legislature = [[Gibraltar Parliament|Parliament]]
+| national_representation = [[Government of the United Kingdom]]
+| national_representation_type1 = Minister
+| national_representation1 = [[Wendy Morton]]
+| area_km2 = 6.7
+| area_sq_mi = 2.6 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0
+| elevation_max_m = 426
+| population_estimate = 34,003<ref name="gibraltar.gov.gi">{{cite web|url=https://www.gibraltar.gov.gi/statistics/key-indicators|title=Gibraltar - Key Indicators|date=2020|website=Gibraltar.gov.gi|access-date=5 June 2020}}</ref>
+| population_estimate_rank = 220th
+| population_estimate_year = 2020
+| population_census = 32,194
+| population_census_year = 2012
+| population_density_km2 = 5,000
+| population_density_sq_mi = 12,264 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank =
+| GDP_PPP = £1.64 billion
+| GDP_PPP_rank = 
+| GDP_PPP_year = 2013
+| GDP_PPP_per_capita = £50,941
+| GDP_PPP_per_capita_rank = not ranked
+| HDI_year = 2015
+| HDI_change = <!--increase/decrease/steady-->
+| HDI = 0.961 <!--number only-->
+| HDI_ref = <ref>[https://books.google.com/books?id=hGAiCwAAQBAJ&pg=PA62#v=onepage Quality of Life, Balance of Powers, and Nuclear Weapons (2015)] Avakov, Aleksandr Vladimirovich. Algora Publishing, 1 April 2015.</ref>
+| HDI_rank = 5th
+| currency = [[Gibraltar pound]] (£)
+| currency_code = GIP
+| timezone = [[Central European Time|CET]]
+| utc_offset = +01:00
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +02:00
+| date_format = dd/mm/yyyy
+| drives_on = right
+| calling_code = [[Telephone numbers in Gibraltar|+350]]
+| postal_code_type = [[Postcodes in the United Kingdom#British Overseas Territories|UK postcode]]
+| postal_code = GX11 1AA
+| iso_code = [[ISO 3166-2:GI|GI]]
+| cctld = [[.gi]]
+}}

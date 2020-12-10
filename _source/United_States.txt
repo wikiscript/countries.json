@@ -13,7 +13,7 @@
 |{{native phrase|la|"[[Novus ordo seclorum]]"|italics=off}}<ref name="de facto Motto"/><br />{{small|"New order of the ages"}}
 }}
 | national_anthem        = {{center|"[[The Star-Spangled Banner]]"<ref>{{cite act |date=3 March 1931 |article=14 |article-type=H.R. |legislature=[[71st United States Congress]] |title=An Act To make The Star-Spangled Banner the national anthem of the United States of America |url=https://uscode.house.gov/statviewer.htm?volume=46&page=1508}}</ref> }}<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:"The Star-Spangled Banner" performed by the United States Navy Band.mp3]]}}</div>
-| march                  = {{center|"[[The Stars and Stripes Forever]]"{{sfn|Kidder|Oppenheim|2007|p=91}}<ref name="urluscode.house.gov">{{cite web |url=http://uscode.house.gov/statviewer.htm?volume=112&page=1263 |title=uscode.house.gov |author= |authorlink= |vauthors= |date=August 12, 1999 |website=Public Law 105-225 |publisher=uscode.house.gov |pages=112 Stat. 1263 |language= |quote=Section 304. "The composition by John Philip Sousa entitled 'The Stars and Stripes Forever' is the national march." |accessdate=September 10, 2017}}</ref> }}<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:March, "The Stars and Stripes Forever" · Colonel John R. Bourgeois, Director · John Philip Sousa · United States Marine Band.ogg]]}}</div>
+| march                  = {{center|"[[The Stars and Stripes Forever]]"{{sfn|Kidder|Oppenheim|2007|p=91}}<ref name="urluscode.house.gov">{{cite web |url=http://uscode.house.gov/statviewer.htm?volume=112&page=1263 |title=uscode.house.gov |date=August 12, 1999 |website=Public Law 105-225 |publisher=uscode.house.gov |pages=112 Stat. 1263 |quote=Section 304. "The composition by John Philip Sousa entitled 'The Stars and Stripes Forever' is the national march." |accessdate=September 10, 2017}}</ref> }}<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:March, "The Stars and Stripes Forever" · Colonel John R. Bourgeois, Director · John Philip Sousa · United States Marine Band.ogg]]}}</div>
 | other_symbol           = <div style="padding:0.3em;">[[File:Great Seal of the United States (obverse).svg|90px]] [[File:Great Seal of the United States (reverse).svg|90px]]</div><ref name="de facto Motto"/>
 | other_symbol_type      = [[Great Seal of the United States|Great Seal]]:
 | image_map              = {{Switcher|[[File:USA orthographic.svg|frameless]]|Show globe ([[Contiguous United States|states]] and [[Washington, D.C.|D.C.]] only)|[[File:US insular areas SVG.svg|upright=1.15|frameless]]|Show the U.S. and its [[Territories of the United States|territories]]|default=1}} <!-- Consensus map, see talk page. -->
@@ -116,7 +116,7 @@
 | calling_code           = [[North American Numbering Plan|+1]]
 | iso3166code            = US
 | cctld                  = ; [[Generic top-level domain]]: [[.com]], [[.org]], [[.net]], [[.edu]], [[.gov]], [[.mil]]
-; ccTLD (generally not used in the U.S.): [[.us]], [[.pr]], [[.as]], [[.gu]], [[.mp]], [[.vi]] and, formerly, [[.um]] (removed by ICANN in 2008, but still recognized by the U.S. government as a ccTLD)
+; ccTLD (generally not used in the U.S.): [[.us]], [[.pr]], [[.as]], [[.gu]], [[.mp]], [[.vi]] and, formerly, [[.um]] (removed by ICANN in 2008, but still recognized by the U.S. government as a ccTLD) 
 | area_km2               =
 | today                  =
 | religion                = See [[Religion in the United States]]

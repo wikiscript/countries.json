@@ -1,0 +1,78 @@
+{{Infobox country
+| coordinates = {{Coord|37|58|N|23|43|E|type:city}}
+| languages_type = Official language<br />{{nobold|and national language}}
+| leader_name2 = [[Kyriakos Mitsotakis]]
+| leader_name3 = [[Konstantinos Tasoulas]]
+| conventional_long_name = Hellenic Republic
+| native_name = {{small|Ελληνική Δημοκρατία<br />{{native name|el|Ellinikí Dimokratía}}}}
+| image_flag = Flag of Greece.svg
+| image_coat = Coat of arms of Greece.svg
+| common_name = Greece
+| national_motto = «[[Eleftheria i thanatos|Ελευθερία ή Θάνατος]]»<br />Elefthería í Thánatos<br />{{small|"Freedom or Death"}}
+| national_anthem = «[[Hymn to Liberty|Ύμνος εις την Ελευθερίαν]]»<br />Ýmnos eis tin Eleftherían<br />{{small|"Hymn to Liberty"}}<br /><div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Greece national anthem.ogg]]}}</div>
+| image_map = EU-Greece.svg
+| map_caption = {{map caption |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green |legend=EU-Greece.svg}}
+| capital = [[Athens]]
+| largest_city = capital
+| languages = [[Greek language|Greek]]
+| demonym = [[Greeks|Greek]]
+| government_type = [[Unitary parliamentary republic]]
+| leader_title1 = [[President of Greece|President]]
+| leader_name1 = [[Katerina Sakellaropoulou]]
+| leader_title2 = [[Prime Minister of Greece|Prime Minister]]
+| leader_title3 = [[Speaker of the Hellenic Parliament|Speaker of the Parliament]]
+| legislature = [[Hellenic Parliament]]
+| sovereignty_type = [[History of Greece|Establishment history]]
+| established_event1= [[Greek War of Independence|Independence declared]] {{nobold|from the [[Ottoman Empire]]}} <!-- PLEASE DO NOT AMEND THE ESTABLISHED EVENTS SECTION WITHOUT OPENING A DISCUSSION ON THE TALK PAGE FIRST -->
+| established_date1= {{nowrap|25 March 1821}} (traditional starting date of the [[Greek War of Independence]]), {{nowrap|15 January 1822}} ([[First National Assembly at Epidaurus|official declaration]])
+| established_event2 = [[London Protocol (1830)|Recognised]]
+| established_date2 = {{nowrap|3 February 1830}}
+| established_event3 = {{nowrap|[[Constitution of Greece|Current constitution]]}}
+| established_date3 = 11 June 1975
+| area_km2 = 131,957
+| area_footnote = <ref>{{cite web |url= https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html?countryName=Greece&countryCode=gr&regionCode=eur&rank=97#gr |title= Country Comparison: Area | website =[[The World Factbook]] |publisher=[[Central Intelligence Agency]] |accessdate=7 January 2013}}</ref>
+| area_rank = 95th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 50,949 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| percent_water = 1.51 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=2020-10-11|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate = {{decrease}} 10,724,599<ref>{{cite web|title=Statistics - ELSTAT|url=https://www.statistics.gr/en/statistics/-/publication/SPO18/2019|website=www.statistics.gr|access-date=22 May 2020}}</ref>
+| population_census = 10,816,286<ref name="ELSTAT">{{cite web|format=PDF|script-title=el:Απογραφή Πληθυσμού – Κατοικιών 2011. ΜΟΝΙΜΟΣ Πληθυσμός|trans-title=Results of Population-Housing Census 2011 concerning the permanent population of the country|language=el|url=http://www.statistics.gr/documents/20181/1210503/resident_population_census2011rev.xls/956f8949-513b-45b3-8c02-74f5e8ff0230|date=20 March 2014|accessdate=25 October 2016}}</ref>
+| population_estimate_year = 2019
+| population_estimate_rank = 85th
+| population_census_year = 2011
+| population_census_rank = 
+| population_density_km2 = 82<ref>{{cite web|title=Announcement of the results of the 2011 Population Census for the Resident Population |url=http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1602/PressReleases/A1602_SAM01_DT_DC_00_2011_02_F_EN.pdf |publisher=[[Hellenic Statistical Authority]]|date=28 December 2012 |accessdate=24 August 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20131113172928/http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1602/PressReleases/A1602_SAM01_DT_DC_00_2011_02_F_EN.pdf |archivedate=13 November 2013  }}</ref>
+| population_density_rank = 125th
+| population_density_sq_mi = 212 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| GDP_PPP = {{decrease}} $310.743 billion<ref name=imfgdp>{{cite web|date=15 October 2019 |url= https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=174,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=Report for Selected Countries and Subjects: October 2020|publisher=IMF}}</ref>
+| GDP_PPP_year = 2020
+| GDP_PPP_rank = 55th
+| GDP_PPP_per_capita = {{decrease}} $29,045<ref name=imfgdp/>
+| GDP_PPP_per_capita_rank = 50th
+| GDP_nominal = {{decrease}} $194.376 billion<ref name=imfgdp/>
+| GDP_nominal_year = 2020
+| GDP_nominal_rank = 50th
+| GDP_nominal_per_capita = {{decrease}} $18,168<ref name=imfgdp/>
+| GDP_nominal_per_capita_rank = 39th
+| Gini = 31.0 <!--number only-->
+| Gini_year = 2019
+| Gini_change = decrease <!--increase/decrease/steady-->
+| Gini_ref = <ref>{{cite web|title=INCOME INEQUALITY|url=https://www.statistics.gr/documents/20181/bf91316c-4831-8cde-01c9-f7c8f5ff2fbc|publisher=Hellenic Statistical Authority|accessdate=23 June 2020|location=Piraeus|date=19 June 2020}}</ref>
+| Gini_rank = 60th
+| HDI = 0.872 <!--number only-->
+| HDI_year = 2018 <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank = 32nd
+| currency = [[Euro]] ([[Euro sign|€]])
+| currency_code = EUR
+| time_zone = [[Eastern European Time]]
+| utc_offset = +02:00
+| utc_offset_DST = +03:00
+| time_zone_DST = [[Eastern European Summer Time]]
+| date_format = {{nowrap|{{abbr|dd|day}}-{{abbr|mm|month}}-{{abbr|yyyy|year}}}} ([[Anno Domini|AD]])
+| drives_on = right
+| calling_code = [[Telephone numbers in Greece|+30]]
+| cctld = [[.gr]]<sup>a</sup><br />[[.ελ]]
+| footnote_a = The [[.eu]] domain is also used, as in other [[European Union]] member states.
+| religion = [[Eastern Orthodox Church]]
+}}

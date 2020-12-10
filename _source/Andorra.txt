@@ -1,0 +1,80 @@
+{{Infobox country
+| conventional_long_name = Principality of Andorra<ref name="constitution">{{cite web|url=https://www.wipo.int/edocs/lexdocs/laws/en/ad/ad001en.pdf|title=Constitution of the Principality of Andorra|url-status=live|archive-url=https://web.archive.org/web/20190516152108/https://www.wipo.int/edocs/lexdocs/laws/en/ad/ad001en.pdf|archive-date=16 May 2019}}</ref>
+| common_name            = Andorra
+| native_name            = {{native name|ca|Principat d'Andorra}}{{nobold|<sup>a</sup>}}<ref name="constitution"/>
+| image_flag             = Flag of Andorra.svg
+| image_coat             = Coat of arms of Andorra.svg
+| symbol_type            = Coat of arms
+| national_motto         = ''Virtus Unita Fortior''<br />"United virtue is stronger"<ref>{{cite web|url=https://www.worldatlas.com/webimage/countrys/europe/andorra/adsymbols.htm|title=Andorran Symbols|publisher=WorldAtlas}}</ref>
+| national_anthem        = {{native name|ca|[[El Gran Carlemany]]}}<br />"The Great Charlemagne"<div style="padding-top:0.5em;">[[File:El Gran Carlemany.ogg|center]]</div>
+| image_map              = Location Andorra Europe.png
+| map_caption            = {{map caption |location_color=centre of green circle |region=Europe |region_color=dark grey |legend=Location Andorra Europe.png}}
+| image_map2             = 
+| capital                = [[Andorra la Vella]]
+| coordinates            = {{coord|42|30|N|1|31|E|display=inline,title}}
+| largest_city           = capital
+| official_languages     = [[Catalan language|Catalan]]<ref name="constitution"/><sup>b</sup>
+| ethnic_groups          = 48.8% Andorran<br />25.1% Spanish<br />12% Portuguese<br />4.4% French<br />9.7% others
+| ethnic_groups_year = 2017<ref name="cia"/>
+| religion               = [[Roman Catholicism]]<ref>{{cite book|title=Religion and Contemporary Politics: A Global Encyclopedia [2 volumes] |isbn=9781440839337|year=2019|publisher=[[ABC-CLIO]]}}</ref><ref>{{cite book|first1=Jeroen|last1= Temperman|title=State–Religion Relationships and Human Rights Law: Towards a Right to Religiously Neutral Governance|publisher=BRILL|year=2010|isbn=9789004181496|quote=...guarantees the Roman Catholic Church free and public exercise of its activities and the preservation of the relations of special co-operation with the state in accordance with the Andorran tradition. The Constitution recognizes the full legal capacity of the bodies of the Roman Catholic Church which have legal status in accordance with their own rules.}}</ref>
+| demonym                = [[List of Andorrans|Andorran]]
+| government_type        = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]}} [[Elective monarchy|semi-elective]] [[diarchy]]
+| leader_title1          = [[Co-Princes of Andorra|Co-Princes]]
+| leader_name1           = [[Joan Enric Vives Sicília]]<br>[[Emmanuel Macron]]
+| leader_title2          = [[List of Representatives of the Co-Princes of Andorra|Representatives]]
+| leader_name2           = [[Josep Maria Mauri]]<br>[[Patrick Strzoda]]
+| leader_title3          = [[Head of Government of Andorra|Prime Minister]]
+| leader_name3           = [[Xavier Espot Zamora]]
+| leader_title4          = [[List of General Syndics of the General Council|General Syndic]]
+| leader_name4           = [[Roser Suñé Pascuet]]
+| legislature            = [[General Council (Andorra)|General Council]]
+| sovereignty_type       = Independence
+| established_event1     = from [[Crown of Aragon|Aragon]]
+| established_date1      = [[Paréage of Andorra 1278|8 September 1278]]<ref>{{cite web | url=https://www.cultura.ad/historia-d-andorra |title = Història d'Andorra|language=ca|website=Cultura.ad|accessdate=26 March 2019}}</ref><ref>{{cite web | url=https://www.enciclopedia.cat/EC-GEC-0003858.xml |title = Andorra|language=ca|website=Enciclopèdia.cat|accessdate=26 March 2019}}</ref>
+| established_event2     = from the [[Sègre (department)|French Empire]]
+| established_date2      = 1814
+| established_event3     = [[Constitution of Andorra|Constitution]]
+| established_date3      = 2 February 1993
+| area_km2               = 467.63
+| area_rank = 178th
+| area_sq_mi             = 180.55
+| percent_water          = 0.26 (121.4 [[hectares|ha]]<!-- Not including areas of rivers -->)<sup>c</sup>
+| population_estimate    = {{increase}} 77,543<ref>{{cite web |url=http://citypopulation.de/en/andorra/|title=Population on 31 December|access-date=1 April 2020}}</ref>
+| population_estimate_rank = 203rd
+| population_estimate_year = 2020
+| population_census_year = 2014
+| population_density_km2 = 179.8
+| population_density_sq_mi = 465.7
+| population_density_rank = 71st
+| GDP_nominal            = $3.237 billion<ref>[https://data.worldbank.org/country/andorra?view=chart Data in ''GDP'' from the World Bank]</ref>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 
+| GDP_nominal_per_capita = $42,035
+| GDP_nominal_per_capita_rank = 
+| Gini                   = 27.21
+| Gini_year = 2003
+| Gini_ref               = <sup>d</sup>
+| HDI                    = 0.857<!-- number only -->
+| HDI_year = 2018 <!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change             = increase<!-- increase/decrease/steady -->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF}}</ref>
+| HDI_rank = 36th
+| currency               = [[Euro]]<sup>e</sup>
+| currency_code          = EUR
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +01
+| utc_offset_DST         = +02
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| drives_on              = right<ref name="DRIVESIDE">{{cite web |url=http://whatsideofroad.com/ad/ |title=What side of the road do they drive on in Andorra |accessdate=19 March 2019 }}{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| calling_code           = [[Telephone numbers in Andorra|+376]]
+| cctld                  = [[.ad]]<sup>f</sup>
+| footnote_a             = [http://www.andorramania.com/constit_gb.htm Constitution of Andorra]. In Spanish and Portuguese: ''Principado de Andorra'', in French: ''Principauté d'Andorre''.
+| footnote_b             = Spanish, Portuguese and French are spoken by a significant minority
+| footnote_c             = {{in lang|fr}} Girard P & Gomez P (2009), [http://www.lacsdespyrenees.com/vallee-Andorre.html Lacs des Pyrénées: Andorre].<ref>{{cite web |url=http://www.estadistica.ad/serveiestudis/publicacions/CD/Anuari/cat/pdf/xifres.PDF |archive-url=https://web.archive.org/web/20091113203301/http://www.estadistica.ad/serveiestudis/publicacions/CD/Anuari/cat/pdf/xifres.PDF |url-status = dead|archive-date=13 November 2009 |title=Andorra en xifres 2007: Situació geogràfica, Departament d'Estadística, Govern d'Andorra |accessdate=26 August 2012 }}</ref>
+| footnote_d             = Informe sobre l'estat de la pobresa i la desigualtat al Principal d'Andorra (2003)<ref>{{cite web |url=http://www.estadistica.ad/serveiestudis/publicacions/Publicacions/Pobresa.pdf |title=Informe sobre l'estat de la pobresa i la desigualtat al Principal d'Andorra (2003) |publisher=Estadistica.ad |accessdate=25 November 2012 |archive-url=https://web.archive.org/web/20130810122415/http://www.estadistica.ad/serveiestudis/publicacions/Publicacions/Pobresa.pdf |archive-date=10 August 2013 |url-status = dead}}</ref>
+| footnote_e             = Before 1999, the [[French franc]] and [[Spanish peseta]]; the coins and notes of both currencies, however, remained legal tender until 2002. Small amounts of [[Andorran diner]]s (divided into 100 centim) were minted after 1982.
+| footnote_f             = Also [[.cat]], shared with [[Països Catalans|Catalan-speaking territories]].
+| GDP_PPP                = 
+| GDP_PPP_year = 
+| today                  = 
+}}

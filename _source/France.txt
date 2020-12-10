@@ -1,7 +1,7 @@
 {{Infobox country
 | conventional_long_name      = French Republic
 | common_name                 = France
-| native_name                 = {{native name|fr|la République française|nbsp=omit}}<ref name="formal country name">{{cite web |title=France |url=https://unstats.un.org/unsd/geoinfo/geonames/ |website=UNGEGN World Geographical Names |publisher=United Nations Group of Experts on Geographical Names |access-date=27 November 2020 |location=New York, NY}}</ref>
+| native_name                 = {{native name|fr|République française|nbsp=omit}}<ref name="formal country name">{{cite web |title=France |url=https://unstats.un.org/unsd/geoinfo/geonames/ |website=UNGEGN World Geographical Names |publisher=United Nations Group of Experts on Geographical Names |access-date=27 November 2020 |location=New York, NY}}</ref>
 
 | image_flag                  = Flag of France.svg
 | image_coat                  = Coat of arms of the French Republic.svg
@@ -80,7 +80,7 @@
 | population_data3            = {{increase}} 64,910,000 <ref>{{cite web|url=https://www.insee.fr/en/statistiques/serie/000436387|title=Demography – Population at the beginning of the month – Metropolitan France |year=2019|website=insee.fr|access-date=31 July 2019}}</ref> ([[List of countries and dependencies by population|22nd]])
 | population_density_km2      = 116
 | population_density_sq_mi    = 301 <!-- Do not remove per [[Wikipedia:Manual of Style/Dates and numbers|WP:MOSNUM]] -->
-| pop_den_footnote            =
+| pop_den_footnote            = 
 | population_density_rank     = 89th
 
 | GDP_PPP                     = {{increase}} US$2.954 trillion <ref name="IMFWEOFR">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=132,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, October 2020|publisher=International Monetary Fund |website=imf.org|access-date=20 October 2020}}</ref>
@@ -98,7 +98,7 @@
 | Gini_year                   = 2018
 | Gini_change                 = decrease <!-- increase/decrease/steady -->
 | Gini_ref                    = <ref>{{cite web|url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tessi190&plugin=1|title=Gini coefficient of equivalised disposable income – EU-SILC survey|publisher=Eurostat|website=ec.europa.eu/eurostat|access-date=15 October 2019}}</ref>
-| Gini_rank                   =
+| Gini_rank                   = 
 
 | HDI                         = 0.891 <!-- number only -->
 | HDI_year                    = 2018 <!-- Please use the year to which the data refers, not the publication year -->
@@ -122,5 +122,5 @@
 | calling_code                = [[Telephone numbers in France|+33]]{{efn-ur|name=eleven|The overseas regions and collectivities form part of the [[Telephone numbers in France|French telephone numbering plan]], but have their own country calling codes: [[Guadeloupe]] +590; [[Martinique]] +596; [[French Guiana]] +594, [[Réunion]] and [[Mayotte]] +262; [[Saint Pierre and Miquelon]] +508. The overseas territories are not part of the French telephone numbering plan; their country calling codes are: [[New Caledonia]] +687, [[French Polynesia]] +689; [[Wallis and Futuna]] +681}}
 | cctld                       = [[.fr]]{{efn-ur|name=ten|In addition to [[.fr]], several other Internet TLDs are used in French overseas ''départements'' and territories: [[.re]], [[.mq]], [[.gp]], [[.tf]], [[.nc]], [[.pf]], [[.wf]], [[.pm]], [[.gf]] and [[.yt]]. France also uses [[.eu]], shared with other members of the European Union. The [[.cat]] domain is used in [[Catalan Countries|Catalan-speaking territories]].}}
 | footnotes                   = Source gives area of metropolitan France as 551,500 km<sup>2</sup> (212,900 sq mi) and lists overseas regions separately, whose areas sum to 89,179 km<sup>2</sup> (34,432 sq mi). Adding these give the total shown here for the entire French Republic. The CIA reports the total as 643,801 km<sup>2</sup> (248,573 sq mi).
-| today                       =
+| today                       = 
 }}
