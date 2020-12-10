@@ -234,20 +234,19 @@ resulting in:
 }
 ```
 
-Note: All country profiles use the original wikipedia
-page name e.g.:
+
+Note: All country profiles always use the original wikipedia
+page name - most of the time that's the name you kind of expected BUT
+beware of some "outliers" with qualifiers (e.g. (country)) 
+or with official names (e.g. Republic of ...) or even island collectives with commas (,) e.g.:
+
 
 | Dataset  |   Page  |
 |----------|---------|
 | `Austria.json` | => [Austria](https://en.wikipedia.org/wiki/Austria) |
 | `Belgium.json` | => [Belgium](https://en.wikipedia.org/wiki/Belgium) |
- 
-kind of expected but also "outliers" with qualifiers (e.g. (country)) 
-or with official names (e.g. Republic of ...) or even island collectives with commas (,) e.g.:
-
-| Dataset  |   Page  |
-|----------|---------|
 | `Georgia_(country).json` | => [Georgia (country)](https://en.wikipedia.org/wiki/Georgia_(country)) |
+| `Republic_of_Ireland.json` | => [Republic of Ireland](https://en.wikipedia.org/wiki/Republic_of_Ireland) |
 | `Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina.json` | =>  [Archipelago of San Andrés, Providencia and Santa Catalina](https://en.wikipedia.org/wiki/Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina) |
 
 and so on.
