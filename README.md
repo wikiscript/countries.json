@@ -237,8 +237,11 @@ resulting in:
 Note: All country profiles use the original wikipedia
 page name e.g `Austria.json` for [Austria](https://en.wikipedia.org/wiki/Austria),
 `Belgium.json` for [Belgium](https://en.wikipedia.org/wiki/Belgium),
+ kind of expected but also   
+`Georgia_(country).json` for [Georgia (country)](https://en.wikipedia.org/wiki/Georgia_(country)) or
+`Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina.json` 
+for [Archipelago of San Andrés, Providencia and Santa Catalina](https://en.wikipedia.org/wiki/Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina)
 and so on.
-
 
 
 ...
